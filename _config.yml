@@ -1,0 +1,18 @@
+title: PitBoss
+description: Unofficial Chrome extension for Heat Pedal to the Metal on Board Game Arena. Free during the beta.
+url: https://pitboss-support.github.io
+baseurl: "/PitBoss"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: pretty
+exclude:
+  - README.md
+  - .github
+  - .gitignore
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

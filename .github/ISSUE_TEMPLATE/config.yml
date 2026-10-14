@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Email support
+    url: mailto:pitbosssupport@gmail.com
+    about: Reach PitBoss support by email
+  - name: Documentation
+    url: https://pitboss-support.github.io/PitBoss/
+    about: Install, how to use, FAQ, and privacy

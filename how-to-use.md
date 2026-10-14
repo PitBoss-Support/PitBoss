@@ -42,6 +42,8 @@ Default order is below. Each section notes whether it is on or off by default. S
 
 During the garage draft: draft status, your picks, and a MARKET table ranking each module on offer per track, with an AVG column for several tracks and the top suggestion highlighted.
 
+Lower rank is better; 1 is best. On the 10 base tracks, each track column is the module's rank out of 65 by average finishing position over 500 simulated games, AVG is the mean of those ranks, and the suggestion is the best-ranked module on offer. On other tracks, HeatAI scores the modules instead (higher is better), shows up to 3, and shows no rank numbers. See the [FAQ]({{ '/faq/' | relative_url }}#how-are-garage-modules-ranked).
+
 After the draft: your modules as chips. A played module is marked `Played — in discard`.
 
 ### Engine (on)
@@ -64,7 +66,7 @@ The move suggested by the built-in HeatAI model, with the stage, `HeatAI thinkin
 - **No valid moves found** appears when nothing is playable.
 - Empty during the garage draft.
 
-Tag meanings: details coming soon. See the [FAQ]({{ '/faq/' | relative_url }}#what-do-the-heatai-tags-mean).
+Chips on the top suggestion are judged against the next corner ahead. **SPIN** means the move would spin you out, because the Heat owed for going over the corner's limit is more than the Heat you have left. **PAY-HEAT** means you get past the corner without spinning but pay Heat for going over the limit. **UNDER** means you get past the corner within the limit and pay no Heat. **SHORT** means the move doesn't get past the corner; landing exactly on the corner space still counts as short. See the [FAQ]({{ '/faq/' | relative_url }}#what-do-the-heatai-tags-mean).
 
 ### Draw Deck (on)
 
@@ -89,7 +91,7 @@ Your current hand.
 
 The next corner's distance (`+N`), limit, `~N` turns, and a mode badge `CRUISE` / `SETUP` / `APPROACH`. Options are compared on Heat or Cross/Spin/Heat.
 
-Badge meanings: details coming soon. See the [FAQ]({{ '/faq/' | relative_url }}#what-do-cruise-setup-and-approach-mean).
+Badges are based on expected turns to the next corner without boosting. **CRUISE** is 2.5 or more turns away, and **SETUP** is 1.5 to 2.5 turns away; both are about pace and saving Heat. **APPROACH** is less than 1.5 turns away; the columns switch to Cross / Spin / Heat and spin-risk rows show. See the [FAQ]({{ '/faq/' | relative_url }}#what-do-cruise-setup-and-approach-mean).
 
 ## On the board {#on-the-board}
 

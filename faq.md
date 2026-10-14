@@ -44,13 +44,33 @@ They are off by default. Turn them on under HUD Sections.
 
 ## What do the HeatAI tags mean? {#what-do-the-heatai-tags-mean}
 
-HeatAI suggestions can show the tags `SHORT`, `PAY-HEAT`, `SPIN`, and `UNDER`. Details coming soon.
+Chips on the top HeatAI suggestion are judged against the next corner ahead:
+
+- **SPIN** means the move would spin you out, because the Heat owed for going over the corner's limit is more than the Heat you have left.
+- **PAY-HEAT** means you get past the corner without spinning but pay Heat for going over the limit.
+- **UNDER** means you get past the corner within the limit and pay no Heat.
+- **SHORT** means the move doesn't get past the corner. Landing exactly on the corner space still counts as short.
 
 Ask HeatAI gives a fresh suggestion. `No valid moves found` means nothing is playable. The section is empty during the garage draft.
 
 ## What do CRUISE, SETUP, and APPROACH mean? {#what-do-cruise-setup-and-approach-mean}
 
-They are mode badges on Corner Advisor, next to the upcoming corner. Details coming soon.
+Corner Advisor badges are based on expected turns to the next corner without boosting.
+
+- **CRUISE** is 2.5 or more turns away.
+- **SETUP** is 1.5 to 2.5 turns away.
+
+CRUISE and SETUP are both about pace and saving Heat.
+
+**APPROACH** is less than 1.5 turns away. The columns switch to Cross / Spin / Heat, and spin-risk rows show.
+
+## How are garage modules ranked? {#how-are-garage-modules-ranked}
+
+Lower is better. 1 is best.
+
+On the 10 base tracks, each track column is the module's rank out of 65 by average finishing position over 500 simulated games. AVG is the mean of those ranks. The suggestion is the best-ranked module on offer.
+
+On other tracks, HeatAI scores the modules instead (higher is better), shows up to 3, and shows no rank numbers.
 
 ## The panel looks wrong, or card counts do not match {#the-panel-looks-wrong-or-card-counts-do-not-match}
 

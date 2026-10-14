@@ -12,7 +12,9 @@ permalink: /support/
 
 ## GitHub Issues
 
-Open an issue on this repository. Please use the **bug report** template. It asks for:
+The extension's **Report a bug** link opens a new issue on this repository: [https://github.com/PitBoss-Support/PitBoss/issues/new](https://github.com/PitBoss-Support/PitBoss/issues/new).
+
+You can also open an issue from here. Please use the **bug report** template. It asks for:
 
 - PitBoss version
 - BGA table number

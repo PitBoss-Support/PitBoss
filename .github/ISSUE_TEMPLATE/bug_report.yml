@@ -1,0 +1,48 @@
+name: Bug report
+description: Report a problem with PitBoss
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report.
+
+        If card counts look wrong or the panel lost sync, reload the BGA tab first. If it stays wrong, click **Reset** (clears saved tracking for that table and reloads).
+
+        Include a **Copy Diagnostic Dump** when you can (Options → Help). Shift+click the PitBoss title to show diagnostics for bug reports.
+  - type: input
+    id: version
+    attributes:
+      label: PitBoss version
+      description: Shown in the panel header (for example 0.9.0).
+      placeholder: "0.9.0"
+    validations:
+      required: true
+  - type: input
+    id: table
+    attributes:
+      label: BGA table number
+      description: From the table URL or the PitBoss toolbar popup.
+      placeholder: "123456789"
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What you expected, what you saw, and steps to reproduce if you have them.
+      placeholder: |
+        Expected:
+        Saw:
+        Steps:
+    validations:
+      required: true
+  - type: textarea
+    id: dump
+    attributes:
+      label: Copy Diagnostic Dump (optional)
+      description: From Options → Help, use Copy Diagnostic Dump and paste it here.
+      render: text
+    validations:
+      required: false

@@ -32,6 +32,8 @@ The only thing PitBoss sends over the network is **crash reports**, and only if 
 
 PitBoss asks once. Nothing is sent unless you say yes. You can change this in Options (**Send crash reports** is off until you say yes).
 
+If you opt in, crash reports are kept for 90 days.
+
 If you opt in, a crash or card-count problem sends **one note** to the developer's Google Apps Script web app. That note contains:
 
 - Type (`crash` or `warning`)

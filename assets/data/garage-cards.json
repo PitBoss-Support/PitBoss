@@ -5,14 +5,14 @@
   },
   "tracks": [
     {
-      "id": "gb",
-      "name": "Great Britain",
-      "short": "GB"
-    },
-    {
       "id": "usa",
       "name": "USA",
       "short": "USA"
+    },
+    {
+      "id": "gb",
+      "name": "Great Britain",
+      "short": "GB"
     },
     {
       "id": "italia",

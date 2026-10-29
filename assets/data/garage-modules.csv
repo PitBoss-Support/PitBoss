@@ -1,0 +1,66 @@
+card_type,module,module_kind,card_set,speed,symbols,details,display_label,effect_text,symbols_list,bga_category,bga_expansion
+1,4 wheel drive,basic upgrade,0,4,boost 1,Speed 4 · boost 1,"4 wheel drive (4, boost)","(4, boost)",boost×1,basic_upgrade,
+2,4 wheel drive,basic upgrade,0,0,boost 3,Speed 0 · boost 3,"4 wheel drive (0, boost)","(0, boost)",boost×3,basic_upgrade,
+3,4 wheel drive,basic upgrade,0,0,boost 1; cooldown 3,Speed 0 · boost 1 · cooldown 3,"4 wheel drive (0, cooldown, boost)","(0, cooldown, boost)",boost×1 cooldown×3,basic_upgrade,
+4,Body,basic upgrade,0,3,reduce 2,Speed 3 · reduce 2,"Body (3, −stress)","(3, −stress)",reduce×2,basic_upgrade,
+5,Body,basic upgrade,0,5,reduce 1,Speed 5 · reduce 1,"Body (5, −stress)","(5, −stress)",reduce×1,basic_upgrade,
+6,Body,basic upgrade,0,1,reduce 3,Speed 1 · reduce 3,"Body (1, −stress)","(1, −stress)",reduce×3,basic_upgrade,
+7,Brakes,basic upgrade,0,"[1, 2, 3, 4]",heat 1,"Speed [1, 2, 3, 4] · heat 1","Brakes (1–4, heat)","(1–4, heat)",heat×1,basic_upgrade,
+8,Brakes,basic upgrade,0,"[1, 3]",,"Speed [1, 3]",Brakes (1–3),(1–3),,basic_upgrade,
+9,Brakes,basic upgrade,0,"[2, 4]",,"Speed [2, 4]",Brakes (2–4),(2–4),,basic_upgrade,
+10,Brakes,basic upgrade,0,"[1, 5]",,"Speed [1, 5]",Brakes (1–5),(1–5),,basic_upgrade,
+11,Cooling system,basic upgrade,0,6,heat 1; cooldown 1,Speed 6 · heat 1 · cooldown 1,"Cooling system (6, cooldown, heat)","(6, cooldown, heat)",heat×1 cooldown×1,basic_upgrade,
+12,Cooling system,basic upgrade,0,1,cooldown 2,Speed 1 · cooldown 2,"Cooling system (1, cooldown)","(1, cooldown)",cooldown×2,basic_upgrade,
+13,Cooling system,basic upgrade,0,3,cooldown 1,Speed 3 · cooldown 1,"Cooling system (3, cooldown)","(3, cooldown)",cooldown×1,basic_upgrade,
+14,R.P.M.,basic upgrade,0,1,slipstream 2,Speed 1 · slipstream 2,"R.P.M. (1, slipstream)","(1, slipstream)",slipstream×2,basic_upgrade,
+15,R.P.M.,basic upgrade,0,2,slipstream 2,Speed 2 · slipstream 2,"R.P.M. (2, slipstream)","(2, slipstream)",slipstream×2,basic_upgrade,
+16,R.P.M.,basic upgrade,0,3,slipstream 2,Speed 3 · slipstream 2,"R.P.M. (3, slipstream)","(3, slipstream)",slipstream×2,basic_upgrade,
+17,Upgrade Heat,heat card,0,0,,Heat card (no speed/symbols); type 48 is its advanced-set alias,Upgrade Heat (#17),,,heat,
+18,Body,advanced upgrade,0,6,reduce 3; heat 1,Speed 6 · reduce 3 · heat 1,"Body (6, −stress, heat)","(6, −stress, heat)",reduce×3 heat×1,advanced_upgrade,
+19,Body,advanced upgrade,0,2,reduce 1; cooldown 1; scrap 2,Speed 2 · reduce 1 · cooldown 1 · scrap 2,"Body (2, −stress, cooldown, scrap)","(2, −stress, cooldown, scrap)",reduce×1 cooldown×1 scrap×2,advanced_upgrade,
+20,Body,advanced upgrade,0,2,reduce 1; slipstream 1,Speed 2 · reduce 1 · slipstream 1,"Body (2, −stress, slipstream)","(2, −stress, slipstream)",reduce×1 slipstream×1,advanced_upgrade,
+21,Cooling system,advanced upgrade,0,4,scrap 2; cooldown 1,Speed 4 · scrap 2 · cooldown 1,"Cooling system (4, cooldown, scrap)","(4, cooldown, scrap)",scrap×2 cooldown×1,advanced_upgrade,
+22,Fuel,advanced upgrade,0,2,salvage 2,Speed 2 · salvage 2,"Fuel (2, salvage)","(2, salvage)",salvage×2,advanced_upgrade,
+23,Fuel,advanced upgrade,0,0,boost 1; salvage 2; cooldown 1,Speed 0 · boost 1 · salvage 2 · cooldown 1,"Fuel (0, cooldown, boost, salvage)","(0, cooldown, boost, salvage)",boost×1 salvage×2 cooldown×1,advanced_upgrade,
+24,Gas pedal,advanced upgrade,0,1,direct 1; scrap 1,Speed 1 · direct 1 · scrap 1,"Gas pedal (1, scrap, direct)","(1, scrap, direct)",direct×1 scrap×1,advanced_upgrade,
+25,Gas pedal,advanced upgrade,0,2,direct 1; scrap 2,Speed 2 · direct 1 · scrap 2,"Gas pedal (2, scrap, direct)","(2, scrap, direct)",direct×1 scrap×2,advanced_upgrade,
+26,Gas pedal,advanced upgrade,0,3,direct 1; scrap 3,Speed 3 · direct 1 · scrap 3,"Gas pedal (3, scrap, direct)","(3, scrap, direct)",direct×1 scrap×3,advanced_upgrade,
+27,Gas pedal,advanced upgrade,0,4,direct 1; heat 1; cooldown 1,Speed 4 · direct 1 · heat 1 · cooldown 1,"Gas pedal (4, cooldown, direct, heat)","(4, cooldown, direct, heat)",direct×1 heat×1 cooldown×1,advanced_upgrade,
+28,Gas pedal,advanced upgrade,0,1,direct 1; accelerate 1; scrap 5,Speed 1 · direct 1 · accelerate 1 · scrap 5,"Gas pedal (1, scrap, direct, accelerate)","(1, scrap, direct, accelerate)",direct×1 accelerate×1 scrap×5,advanced_upgrade,
+29,R.P.M.,advanced upgrade,0,0,boost 1; slipstream 3,Speed 0 · boost 1 · slipstream 3,"R.P.M. (0, boost, slipstream)","(0, boost, slipstream)",boost×1 slipstream×3,advanced_upgrade,
+30,R.P.M.,advanced upgrade,0,1,heat 1; slipstream 3,Speed 1 · heat 1 · slipstream 3,"R.P.M. (1, slipstream, heat)","(1, slipstream, heat)",heat×1 slipstream×3,advanced_upgrade,
+31,R.P.M.,advanced upgrade,0,"[1, 2]",slipstream 1,"Speed [1, 2] · slipstream 1","R.P.M. (1–2, slipstream)","(1–2, slipstream)",slipstream×1,advanced_upgrade,
+32,Suspension,advanced upgrade,0,2,refresh 1; reduce 1,Speed 2 · refresh 1 · reduce 1,"Suspension (2, −stress)","(2, −stress)",refresh×1 reduce×1,advanced_upgrade,
+33,Suspension,advanced upgrade,0,2,refresh 1; cooldown 1,Speed 2 · refresh 1 · cooldown 1,"Suspension (2, cooldown)","(2, cooldown)",refresh×1 cooldown×1,advanced_upgrade,
+34,Suspension,advanced upgrade,0,4,refresh 1,Speed 4 · refresh 1,Suspension (4),(4),refresh×1,advanced_upgrade,
+35,Suspension,advanced upgrade,0,1,refresh 1; slipstream 1,Speed 1 · refresh 1 · slipstream 1,"Suspension (1, slipstream)","(1, slipstream)",refresh×1 slipstream×1,advanced_upgrade,
+36,Tires,advanced upgrade,0,2,adjust -1; cooldown 3,Speed 2 · adjust -1 · cooldown 3,"Tires (2, cooldown, adjust↓)","(2, cooldown, adjust↓)",adjust×-1 cooldown×3,advanced_upgrade,
+37,Tires,advanced upgrade,0,1,scrap 2; adjust 1,Speed 1 · scrap 2 · adjust 1,"Tires (1, scrap, adjust↑)","(1, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+38,Tires,advanced upgrade,0,2,scrap 2; adjust 1,Speed 2 · scrap 2 · adjust 1,"Tires (2, scrap, adjust↑)","(2, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+39,Tires,advanced upgrade,0,3,adjust -1; cooldown 2,Speed 3 · adjust -1 · cooldown 2,"Tires (3, cooldown, adjust↓)","(3, cooldown, adjust↓)",adjust×-1 cooldown×2,advanced_upgrade,
+40,Tires,advanced upgrade,0,0,boost 1; adjust 1; slipstream 1; cooldown 1,Speed 0 · boost 1 · adjust 1 · slipstream 1 · cooldown 1,"Tires (0, cooldown, boost, adjust↑, slipstream)","(0, cooldown, boost, adjust↑, slipstream)",boost×1 adjust×1 slipstream×1 cooldown×1,advanced_upgrade,
+41,Tires,advanced upgrade,0,0,boost 2; adjust 2,Speed 0 · boost 2 · adjust 2,"Tires (0, boost, adjust↑)","(0, boost, adjust↑)",boost×2 adjust×2,advanced_upgrade,
+42,Turbo charger,advanced upgrade,0,7,heat 2; cooldown 3,Speed 7 · heat 2 · cooldown 3,"Turbo charger (7, cooldown, heat×2)","(7, cooldown, heat×2)",heat×2 cooldown×3,advanced_upgrade,
+43,Turbo charger,advanced upgrade,0,8,heat 1; scrap 6,Speed 8 · heat 1 · scrap 6,"Turbo charger (8, scrap, heat)","(8, scrap, heat)",heat×1 scrap×6,advanced_upgrade,
+44,Wings,advanced upgrade,0,4,heat 1; scrap 2; adjust 2,Speed 4 · heat 1 · scrap 2 · adjust 2,"Wings (4, scrap, adjust↑, heat)","(4, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+45,Wings,advanced upgrade,0,3,heat 1; scrap 2; adjust 2,Speed 3 · heat 1 · scrap 2 · adjust 2,"Wings (3, scrap, adjust↑, heat)","(3, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+46,Wings,advanced upgrade,0,6,heat 2; adjust 3,Speed 6 · heat 2 · adjust 3,"Wings (6, adjust↑, heat×2)","(6, adjust↑, heat×2)",heat×2 adjust×3,advanced_upgrade,
+47,4 wheel drive,advanced upgrade,0,0,boost 1; accelerate 1,Speed 0 · boost 1 · accelerate 1,"4 wheel drive (0, boost, accelerate)","(0, boost, accelerate)",boost×1 accelerate×1,advanced_upgrade,
+49,Air intake,advanced upgrade,1,1,super-cool 1; salvage 4; adjust -1,Speed 1 · super-cool 1 · salvage 4 · adjust -1,"Air intake (1, adjust↓, salvage, super-cool)","(1, adjust↓, salvage, super-cool)",super-cool×1 salvage×4 adjust×-1,advanced_upgrade,heavy-rain
+50,Air intake,advanced upgrade,1,0,super-cool 1; slipstream 1; reduce 1,Speed 0 · super-cool 1 · slipstream 1 · reduce 1,"Air intake (0, −stress, slipstream, super-cool)","(0, −stress, slipstream, super-cool)",super-cool×1 slipstream×1 reduce×1,advanced_upgrade,heavy-rain
+51,Air intake,advanced upgrade,1,1,super-cool 1; cooldown 1; scrap 1,Speed 1 · super-cool 1 · cooldown 1 · scrap 1,"Air intake (1, cooldown, scrap, super-cool)","(1, cooldown, scrap, super-cool)",super-cool×1 cooldown×1 scrap×1,advanced_upgrade,heavy-rain
+52,Air intake,advanced upgrade,1,3,super-cool 1; scrap 3,Speed 3 · super-cool 1 · scrap 3,"Air intake (3, scrap, super-cool)","(3, scrap, super-cool)",super-cool×1 scrap×3,advanced_upgrade,heavy-rain
+53,Air intake,advanced upgrade,1,4,super-cool 1; scrap 4,Speed 4 · super-cool 1 · scrap 4,"Air intake (4, scrap, super-cool)","(4, scrap, super-cool)",super-cool×1 scrap×4,advanced_upgrade,heavy-rain
+54,Air intake,advanced upgrade,1,0,boost 1; super-cool 1; refresh 1; adjust -1,Speed 0 · boost 1 · super-cool 1 · refresh 1 · adjust -1,"Air intake (0, boost, adjust↓, super-cool)","(0, boost, adjust↓, super-cool)",boost×1 super-cool×1 refresh×1 adjust×-1,advanced_upgrade,heavy-rain
+55,Front Wing,advanced upgrade,2,0,boost 1; draft 3,Speed 0 · boost 1 · draft 3,"Front Wing (0, boost, draft)","(0, boost, draft)",boost×1 draft×3,advanced_upgrade,tunnel-vision
+56,Front Wing,advanced upgrade,2,0,draft 1; direct 1; refresh 1,Speed 0 · draft 1 · direct 1 · refresh 1,"Front Wing (0, direct, draft)","(0, direct, draft)",draft×1 direct×1 refresh×1,advanced_upgrade,tunnel-vision
+57,Front Wing,advanced upgrade,2,2,draft 2; salvage 2; scrap 5,Speed 2 · draft 2 · salvage 2 · scrap 5,"Front Wing (2, scrap, salvage, draft)","(2, scrap, salvage, draft)",draft×2 salvage×2 scrap×5,advanced_upgrade,tunnel-vision
+58,Front Wing,advanced upgrade,2,3,draft 1; adjust 1; scrap 3,Speed 3 · draft 1 · adjust 1 · scrap 3,"Front Wing (3, scrap, adjust↑, draft)","(3, scrap, adjust↑, draft)",draft×1 adjust×1 scrap×3,advanced_upgrade,tunnel-vision
+59,Front Wing,advanced upgrade,2,4,draft 1; refresh 1; scrap 4,Speed 4 · draft 1 · refresh 1 · scrap 4,"Front Wing (4, scrap, draft)","(4, scrap, draft)",draft×1 refresh×1 scrap×4,advanced_upgrade,tunnel-vision
+60,Front Wing,advanced upgrade,2,6,draft 2; heat 1,Speed 6 · draft 2 · heat 1,"Front Wing (6, draft, heat)","(6, draft, heat)",draft×2 heat×1,advanced_upgrade,tunnel-vision
+61,Sliding Skirts,advanced upgrade,3,0,boost 1; chain-aspiration 1; adjust 1; reduce 1,Speed 0 · boost 1 · chain-aspiration 1 · adjust 1 · reduce 1,"Sliding Skirts (0, −stress, boost, adjust↑, chain-aspiration)","(0, −stress, boost, adjust↑, chain-aspiration)",boost×1 chain-aspiration×1 adjust×1 reduce×1,advanced_upgrade,rocky-road
+62,Sliding Skirts,advanced upgrade,3,1,chain-aspiration 1; slipstream 1,Speed 1 · chain-aspiration 1 · slipstream 1,"Sliding Skirts (1, slipstream, chain-aspiration)","(1, slipstream, chain-aspiration)",chain-aspiration×1 slipstream×1,advanced_upgrade,rocky-road
+63,Sliding Skirts,advanced upgrade,3,1,chain-aspiration 1; refresh 1,Speed 1 · chain-aspiration 1 · refresh 1,"Sliding Skirts (1, chain-aspiration)","(1, chain-aspiration)",chain-aspiration×1 refresh×1,advanced_upgrade,rocky-road
+64,Sliding Skirts,advanced upgrade,3,2,chain-aspiration 1; direct 1,Speed 2 · chain-aspiration 1 · direct 1,"Sliding Skirts (2, direct, chain-aspiration)","(2, direct, chain-aspiration)",chain-aspiration×1 direct×1,advanced_upgrade,rocky-road
+65,Sliding Skirts,advanced upgrade,3,"[2, 3]",chain-aspiration 1,"Speed [2, 3] · chain-aspiration 1","Sliding Skirts (2–3, chain-aspiration)","(2–3, chain-aspiration)",chain-aspiration×1,advanced_upgrade,rocky-road
+66,Sliding Skirts,advanced upgrade,3,"[4, 6]",chain-aspiration 1; heat 1,"Speed [4, 6] · chain-aspiration 1 · heat 1","Sliding Skirts (4–6, chain-aspiration, heat)","(4–6, chain-aspiration, heat)",chain-aspiration×1 heat×1,advanced_upgrade,rocky-road

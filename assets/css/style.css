@@ -384,9 +384,9 @@ body {
 .pb-card-face {
   position: relative;
   display: inline-block;
-  height: 48px;
+  height: calc(48px * 1.3);
   aspect-ratio: 900 / 1451;
-  border-radius: 3px;
+  border-radius: 4px;
   background-image: url("../cards/upgrade-cards.jpg");
   background-size: 1000% 800%;
   background-repeat: no-repeat;
@@ -401,16 +401,26 @@ body {
   line-height: 1;
 }
 
+.rank-table td.speed-cell {
+  width: 1%;
+  font-variant-numeric: tabular-nums;
+}
+
 .pb-speed {
   font-variant-numeric: tabular-nums;
-  font-weight: 650;
-  min-width: 2rem;
-  text-align: left;
+  font-weight: 750;
+  letter-spacing: 0.01em;
+  line-height: 1;
+}
+
+.pb-speed--marks {
+  letter-spacing: 0.06em;
+  font-weight: 750;
 }
 
 .pb-speed--empty {
-  min-width: 0;
   font-weight: 500;
+  letter-spacing: 0;
   color: var(--muted);
 }
 

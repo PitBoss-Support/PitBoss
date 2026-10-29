@@ -13,7 +13,7 @@ No game state is uploaded to a PitBoss or HeatAI server for analysis.
 ## What runs locally
 
 - **AI** suggestions on your turn. The section can show tags such as SPIN, PAY-HEAT, UNDER, and SHORT. **Ask AI** requests a fresh suggestion. See [what the tags mean]({{ '/faq/' | relative_url }}#what-do-the-ai-tags-mean).
-- **Garage draft** ranks for the modules on offer. Published base-track scores are on [Garage by track]({{ '/garage-by-track/' | relative_url }}). Those sims may be newer than the file bundled in your extension until the next PitBoss update, and that page ranks by Overall Score rather than by the panel’s average-finish order.
+- **Garage draft** ranks for the modules on offer. Published base-track scores are on [Garage by track]({{ '/garage-by-track/' | relative_url }}). Those scores are absolute; compare cards within a column, and see that page’s methodology for why track ceilings differ. Those sims may be newer than the file bundled in your extension until the next PitBoss update, and that page ranks by Overall Score rather than by the panel’s average-finish order.
 - **Lookahead search** is a slower search that also runs in the browser, after the AI’s first pick. It shows its own line when the two disagree. In the current friends-beta build it is on until you turn it off under **Lookahead search (slower)** in Options.
 
 ## Crash reports

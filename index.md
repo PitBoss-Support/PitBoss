@@ -43,14 +43,14 @@ It runs on **Chrome** and **Brave** on the desktop (Chromium, Manifest V3). Fire
   </figure>
 </div>
 
-The garage draft is the panel's Garage Module: your picks, the market, and your garage. Base-track ranks are on [Garage by track]({{ '/garage-by-track/' | relative_url }}).
+The garage draft is the panel's Garage Module: your picks, the market, and your garage. Base-track scores are on [Garage by track]({{ '/garage-by-track/' | relative_url }}).
 
 ## On this site
 
 - [Install]({{ '/install/' | relative_url }}) — Unlisted Chrome Web Store friends beta for Chrome and Brave
 - [How to use]({{ '/how-to-use/' | relative_url }}) — the panel, each section, on-board features, warnings, and the toolbar popup
 - [How AI works]({{ '/how-ai-works/' | relative_url }}) — move suggestions and garage ranks run on your device
-- [Garage by track]({{ '/garage-by-track/' | relative_url }}) — base-track module ranks; may be newer than the in-game panel
+- [Garage by track]({{ '/garage-by-track/' | relative_url }}) — base-track card scores; order can differ from the in-game panel
 - [Settings]({{ '/settings/' | relative_url }}) — appearance, behaviour, storage, and help
 - [FAQ]({{ '/faq/' | relative_url }}) — common questions and troubleshooting
 - [Known limitations]({{ '/known-limitations/' | relative_url }}) — what the beta does not do yet

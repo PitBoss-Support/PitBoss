@@ -87,7 +87,7 @@ Lower is better. 1 is best.
 
 On the 10 base tracks, each track column is the module's rank out of 65 by average finishing position over 500 simulated games. AVG is the mean of those ranks. The suggestion is the best-ranked module on offer.
 
-The same base-track order is published on [Garage by track]({{ '/garage-by-track/' | relative_url }}). Those tables may be newer than the copy in your installed extension until the next PitBoss update. A live pick still depends on what is on offer and what you have already picked.
+The same sims are published as scores on [Garage by track]({{ '/garage-by-track/' | relative_url }}). That page ranks by Score (higher is better), including an average across the ten tracks, so its order can differ from the panel. The sims may also be newer than the copy in your installed extension until the next PitBoss update. A live pick still depends on what is on offer and what you have already picked.
 
 On other tracks, the AI scores the modules instead (higher is better), shows up to 3, and shows no rank numbers. There is no static table for those tracks.
 

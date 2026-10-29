@@ -42,7 +42,7 @@ Default order is below. Each section notes whether it is on or off by default. S
 
 During the garage draft: draft status, your picks, and a MARKET table ranking each module on offer per track, with an AVG column for several tracks and the top suggestion highlighted.
 
-Lower rank is better; 1 is best. On the 10 base tracks, each track column is the module's rank out of 65 by average finishing position over 500 simulated games, AVG is the mean of those ranks, and the suggestion is the best-ranked module on offer. On other tracks, the AI scores the modules instead (higher is better), shows up to 3, and shows no rank numbers. See the [FAQ]({{ '/faq/' | relative_url }}#how-are-garage-modules-ranked) and [Garage by track]({{ '/garage-by-track/' | relative_url }}). The published tables may be newer than the copy bundled in your extension.
+Lower rank is better; 1 is best. On the 10 base tracks, each track column is the module's rank out of 65 by average finishing position over 500 simulated games, AVG is the mean of those ranks, and the suggestion is the best-ranked module on offer. On other tracks, the AI scores the modules instead (higher is better), shows up to 3, and shows no rank numbers. See the [FAQ]({{ '/faq/' | relative_url }}#how-are-garage-modules-ranked) and [Garage by track]({{ '/garage-by-track/' | relative_url }}). That page scores the same sims and can disagree with this average-finish order. The sims may also be newer than the copy bundled in your extension.
 
 After the draft: your modules as chips. A played module is marked `Played — in discard`.
 

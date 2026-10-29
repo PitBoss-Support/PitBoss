@@ -353,7 +353,7 @@ body {
 }
 
 .rank-table {
-  width: 100%;
+  width: auto;
   border-collapse: collapse;
   font-size: 0.92rem;
 }
@@ -376,15 +376,28 @@ body {
   white-space: normal;
 }
 
-.rank-table td.module-cell {
-  width: 1%;
+.rank-table td.card-cell {
   line-height: 0;
+}
+
+.rank-table td.rank-cell,
+.rank-table td.score-cell {
+  font-variant-numeric: tabular-nums;
+}
+
+.rank-table th:last-child,
+.rank-table td.score-cell {
+  padding-left: 1.1rem;
+}
+
+.rank-table td.score-cell {
+  font-weight: 650;
 }
 
 .pb-card-face {
   position: relative;
   display: inline-block;
-  height: calc(48px * 1.3);
+  height: calc(48px * 1.3 * 1.3);
   aspect-ratio: 900 / 1451;
   border-radius: 4px;
   background-image: url("../cards/upgrade-cards.jpg");
@@ -402,7 +415,6 @@ body {
 }
 
 .rank-table td.speed-cell {
-  width: 1%;
   font-variant-numeric: tabular-nums;
 }
 
@@ -450,34 +462,68 @@ body {
   border: 0;
 }
 
-.track-ranks {
-  margin-bottom: 0.4rem;
+.garage-board {
+  margin: 1.15rem 0 0.4rem;
 }
 
-details.rank-more {
-  margin: 0.15rem 0 1.1rem;
+.track-filters {
+  border: 0;
+  margin: 0 0 0.7rem;
+  padding: 0;
+  min-inline-size: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.45rem;
+  align-items: center;
 }
 
-details.rank-more summary {
-  cursor: pointer;
+.track-filters legend {
+  flex-basis: 100%;
+  padding: 0;
+  margin: 0 0 0.1rem;
   font-weight: 650;
-  color: var(--link);
+  font-size: 0.95rem;
+  color: var(--ink);
 }
 
-details.rank-more .when-open {
-  display: none;
+.chip {
+  position: relative;
+  margin: 0;
 }
 
-details.rank-more[open] .when-closed {
-  display: none;
+.chip span {
+  display: inline-block;
+  padding: 0.28rem 0.72rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper);
+  color: var(--ink);
+  font-size: 0.88rem;
+  font-weight: 650;
+  line-height: 1.3;
 }
 
-details.rank-more[open] .when-open {
-  display: inline;
+.chip input {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  opacity: 0;
+  cursor: pointer;
 }
 
-.track-ranks:has(details[open]) .rank-preview {
-  display: none;
+.chip input:checked + span {
+  background: var(--accent);
+  border-color: #c98912;
+  color: var(--accent-ink);
+}
+
+.chip input:focus-visible + span {
+  outline: 2px solid var(--link);
+  outline-offset: 2px;
+}
+
+.chip:hover input:not(:checked) + span {
+  border-color: #c9bfae;
 }
 
 .toc {

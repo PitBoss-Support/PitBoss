@@ -1,651 +1,651 @@
-track_id,track_name,rank,card_type,module,avg_finish,podium_rate,sims
-gb,Great Britain,1,2,4 wheel drive,3.378,0.494,500
-gb,Great Britain,2,1,4 wheel drive,3.646,0.412,500
-gb,Great Britain,3,58,Front Wing,3.686,0.422,500
-gb,Great Britain,4,57,Front Wing,3.714,0.382,500
-gb,Great Britain,5,53,Air intake,3.772,0.368,500
-gb,Great Britain,6,40,Tires,3.806,0.364,500
-gb,Great Britain,7,43,Turbo charger,3.814,0.356,500
-gb,Great Britain,8,52,Air intake,3.842,0.356,500
-gb,Great Britain,9,21,Cooling system,3.882,0.342,500
-gb,Great Britain,10,10,Brakes,3.894,0.332,500
-gb,Great Britain,11,61,Sliding Skirts,3.902,0.312,500
-gb,Great Britain,12,51,Air intake,3.91,0.316,500
-gb,Great Britain,13,26,Gas pedal,3.916,0.328,500
-gb,Great Britain,14,9,Brakes,3.916,0.318,500
-gb,Great Britain,15,59,Front Wing,3.954,0.312,500
-gb,Great Britain,16,55,Front Wing,3.956,0.302,500
-gb,Great Britain,17,41,Tires,3.964,0.304,500
-gb,Great Britain,18,5,Body,3.968,0.336,500
-gb,Great Britain,19,38,Tires,3.982,0.29,500
-gb,Great Britain,20,28,Gas pedal,3.988,0.306,500
-gb,Great Britain,21,13,Cooling system,3.988,0.29,500
-gb,Great Britain,22,19,Body,3.994,0.296,500
-gb,Great Britain,23,47,4 wheel drive,3.996,0.304,500
-gb,Great Britain,24,65,Sliding Skirts,3.998,0.286,500
-gb,Great Britain,25,16,R.P.M.,4.008,0.3,500
-gb,Great Britain,26,8,Brakes,4.01,0.314,500
-gb,Great Britain,27,64,Sliding Skirts,4.016,0.29,500
-gb,Great Britain,28,11,Cooling system,4.016,0.286,500
-gb,Great Britain,29,12,Cooling system,4.028,0.306,500
-gb,Great Britain,30,25,Gas pedal,4.036,0.282,500
-gb,Great Britain,31,44,Wings,4.06,0.28,500
-gb,Great Britain,32,31,R.P.M.,4.062,0.284,500
-gb,Great Britain,33,33,Suspension,4.074,0.254,500
-gb,Great Britain,34,4,Body,4.084,0.274,500
-gb,Great Britain,35,50,Air intake,4.098,0.268,500
-gb,Great Britain,36,15,R.P.M.,4.106,0.248,500
-gb,Great Britain,37,14,R.P.M.,4.108,0.27,500
-gb,Great Britain,38,24,Gas pedal,4.116,0.254,500
-gb,Great Britain,39,56,Front Wing,4.122,0.266,500
-gb,Great Britain,40,34,Suspension,4.136,0.24,500
-gb,Great Britain,41,37,Tires,4.146,0.262,500
-gb,Great Britain,42,27,Gas pedal,4.148,0.228,500
-gb,Great Britain,43,3,4 wheel drive,4.154,0.246,500
-gb,Great Britain,44,39,Tires,4.156,0.25,500
-gb,Great Britain,45,20,Body,4.17,0.242,500
-gb,Great Britain,46,42,Turbo charger,4.174,0.232,500
-gb,Great Britain,47,60,Front Wing,4.178,0.224,500
-gb,Great Britain,48,23,Fuel,4.188,0.254,500
-gb,Great Britain,49,22,Fuel,4.194,0.238,500
-gb,Great Britain,50,32,Suspension,4.196,0.226,500
-gb,Great Britain,51,62,Sliding Skirts,4.202,0.244,500
-gb,Great Britain,52,45,Wings,4.206,0.228,500
-gb,Great Britain,53,63,Sliding Skirts,4.228,0.218,500
-gb,Great Britain,54,49,Air intake,4.242,0.208,500
-gb,Great Britain,55,29,R.P.M.,4.244,0.21,500
-gb,Great Britain,56,6,Body,4.246,0.212,500
-gb,Great Britain,57,17,Upgrade Heat,4.264,0.212,500
-gb,Great Britain,58,35,Suspension,4.294,0.204,500
-gb,Great Britain,59,54,Air intake,4.298,0.21,500
-gb,Great Britain,60,36,Tires,4.302,0.21,500
-gb,Great Britain,61,46,Wings,4.34,0.204,500
-gb,Great Britain,62,66,Sliding Skirts,4.344,0.19,500
-gb,Great Britain,63,18,Body,4.356,0.178,500
-gb,Great Britain,64,7,Brakes,4.41,0.162,500
-gb,Great Britain,65,30,R.P.M.,4.536,0.13,500
-usa,USA,1,1,4 wheel drive,2.054,0.868,500
-usa,USA,2,2,4 wheel drive,2.144,0.85,500
-usa,USA,3,53,Air intake,2.162,0.852,500
-usa,USA,4,5,Body,2.21,0.85,500
-usa,USA,5,52,Air intake,2.228,0.84,500
-usa,USA,6,13,Cooling system,2.25,0.83,500
-usa,USA,7,41,Tires,2.258,0.798,500
-usa,USA,8,51,Air intake,2.29,0.822,500
-usa,USA,9,58,Front Wing,2.294,0.82,500
-usa,USA,10,43,Turbo charger,2.294,0.816,500
-usa,USA,11,21,Cooling system,2.298,0.83,500
-usa,USA,12,10,Brakes,2.3,0.834,500
-usa,USA,13,28,Gas pedal,2.32,0.816,500
-usa,USA,14,9,Brakes,2.334,0.83,500
-usa,USA,15,11,Cooling system,2.362,0.812,500
-usa,USA,16,26,Gas pedal,2.366,0.804,500
-usa,USA,17,40,Tires,2.38,0.8,500
-usa,USA,18,19,Body,2.386,0.802,500
-usa,USA,19,47,4 wheel drive,2.408,0.808,500
-usa,USA,20,27,Gas pedal,2.41,0.796,500
-usa,USA,21,12,Cooling system,2.412,0.814,500
-usa,USA,22,38,Tires,2.414,0.814,500
-usa,USA,23,50,Air intake,2.42,0.818,500
-usa,USA,24,61,Sliding Skirts,2.426,0.788,500
-usa,USA,25,65,Sliding Skirts,2.428,0.812,500
-usa,USA,26,59,Front Wing,2.436,0.792,500
-usa,USA,27,64,Sliding Skirts,2.438,0.794,500
-usa,USA,28,57,Front Wing,2.44,0.79,500
-usa,USA,29,3,4 wheel drive,2.444,0.764,500
-usa,USA,30,24,Gas pedal,2.446,0.812,500
-usa,USA,31,8,Brakes,2.45,0.808,500
-usa,USA,32,23,Fuel,2.458,0.758,500
-usa,USA,33,4,Body,2.472,0.78,500
-usa,USA,34,39,Tires,2.48,0.762,500
-usa,USA,35,25,Gas pedal,2.498,0.782,500
-usa,USA,36,62,Sliding Skirts,2.536,0.754,500
-usa,USA,37,16,R.P.M.,2.538,0.768,500
-usa,USA,38,34,Suspension,2.542,0.762,500
-usa,USA,39,60,Front Wing,2.544,0.766,500
-usa,USA,40,29,R.P.M.,2.546,0.772,500
-usa,USA,41,66,Sliding Skirts,2.546,0.756,500
-usa,USA,42,42,Turbo charger,2.552,0.738,500
-usa,USA,43,31,R.P.M.,2.596,0.762,500
-usa,USA,44,49,Air intake,2.602,0.748,500
-usa,USA,45,37,Tires,2.606,0.752,500
-usa,USA,46,20,Body,2.622,0.746,500
-usa,USA,47,36,Tires,2.642,0.744,500
-usa,USA,48,22,Fuel,2.642,0.732,500
-usa,USA,49,54,Air intake,2.646,0.734,500
-usa,USA,50,33,Suspension,2.648,0.73,500
-usa,USA,51,55,Front Wing,2.65,0.722,500
-usa,USA,52,15,R.P.M.,2.664,0.72,500
-usa,USA,53,14,R.P.M.,2.666,0.716,500
-usa,USA,54,56,Front Wing,2.7,0.72,500
-usa,USA,55,18,Body,2.754,0.724,500
-usa,USA,56,32,Suspension,2.76,0.722,500
-usa,USA,57,44,Wings,2.782,0.69,500
-usa,USA,58,63,Sliding Skirts,2.81,0.69,500
-usa,USA,59,6,Body,2.824,0.692,500
-usa,USA,60,35,Suspension,2.846,0.668,500
-usa,USA,61,45,Wings,2.89,0.67,500
-usa,USA,62,17,Upgrade Heat,2.896,0.668,500
-usa,USA,63,7,Brakes,2.982,0.632,500
-usa,USA,64,46,Wings,3.114,0.614,500
-usa,USA,65,30,R.P.M.,3.156,0.584,500
-italia,Italia,1,2,4 wheel drive,2.182,0.822,500
-italia,Italia,2,1,4 wheel drive,2.226,0.84,500
-italia,Italia,3,53,Air intake,2.394,0.778,500
-italia,Italia,4,5,Body,2.436,0.76,500
-italia,Italia,5,52,Air intake,2.48,0.776,500
-italia,Italia,6,21,Cooling system,2.496,0.754,500
-italia,Italia,7,40,Tires,2.538,0.744,500
-italia,Italia,8,51,Air intake,2.554,0.73,500
-italia,Italia,9,11,Cooling system,2.56,0.73,500
-italia,Italia,10,43,Turbo charger,2.584,0.716,500
-italia,Italia,11,10,Brakes,2.586,0.748,500
-italia,Italia,12,41,Tires,2.594,0.7,500
-italia,Italia,13,13,Cooling system,2.608,0.746,500
-italia,Italia,14,58,Front Wing,2.644,0.718,500
-italia,Italia,15,26,Gas pedal,2.654,0.71,500
-italia,Italia,16,59,Front Wing,2.662,0.718,500
-italia,Italia,17,38,Tires,2.682,0.7,500
-italia,Italia,18,39,Tires,2.686,0.718,500
-italia,Italia,19,16,R.P.M.,2.688,0.712,500
-italia,Italia,20,42,Turbo charger,2.694,0.688,500
-italia,Italia,21,34,Suspension,2.704,0.686,500
-italia,Italia,22,47,4 wheel drive,2.706,0.696,500
-italia,Italia,23,19,Body,2.708,0.716,500
-italia,Italia,24,27,Gas pedal,2.724,0.702,500
-italia,Italia,25,57,Front Wing,2.74,0.692,500
-italia,Italia,26,25,Gas pedal,2.742,0.698,500
-italia,Italia,27,23,Fuel,2.75,0.698,500
-italia,Italia,28,4,Body,2.76,0.7,500
-italia,Italia,29,28,Gas pedal,2.764,0.662,500
-italia,Italia,30,9,Brakes,2.772,0.666,500
-italia,Italia,31,61,Sliding Skirts,2.774,0.686,500
-italia,Italia,32,8,Brakes,2.774,0.668,500
-italia,Italia,33,60,Front Wing,2.786,0.674,500
-italia,Italia,34,64,Sliding Skirts,2.786,0.67,500
-italia,Italia,35,55,Front Wing,2.798,0.7,500
-italia,Italia,36,3,4 wheel drive,2.798,0.656,500
-italia,Italia,37,33,Suspension,2.802,0.684,500
-italia,Italia,38,65,Sliding Skirts,2.812,0.674,500
-italia,Italia,39,24,Gas pedal,2.836,0.672,500
-italia,Italia,40,49,Air intake,2.846,0.68,500
-italia,Italia,41,50,Air intake,2.85,0.652,500
-italia,Italia,42,15,R.P.M.,2.86,0.66,500
-italia,Italia,43,31,R.P.M.,2.86,0.66,500
-italia,Italia,44,22,Fuel,2.884,0.63,500
-italia,Italia,45,29,R.P.M.,2.916,0.622,500
-italia,Italia,46,37,Tires,2.926,0.622,500
-italia,Italia,47,12,Cooling system,2.936,0.63,500
-italia,Italia,48,36,Tires,2.95,0.628,500
-italia,Italia,49,54,Air intake,2.998,0.602,500
-italia,Italia,50,18,Body,3.002,0.616,500
-italia,Italia,51,20,Body,3.002,0.612,500
-italia,Italia,52,14,R.P.M.,3.016,0.62,500
-italia,Italia,53,44,Wings,3.042,0.602,500
-italia,Italia,54,32,Suspension,3.054,0.602,500
-italia,Italia,55,45,Wings,3.056,0.58,500
-italia,Italia,56,56,Front Wing,3.066,0.61,500
-italia,Italia,57,66,Sliding Skirts,3.094,0.562,500
-italia,Italia,58,6,Body,3.128,0.558,500
-italia,Italia,59,35,Suspension,3.138,0.602,500
-italia,Italia,60,62,Sliding Skirts,3.158,0.57,500
-italia,Italia,61,46,Wings,3.184,0.556,500
-italia,Italia,62,63,Sliding Skirts,3.19,0.556,500
-italia,Italia,63,17,Upgrade Heat,3.352,0.514,500
-italia,Italia,64,7,Brakes,3.434,0.478,500
-italia,Italia,65,30,R.P.M.,3.626,0.44,500
-france,France,1,2,4 wheel drive,2.0,0.882,500
-france,France,2,58,Front Wing,2.104,0.876,500
-france,France,3,52,Air intake,2.202,0.86,500
-france,France,4,53,Air intake,2.208,0.834,500
-france,France,5,1,4 wheel drive,2.21,0.84,500
-france,France,6,38,Tires,2.228,0.85,500
-france,France,7,26,Gas pedal,2.242,0.828,500
-france,France,8,25,Gas pedal,2.306,0.832,500
-france,France,9,21,Cooling system,2.31,0.826,500
-france,France,10,51,Air intake,2.318,0.834,500
-france,France,11,37,Tires,2.34,0.806,500
-france,France,12,65,Sliding Skirts,2.344,0.826,500
-france,France,13,24,Gas pedal,2.352,0.788,500
-france,France,14,8,Brakes,2.358,0.812,500
-france,France,15,28,Gas pedal,2.37,0.81,500
-france,France,16,57,Front Wing,2.372,0.826,500
-france,France,17,9,Brakes,2.38,0.814,500
-france,France,18,59,Front Wing,2.382,0.8,500
-france,France,19,5,Body,2.382,0.798,500
-france,France,20,40,Tires,2.414,0.792,500
-france,France,21,4,Body,2.416,0.796,500
-france,France,22,19,Body,2.422,0.806,500
-france,France,23,64,Sliding Skirts,2.424,0.782,500
-france,France,24,13,Cooling system,2.43,0.782,500
-france,France,25,44,Wings,2.436,0.792,500
-france,France,26,16,R.P.M.,2.444,0.804,500
-france,France,27,43,Turbo charger,2.454,0.778,500
-france,France,28,10,Brakes,2.456,0.79,500
-france,France,29,31,R.P.M.,2.46,0.808,500
-france,France,30,61,Sliding Skirts,2.462,0.792,500
-france,France,31,34,Suspension,2.468,0.788,500
-france,France,32,50,Air intake,2.496,0.788,500
-france,France,33,20,Body,2.502,0.77,500
-france,France,34,22,Fuel,2.504,0.758,500
-france,France,35,47,4 wheel drive,2.51,0.778,500
-france,France,36,15,R.P.M.,2.554,0.766,500
-france,France,37,33,Suspension,2.558,0.75,500
-france,France,38,41,Tires,2.56,0.76,500
-france,France,39,55,Front Wing,2.562,0.768,500
-france,France,40,11,Cooling system,2.57,0.754,500
-france,France,41,45,Wings,2.582,0.752,500
-france,France,42,27,Gas pedal,2.586,0.74,500
-france,France,43,32,Suspension,2.594,0.728,500
-france,France,44,29,R.P.M.,2.638,0.732,500
-france,France,45,12,Cooling system,2.64,0.75,500
-france,France,46,49,Air intake,2.64,0.73,500
-france,France,47,56,Front Wing,2.644,0.738,500
-france,France,48,62,Sliding Skirts,2.648,0.746,500
-france,France,49,39,Tires,2.65,0.732,500
-france,France,50,14,R.P.M.,2.658,0.728,500
-france,France,51,23,Fuel,2.66,0.74,500
-france,France,52,60,Front Wing,2.674,0.72,500
-france,France,53,6,Body,2.694,0.738,500
-france,France,54,18,Body,2.696,0.718,500
-france,France,55,63,Sliding Skirts,2.7,0.742,500
-france,France,56,35,Suspension,2.712,0.698,500
-france,France,57,36,Tires,2.758,0.706,500
-france,France,58,66,Sliding Skirts,2.778,0.696,500
-france,France,59,3,4 wheel drive,2.778,0.694,500
-france,France,60,42,Turbo charger,2.8,0.7,500
-france,France,61,46,Wings,2.848,0.684,500
-france,France,62,54,Air intake,2.85,0.684,500
-france,France,63,17,Upgrade Heat,2.894,0.68,500
-france,France,64,7,Brakes,3.062,0.608,500
-france,France,65,30,R.P.M.,3.174,0.558,500
-japan,Japan,1,1,4 wheel drive,3.142,0.556,500
-japan,Japan,2,2,4 wheel drive,3.162,0.566,500
-japan,Japan,3,51,Air intake,3.182,0.564,500
-japan,Japan,4,53,Air intake,3.196,0.558,500
-japan,Japan,5,52,Air intake,3.208,0.558,500
-japan,Japan,6,13,Cooling system,3.242,0.532,500
-japan,Japan,7,40,Tires,3.256,0.526,500
-japan,Japan,8,41,Tires,3.282,0.536,500
-japan,Japan,9,11,Cooling system,3.286,0.498,500
-japan,Japan,10,38,Tires,3.296,0.51,500
-japan,Japan,11,58,Front Wing,3.302,0.514,500
-japan,Japan,12,50,Air intake,3.314,0.514,500
-japan,Japan,13,16,R.P.M.,3.314,0.492,500
-japan,Japan,14,5,Body,3.32,0.52,500
-japan,Japan,15,12,Cooling system,3.342,0.526,500
-japan,Japan,16,43,Turbo charger,3.354,0.492,500
-japan,Japan,17,21,Cooling system,3.37,0.5,500
-japan,Japan,18,31,R.P.M.,3.372,0.516,500
-japan,Japan,19,19,Body,3.384,0.494,500
-japan,Japan,20,47,4 wheel drive,3.384,0.492,500
-japan,Japan,21,55,Front Wing,3.394,0.478,500
-japan,Japan,22,39,Tires,3.4,0.482,500
-japan,Japan,23,25,Gas pedal,3.414,0.48,500
-japan,Japan,24,4,Body,3.416,0.49,500
-japan,Japan,25,26,Gas pedal,3.416,0.476,500
-japan,Japan,26,64,Sliding Skirts,3.416,0.472,500
-japan,Japan,27,24,Gas pedal,3.424,0.466,500
-japan,Japan,28,23,Fuel,3.444,0.478,500
-japan,Japan,29,15,R.P.M.,3.448,0.476,500
-japan,Japan,30,37,Tires,3.45,0.452,500
-japan,Japan,31,57,Front Wing,3.452,0.468,500
-japan,Japan,32,9,Brakes,3.464,0.464,500
-japan,Japan,33,61,Sliding Skirts,3.468,0.482,500
-japan,Japan,34,20,Body,3.47,0.464,500
-japan,Japan,35,28,Gas pedal,3.472,0.454,500
-japan,Japan,36,33,Suspension,3.48,0.47,500
-japan,Japan,37,56,Front Wing,3.492,0.45,500
-japan,Japan,38,10,Brakes,3.496,0.452,500
-japan,Japan,39,27,Gas pedal,3.5,0.436,500
-japan,Japan,40,8,Brakes,3.502,0.446,500
-japan,Japan,41,60,Front Wing,3.508,0.452,500
-japan,Japan,42,65,Sliding Skirts,3.512,0.44,500
-japan,Japan,43,66,Sliding Skirts,3.524,0.452,500
-japan,Japan,44,18,Body,3.546,0.414,500
-japan,Japan,45,49,Air intake,3.556,0.422,500
-japan,Japan,46,62,Sliding Skirts,3.556,0.402,500
-japan,Japan,47,59,Front Wing,3.572,0.43,500
-japan,Japan,48,6,Body,3.58,0.434,500
-japan,Japan,49,3,4 wheel drive,3.582,0.436,500
-japan,Japan,50,36,Tires,3.584,0.442,500
-japan,Japan,51,34,Suspension,3.586,0.43,500
-japan,Japan,52,32,Suspension,3.598,0.42,500
-japan,Japan,53,22,Fuel,3.6,0.41,500
-japan,Japan,54,14,R.P.M.,3.604,0.412,500
-japan,Japan,55,29,R.P.M.,3.628,0.418,500
-japan,Japan,56,42,Turbo charger,3.634,0.412,500
-japan,Japan,57,45,Wings,3.648,0.4,500
-japan,Japan,58,54,Air intake,3.65,0.41,500
-japan,Japan,59,35,Suspension,3.652,0.384,500
-japan,Japan,60,63,Sliding Skirts,3.666,0.372,500
-japan,Japan,61,44,Wings,3.726,0.358,500
-japan,Japan,62,17,Upgrade Heat,3.762,0.34,500
-japan,Japan,63,7,Brakes,3.794,0.34,500
-japan,Japan,64,46,Wings,3.81,0.336,500
-japan,Japan,65,30,R.P.M.,3.878,0.31,500
-mexico,Mexico,1,1,4 wheel drive,3.63,0.406,500
-mexico,Mexico,2,2,4 wheel drive,3.642,0.406,500
-mexico,Mexico,3,43,Turbo charger,3.9,0.318,500
-mexico,Mexico,4,26,Gas pedal,3.9,0.308,500
-mexico,Mexico,5,41,Tires,3.922,0.306,500
-mexico,Mexico,6,5,Body,3.93,0.288,500
-mexico,Mexico,7,38,Tires,3.938,0.274,500
-mexico,Mexico,8,53,Air intake,3.948,0.294,500
-mexico,Mexico,9,58,Front Wing,3.96,0.292,500
-mexico,Mexico,10,27,Gas pedal,3.968,0.304,500
-mexico,Mexico,11,51,Air intake,3.99,0.274,500
-mexico,Mexico,12,11,Cooling system,3.998,0.274,500
-mexico,Mexico,13,10,Brakes,4.002,0.278,500
-mexico,Mexico,14,64,Sliding Skirts,4.002,0.264,500
-mexico,Mexico,15,57,Front Wing,4.012,0.302,500
-mexico,Mexico,16,50,Air intake,4.036,0.272,500
-mexico,Mexico,17,40,Tires,4.056,0.256,500
-mexico,Mexico,18,28,Gas pedal,4.056,0.246,500
-mexico,Mexico,19,9,Brakes,4.066,0.264,500
-mexico,Mexico,20,16,R.P.M.,4.068,0.274,500
-mexico,Mexico,21,21,Cooling system,4.07,0.266,500
-mexico,Mexico,22,52,Air intake,4.076,0.276,500
-mexico,Mexico,23,20,Body,4.076,0.254,500
-mexico,Mexico,24,65,Sliding Skirts,4.082,0.262,500
-mexico,Mexico,25,13,Cooling system,4.084,0.256,500
-mexico,Mexico,26,66,Sliding Skirts,4.09,0.262,500
-mexico,Mexico,27,3,4 wheel drive,4.09,0.252,500
-mexico,Mexico,28,55,Front Wing,4.1,0.272,500
-mexico,Mexico,29,37,Tires,4.102,0.258,500
-mexico,Mexico,30,25,Gas pedal,4.104,0.266,500
-mexico,Mexico,31,4,Body,4.112,0.252,500
-mexico,Mexico,32,60,Front Wing,4.114,0.262,500
-mexico,Mexico,33,33,Suspension,4.12,0.238,500
-mexico,Mexico,34,47,4 wheel drive,4.124,0.24,500
-mexico,Mexico,35,18,Body,4.126,0.25,500
-mexico,Mexico,36,19,Body,4.126,0.248,500
-mexico,Mexico,37,39,Tires,4.136,0.242,500
-mexico,Mexico,38,8,Brakes,4.14,0.232,500
-mexico,Mexico,39,31,R.P.M.,4.146,0.24,500
-mexico,Mexico,40,12,Cooling system,4.146,0.228,500
-mexico,Mexico,41,24,Gas pedal,4.182,0.23,500
-mexico,Mexico,42,59,Front Wing,4.182,0.216,500
-mexico,Mexico,43,15,R.P.M.,4.19,0.22,500
-mexico,Mexico,44,23,Fuel,4.194,0.238,500
-mexico,Mexico,45,14,R.P.M.,4.2,0.214,500
-mexico,Mexico,46,54,Air intake,4.214,0.204,500
-mexico,Mexico,47,45,Wings,4.216,0.216,500
-mexico,Mexico,48,61,Sliding Skirts,4.216,0.21,500
-mexico,Mexico,49,34,Suspension,4.226,0.226,500
-mexico,Mexico,50,42,Turbo charger,4.23,0.22,500
-mexico,Mexico,51,22,Fuel,4.23,0.206,500
-mexico,Mexico,52,56,Front Wing,4.246,0.18,500
-mexico,Mexico,53,35,Suspension,4.262,0.196,500
-mexico,Mexico,54,32,Suspension,4.272,0.188,500
-mexico,Mexico,55,44,Wings,4.274,0.202,500
-mexico,Mexico,56,29,R.P.M.,4.284,0.184,500
-mexico,Mexico,57,7,Brakes,4.29,0.188,500
-mexico,Mexico,58,36,Tires,4.292,0.182,500
-mexico,Mexico,59,6,Body,4.312,0.174,500
-mexico,Mexico,60,62,Sliding Skirts,4.322,0.182,500
-mexico,Mexico,61,49,Air intake,4.324,0.176,500
-mexico,Mexico,62,63,Sliding Skirts,4.362,0.16,500
-mexico,Mexico,63,17,Upgrade Heat,4.378,0.148,500
-mexico,Mexico,64,46,Wings,4.408,0.148,500
-mexico,Mexico,65,30,R.P.M.,4.526,0.118,500
-espana,España,1,53,Air intake,3.142,0.568,500
-espana,España,2,58,Front Wing,3.2,0.596,500
-espana,España,3,52,Air intake,3.208,0.564,500
-espana,España,4,43,Turbo charger,3.278,0.546,500
-espana,España,5,26,Gas pedal,3.306,0.524,500
-espana,España,6,1,4 wheel drive,3.314,0.526,500
-espana,España,7,5,Body,3.372,0.502,500
-espana,España,8,28,Gas pedal,3.384,0.514,500
-espana,España,9,19,Body,3.416,0.482,500
-espana,España,10,38,Tires,3.424,0.492,500
-espana,España,11,9,Brakes,3.456,0.502,500
-espana,España,12,59,Front Wing,3.474,0.474,500
-espana,España,13,21,Cooling system,3.48,0.482,500
-espana,España,14,39,Tires,3.518,0.454,500
-espana,España,15,2,4 wheel drive,3.52,0.464,500
-espana,España,16,51,Air intake,3.526,0.446,500
-espana,España,17,57,Front Wing,3.532,0.466,500
-espana,España,18,10,Brakes,3.532,0.444,500
-espana,España,19,55,Front Wing,3.536,0.454,500
-espana,España,20,25,Gas pedal,3.544,0.426,500
-espana,España,21,65,Sliding Skirts,3.544,0.424,500
-espana,España,22,64,Sliding Skirts,3.548,0.438,500
-espana,España,23,41,Tires,3.55,0.442,500
-espana,España,24,34,Suspension,3.554,0.452,500
-espana,España,25,47,4 wheel drive,3.574,0.454,500
-espana,España,26,66,Sliding Skirts,3.576,0.428,500
-espana,España,27,50,Air intake,3.592,0.422,500
-espana,España,28,37,Tires,3.596,0.412,500
-espana,España,29,61,Sliding Skirts,3.6,0.438,500
-espana,España,30,40,Tires,3.612,0.43,500
-espana,España,31,13,Cooling system,3.626,0.422,500
-espana,España,32,60,Front Wing,3.632,0.442,500
-espana,España,33,16,R.P.M.,3.632,0.42,500
-espana,España,34,8,Brakes,3.632,0.416,500
-espana,España,35,31,R.P.M.,3.642,0.41,500
-espana,España,36,11,Cooling system,3.644,0.404,500
-espana,España,37,44,Wings,3.66,0.412,500
-espana,España,38,45,Wings,3.664,0.412,500
-espana,España,39,24,Gas pedal,3.668,0.404,500
-espana,España,40,20,Body,3.672,0.41,500
-espana,España,41,15,R.P.M.,3.68,0.402,500
-espana,España,42,4,Body,3.706,0.374,500
-espana,España,43,22,Fuel,3.71,0.382,500
-espana,España,44,49,Air intake,3.712,0.382,500
-espana,España,45,3,4 wheel drive,3.72,0.372,500
-espana,España,46,12,Cooling system,3.728,0.382,500
-espana,España,47,23,Fuel,3.734,0.38,500
-espana,España,48,14,R.P.M.,3.74,0.372,500
-espana,España,49,29,R.P.M.,3.742,0.362,500
-espana,España,50,62,Sliding Skirts,3.748,0.378,500
-espana,España,51,27,Gas pedal,3.752,0.382,500
-espana,España,52,18,Body,3.758,0.394,500
-espana,España,53,32,Suspension,3.76,0.36,500
-espana,España,54,33,Suspension,3.772,0.362,500
-espana,España,55,56,Front Wing,3.778,0.35,500
-espana,España,56,6,Body,3.8,0.366,500
-espana,España,57,36,Tires,3.804,0.378,500
-espana,España,58,42,Turbo charger,3.818,0.364,500
-espana,España,59,54,Air intake,3.82,0.34,500
-espana,España,60,35,Suspension,3.888,0.328,500
-espana,España,61,63,Sliding Skirts,3.89,0.316,500
-espana,España,62,7,Brakes,3.952,0.278,500
-espana,España,63,46,Wings,3.954,0.298,500
-espana,España,64,17,Upgrade Heat,4.0,0.29,500
-espana,España,65,30,R.P.M.,4.162,0.256,500
-nederland,Nederland,1,2,4 wheel drive,3.93,0.288,500
-nederland,Nederland,2,1,4 wheel drive,4.134,0.242,500
-nederland,Nederland,3,21,Cooling system,4.228,0.208,500
-nederland,Nederland,4,58,Front Wing,4.268,0.196,500
-nederland,Nederland,5,53,Air intake,4.276,0.192,500
-nederland,Nederland,6,52,Air intake,4.286,0.194,500
-nederland,Nederland,7,51,Air intake,4.294,0.196,500
-nederland,Nederland,8,43,Turbo charger,4.324,0.172,500
-nederland,Nederland,9,57,Front Wing,4.326,0.174,500
-nederland,Nederland,10,10,Brakes,4.328,0.184,500
-nederland,Nederland,11,41,Tires,4.334,0.18,500
-nederland,Nederland,12,40,Tires,4.338,0.196,500
-nederland,Nederland,13,13,Cooling system,4.338,0.178,500
-nederland,Nederland,14,9,Brakes,4.344,0.182,500
-nederland,Nederland,15,11,Cooling system,4.354,0.172,500
-nederland,Nederland,16,26,Gas pedal,4.386,0.166,500
-nederland,Nederland,17,5,Body,4.386,0.146,500
-nederland,Nederland,18,59,Front Wing,4.396,0.16,500
-nederland,Nederland,19,55,Front Wing,4.4,0.18,500
-nederland,Nederland,20,19,Body,4.4,0.16,500
-nederland,Nederland,21,12,Cooling system,4.416,0.16,500
-nederland,Nederland,22,16,R.P.M.,4.42,0.158,500
-nederland,Nederland,23,28,Gas pedal,4.422,0.14,500
-nederland,Nederland,24,38,Tires,4.44,0.14,500
-nederland,Nederland,25,65,Sliding Skirts,4.448,0.146,500
-nederland,Nederland,26,8,Brakes,4.454,0.136,500
-nederland,Nederland,27,61,Sliding Skirts,4.464,0.142,500
-nederland,Nederland,28,39,Tires,4.466,0.134,500
-nederland,Nederland,29,31,R.P.M.,4.466,0.132,500
-nederland,Nederland,30,15,R.P.M.,4.476,0.136,500
-nederland,Nederland,31,60,Front Wing,4.476,0.136,500
-nederland,Nederland,32,3,4 wheel drive,4.482,0.138,500
-nederland,Nederland,33,27,Gas pedal,4.488,0.134,500
-nederland,Nederland,34,34,Suspension,4.494,0.132,500
-nederland,Nederland,35,36,Tires,4.496,0.136,500
-nederland,Nederland,36,42,Turbo charger,4.5,0.132,500
-nederland,Nederland,37,47,4 wheel drive,4.502,0.13,500
-nederland,Nederland,38,4,Body,4.504,0.128,500
-nederland,Nederland,39,23,Fuel,4.506,0.13,500
-nederland,Nederland,40,37,Tires,4.512,0.114,500
-nederland,Nederland,41,44,Wings,4.516,0.126,500
-nederland,Nederland,42,50,Air intake,4.526,0.124,500
-nederland,Nederland,43,33,Suspension,4.532,0.12,500
-nederland,Nederland,44,64,Sliding Skirts,4.534,0.12,500
-nederland,Nederland,45,14,R.P.M.,4.534,0.114,500
-nederland,Nederland,46,25,Gas pedal,4.534,0.11,500
-nederland,Nederland,47,20,Body,4.536,0.114,500
-nederland,Nederland,48,29,R.P.M.,4.538,0.122,500
-nederland,Nederland,49,22,Fuel,4.548,0.124,500
-nederland,Nederland,50,62,Sliding Skirts,4.56,0.12,500
-nederland,Nederland,51,45,Wings,4.56,0.112,500
-nederland,Nederland,52,24,Gas pedal,4.566,0.102,500
-nederland,Nederland,53,54,Air intake,4.582,0.116,500
-nederland,Nederland,54,49,Air intake,4.584,0.098,500
-nederland,Nederland,55,18,Body,4.588,0.112,500
-nederland,Nederland,56,56,Front Wing,4.588,0.1,500
-nederland,Nederland,57,66,Sliding Skirts,4.606,0.094,500
-nederland,Nederland,58,6,Body,4.63,0.084,500
-nederland,Nederland,59,32,Suspension,4.632,0.084,500
-nederland,Nederland,60,17,Upgrade Heat,4.638,0.084,500
-nederland,Nederland,61,46,Wings,4.658,0.078,500
-nederland,Nederland,62,35,Suspension,4.664,0.072,500
-nederland,Nederland,63,63,Sliding Skirts,4.678,0.078,500
-nederland,Nederland,64,7,Brakes,4.68,0.072,500
-nederland,Nederland,65,30,R.P.M.,4.786,0.05,500
-deutschland,Deutschland,1,58,Front Wing,2.808,0.692,500
-deutschland,Deutschland,2,53,Air intake,2.852,0.696,500
-deutschland,Deutschland,3,5,Body,2.86,0.682,500
-deutschland,Deutschland,4,26,Gas pedal,2.872,0.672,500
-deutschland,Deutschland,5,9,Brakes,2.888,0.67,500
-deutschland,Deutschland,6,25,Gas pedal,2.898,0.658,500
-deutschland,Deutschland,7,1,4 wheel drive,2.922,0.65,500
-deutschland,Deutschland,8,64,Sliding Skirts,2.93,0.658,500
-deutschland,Deutschland,9,2,4 wheel drive,2.964,0.64,500
-deutschland,Deutschland,10,52,Air intake,2.974,0.614,500
-deutschland,Deutschland,11,38,Tires,2.984,0.63,500
-deutschland,Deutschland,12,8,Brakes,2.996,0.63,500
-deutschland,Deutschland,13,28,Gas pedal,2.998,0.622,500
-deutschland,Deutschland,14,65,Sliding Skirts,3.008,0.636,500
-deutschland,Deutschland,15,41,Tires,3.028,0.61,500
-deutschland,Deutschland,16,57,Front Wing,3.044,0.636,500
-deutschland,Deutschland,17,51,Air intake,3.046,0.618,500
-deutschland,Deutschland,18,40,Tires,3.052,0.606,500
-deutschland,Deutschland,19,13,Cooling system,3.066,0.61,500
-deutschland,Deutschland,20,19,Body,3.082,0.602,500
-deutschland,Deutschland,21,43,Turbo charger,3.088,0.606,500
-deutschland,Deutschland,22,61,Sliding Skirts,3.094,0.6,500
-deutschland,Deutschland,23,37,Tires,3.1,0.57,500
-deutschland,Deutschland,24,10,Brakes,3.104,0.614,500
-deutschland,Deutschland,25,21,Cooling system,3.12,0.6,500
-deutschland,Deutschland,26,27,Gas pedal,3.122,0.58,500
-deutschland,Deutschland,27,4,Body,3.124,0.606,500
-deutschland,Deutschland,28,50,Air intake,3.134,0.596,500
-deutschland,Deutschland,29,16,R.P.M.,3.162,0.568,500
-deutschland,Deutschland,30,24,Gas pedal,3.164,0.57,500
-deutschland,Deutschland,31,12,Cooling system,3.184,0.582,500
-deutschland,Deutschland,32,47,4 wheel drive,3.19,0.576,500
-deutschland,Deutschland,33,15,R.P.M.,3.204,0.568,500
-deutschland,Deutschland,34,11,Cooling system,3.206,0.586,500
-deutschland,Deutschland,35,56,Front Wing,3.212,0.572,500
-deutschland,Deutschland,36,39,Tires,3.212,0.548,500
-deutschland,Deutschland,37,31,R.P.M.,3.216,0.562,500
-deutschland,Deutschland,38,20,Body,3.232,0.546,500
-deutschland,Deutschland,39,33,Suspension,3.262,0.536,500
-deutschland,Deutschland,40,66,Sliding Skirts,3.266,0.544,500
-deutschland,Deutschland,41,44,Wings,3.27,0.548,500
-deutschland,Deutschland,42,34,Suspension,3.276,0.528,500
-deutschland,Deutschland,43,22,Fuel,3.284,0.532,500
-deutschland,Deutschland,44,59,Front Wing,3.29,0.528,500
-deutschland,Deutschland,45,62,Sliding Skirts,3.298,0.54,500
-deutschland,Deutschland,46,55,Front Wing,3.314,0.518,500
-deutschland,Deutschland,47,35,Suspension,3.33,0.514,500
-deutschland,Deutschland,48,29,R.P.M.,3.338,0.51,500
-deutschland,Deutschland,49,36,Tires,3.356,0.518,500
-deutschland,Deutschland,50,54,Air intake,3.366,0.516,500
-deutschland,Deutschland,51,3,4 wheel drive,3.368,0.492,500
-deutschland,Deutschland,52,60,Front Wing,3.386,0.52,500
-deutschland,Deutschland,53,32,Suspension,3.388,0.498,500
-deutschland,Deutschland,54,6,Body,3.402,0.484,500
-deutschland,Deutschland,55,45,Wings,3.404,0.492,500
-deutschland,Deutschland,56,14,R.P.M.,3.41,0.498,500
-deutschland,Deutschland,57,23,Fuel,3.414,0.472,500
-deutschland,Deutschland,58,63,Sliding Skirts,3.416,0.512,500
-deutschland,Deutschland,59,18,Body,3.428,0.492,500
-deutschland,Deutschland,60,49,Air intake,3.428,0.466,500
-deutschland,Deutschland,61,17,Upgrade Heat,3.484,0.486,500
-deutschland,Deutschland,62,42,Turbo charger,3.538,0.456,500
-deutschland,Deutschland,63,46,Wings,3.61,0.426,500
-deutschland,Deutschland,64,7,Brakes,3.658,0.406,500
-deutschland,Deutschland,65,30,R.P.M.,3.792,0.346,500
-southafrica,South Africa,1,58,Front Wing,2.564,0.748,500
-southafrica,South Africa,2,38,Tires,2.662,0.734,500
-southafrica,South Africa,3,53,Air intake,2.676,0.714,500
-southafrica,South Africa,4,52,Air intake,2.678,0.72,500
-southafrica,South Africa,5,28,Gas pedal,2.782,0.668,500
-southafrica,South Africa,6,26,Gas pedal,2.786,0.706,500
-southafrica,South Africa,7,57,Front Wing,2.828,0.69,500
-southafrica,South Africa,8,5,Body,2.852,0.65,500
-southafrica,South Africa,9,25,Gas pedal,2.86,0.638,500
-southafrica,South Africa,10,65,Sliding Skirts,2.866,0.674,500
-southafrica,South Africa,11,44,Wings,2.872,0.688,500
-southafrica,South Africa,12,64,Sliding Skirts,2.88,0.668,500
-southafrica,South Africa,13,9,Brakes,2.882,0.642,500
-southafrica,South Africa,14,31,R.P.M.,2.892,0.642,500
-southafrica,South Africa,15,1,4 wheel drive,2.894,0.648,500
-southafrica,South Africa,16,8,Brakes,2.896,0.65,500
-southafrica,South Africa,17,40,Tires,2.914,0.634,500
-southafrica,South Africa,18,15,R.P.M.,2.918,0.646,500
-southafrica,South Africa,19,51,Air intake,2.932,0.664,500
-southafrica,South Africa,20,13,Cooling system,2.946,0.63,500
-southafrica,South Africa,21,16,R.P.M.,2.956,0.644,500
-southafrica,South Africa,22,19,Body,2.958,0.63,500
-southafrica,South Africa,23,21,Cooling system,2.978,0.628,500
-southafrica,South Africa,24,4,Body,2.994,0.612,500
-southafrica,South Africa,25,20,Body,2.998,0.644,500
-southafrica,South Africa,26,24,Gas pedal,3.002,0.628,500
-southafrica,South Africa,27,59,Front Wing,3.006,0.608,500
-southafrica,South Africa,28,43,Turbo charger,3.02,0.624,500
-southafrica,South Africa,29,41,Tires,3.034,0.58,500
-southafrica,South Africa,30,37,Tires,3.046,0.636,500
-southafrica,South Africa,31,22,Fuel,3.048,0.612,500
-southafrica,South Africa,32,10,Brakes,3.052,0.612,500
-southafrica,South Africa,33,61,Sliding Skirts,3.052,0.604,500
-southafrica,South Africa,34,45,Wings,3.054,0.602,500
-southafrica,South Africa,35,55,Front Wing,3.062,0.616,500
-southafrica,South Africa,36,14,R.P.M.,3.072,0.574,500
-southafrica,South Africa,37,50,Air intake,3.084,0.596,500
-southafrica,South Africa,38,11,Cooling system,3.106,0.592,500
-southafrica,South Africa,39,56,Front Wing,3.14,0.588,500
-southafrica,South Africa,40,62,Sliding Skirts,3.18,0.568,500
-southafrica,South Africa,41,34,Suspension,3.184,0.582,500
-southafrica,South Africa,42,33,Suspension,3.188,0.568,500
-southafrica,South Africa,43,2,4 wheel drive,3.19,0.544,500
-southafrica,South Africa,44,12,Cooling system,3.2,0.566,500
-southafrica,South Africa,45,29,R.P.M.,3.216,0.564,500
-southafrica,South Africa,46,60,Front Wing,3.228,0.572,500
-southafrica,South Africa,47,27,Gas pedal,3.232,0.54,500
-southafrica,South Africa,48,32,Suspension,3.234,0.56,500
-southafrica,South Africa,49,3,4 wheel drive,3.244,0.53,500
-southafrica,South Africa,50,47,4 wheel drive,3.28,0.53,500
-southafrica,South Africa,51,36,Tires,3.298,0.536,500
-southafrica,South Africa,52,49,Air intake,3.314,0.514,500
-southafrica,South Africa,53,35,Suspension,3.316,0.508,500
-southafrica,South Africa,54,63,Sliding Skirts,3.328,0.528,500
-southafrica,South Africa,55,23,Fuel,3.332,0.5,500
-southafrica,South Africa,56,66,Sliding Skirts,3.342,0.522,500
-southafrica,South Africa,57,39,Tires,3.342,0.514,500
-southafrica,South Africa,58,46,Wings,3.366,0.5,500
-southafrica,South Africa,59,18,Body,3.392,0.498,500
-southafrica,South Africa,60,6,Body,3.404,0.494,500
-southafrica,South Africa,61,7,Brakes,3.436,0.496,500
-southafrica,South Africa,62,42,Turbo charger,3.458,0.478,500
-southafrica,South Africa,63,17,Upgrade Heat,3.464,0.478,500
-southafrica,South Africa,64,54,Air intake,3.57,0.418,500
-southafrica,South Africa,65,30,R.P.M.,3.638,0.42,500
+track_id,track_name,rank,card_type,module,avg_finish,podium_rate,sims,module_kind,card_set,speed,symbols,details,display_label,effect_text,symbols_list,bga_category,bga_expansion
+gb,Great Britain,1,2,4 wheel drive,3.378,0.494,500,basic upgrade,0,0,boost 3,Speed 0 · boost 3,"4 wheel drive (0, boost)","(0, boost)",boost×3,basic_upgrade,
+gb,Great Britain,2,1,4 wheel drive,3.646,0.412,500,basic upgrade,0,4,boost 1,Speed 4 · boost 1,"4 wheel drive (4, boost)","(4, boost)",boost×1,basic_upgrade,
+gb,Great Britain,3,58,Front Wing,3.686,0.422,500,advanced upgrade,2,3,draft 1; adjust 1; scrap 3,Speed 3 · draft 1 · adjust 1 · scrap 3,"Front Wing (3, scrap, adjust↑, draft)","(3, scrap, adjust↑, draft)",draft×1 adjust×1 scrap×3,advanced_upgrade,tunnel-vision
+gb,Great Britain,4,57,Front Wing,3.714,0.382,500,advanced upgrade,2,2,draft 2; salvage 2; scrap 5,Speed 2 · draft 2 · salvage 2 · scrap 5,"Front Wing (2, scrap, salvage, draft)","(2, scrap, salvage, draft)",draft×2 salvage×2 scrap×5,advanced_upgrade,tunnel-vision
+gb,Great Britain,5,53,Air intake,3.772,0.368,500,advanced upgrade,1,4,super-cool 1; scrap 4,Speed 4 · super-cool 1 · scrap 4,"Air intake (4, scrap, super-cool)","(4, scrap, super-cool)",super-cool×1 scrap×4,advanced_upgrade,heavy-rain
+gb,Great Britain,6,40,Tires,3.806,0.364,500,advanced upgrade,0,0,boost 1; adjust 1; slipstream 1; cooldown 1,Speed 0 · boost 1 · adjust 1 · slipstream 1 · cooldown 1,"Tires (0, cooldown, boost, adjust↑, slipstream)","(0, cooldown, boost, adjust↑, slipstream)",boost×1 adjust×1 slipstream×1 cooldown×1,advanced_upgrade,
+gb,Great Britain,7,43,Turbo charger,3.814,0.356,500,advanced upgrade,0,8,heat 1; scrap 6,Speed 8 · heat 1 · scrap 6,"Turbo charger (8, scrap, heat)","(8, scrap, heat)",heat×1 scrap×6,advanced_upgrade,
+gb,Great Britain,8,52,Air intake,3.842,0.356,500,advanced upgrade,1,3,super-cool 1; scrap 3,Speed 3 · super-cool 1 · scrap 3,"Air intake (3, scrap, super-cool)","(3, scrap, super-cool)",super-cool×1 scrap×3,advanced_upgrade,heavy-rain
+gb,Great Britain,9,21,Cooling system,3.882,0.342,500,advanced upgrade,0,4,scrap 2; cooldown 1,Speed 4 · scrap 2 · cooldown 1,"Cooling system (4, cooldown, scrap)","(4, cooldown, scrap)",scrap×2 cooldown×1,advanced_upgrade,
+gb,Great Britain,10,10,Brakes,3.894,0.332,500,basic upgrade,0,"[1, 5]",,"Speed [1, 5]",Brakes (1–5),(1–5),,basic_upgrade,
+gb,Great Britain,11,61,Sliding Skirts,3.902,0.312,500,advanced upgrade,3,0,boost 1; chain-aspiration 1; adjust 1; reduce 1,Speed 0 · boost 1 · chain-aspiration 1 · adjust 1 · reduce 1,"Sliding Skirts (0, −stress, boost, adjust↑, chain-aspiration)","(0, −stress, boost, adjust↑, chain-aspiration)",boost×1 chain-aspiration×1 adjust×1 reduce×1,advanced_upgrade,rocky-road
+gb,Great Britain,12,51,Air intake,3.91,0.316,500,advanced upgrade,1,1,super-cool 1; cooldown 1; scrap 1,Speed 1 · super-cool 1 · cooldown 1 · scrap 1,"Air intake (1, cooldown, scrap, super-cool)","(1, cooldown, scrap, super-cool)",super-cool×1 cooldown×1 scrap×1,advanced_upgrade,heavy-rain
+gb,Great Britain,13,26,Gas pedal,3.916,0.328,500,advanced upgrade,0,3,direct 1; scrap 3,Speed 3 · direct 1 · scrap 3,"Gas pedal (3, scrap, direct)","(3, scrap, direct)",direct×1 scrap×3,advanced_upgrade,
+gb,Great Britain,14,9,Brakes,3.916,0.318,500,basic upgrade,0,"[2, 4]",,"Speed [2, 4]",Brakes (2–4),(2–4),,basic_upgrade,
+gb,Great Britain,15,59,Front Wing,3.954,0.312,500,advanced upgrade,2,4,draft 1; refresh 1; scrap 4,Speed 4 · draft 1 · refresh 1 · scrap 4,"Front Wing (4, scrap, draft)","(4, scrap, draft)",draft×1 refresh×1 scrap×4,advanced_upgrade,tunnel-vision
+gb,Great Britain,16,55,Front Wing,3.956,0.302,500,advanced upgrade,2,0,boost 1; draft 3,Speed 0 · boost 1 · draft 3,"Front Wing (0, boost, draft)","(0, boost, draft)",boost×1 draft×3,advanced_upgrade,tunnel-vision
+gb,Great Britain,17,41,Tires,3.964,0.304,500,advanced upgrade,0,0,boost 2; adjust 2,Speed 0 · boost 2 · adjust 2,"Tires (0, boost, adjust↑)","(0, boost, adjust↑)",boost×2 adjust×2,advanced_upgrade,
+gb,Great Britain,18,5,Body,3.968,0.336,500,basic upgrade,0,5,reduce 1,Speed 5 · reduce 1,"Body (5, −stress)","(5, −stress)",reduce×1,basic_upgrade,
+gb,Great Britain,19,38,Tires,3.982,0.29,500,advanced upgrade,0,2,scrap 2; adjust 1,Speed 2 · scrap 2 · adjust 1,"Tires (2, scrap, adjust↑)","(2, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+gb,Great Britain,20,28,Gas pedal,3.988,0.306,500,advanced upgrade,0,1,direct 1; accelerate 1; scrap 5,Speed 1 · direct 1 · accelerate 1 · scrap 5,"Gas pedal (1, scrap, direct, accelerate)","(1, scrap, direct, accelerate)",direct×1 accelerate×1 scrap×5,advanced_upgrade,
+gb,Great Britain,21,13,Cooling system,3.988,0.29,500,basic upgrade,0,3,cooldown 1,Speed 3 · cooldown 1,"Cooling system (3, cooldown)","(3, cooldown)",cooldown×1,basic_upgrade,
+gb,Great Britain,22,19,Body,3.994,0.296,500,advanced upgrade,0,2,reduce 1; cooldown 1; scrap 2,Speed 2 · reduce 1 · cooldown 1 · scrap 2,"Body (2, −stress, cooldown, scrap)","(2, −stress, cooldown, scrap)",reduce×1 cooldown×1 scrap×2,advanced_upgrade,
+gb,Great Britain,23,47,4 wheel drive,3.996,0.304,500,advanced upgrade,0,0,boost 1; accelerate 1,Speed 0 · boost 1 · accelerate 1,"4 wheel drive (0, boost, accelerate)","(0, boost, accelerate)",boost×1 accelerate×1,advanced_upgrade,
+gb,Great Britain,24,65,Sliding Skirts,3.998,0.286,500,advanced upgrade,3,"[2, 3]",chain-aspiration 1,"Speed [2, 3] · chain-aspiration 1","Sliding Skirts (2–3, chain-aspiration)","(2–3, chain-aspiration)",chain-aspiration×1,advanced_upgrade,rocky-road
+gb,Great Britain,25,16,R.P.M.,4.008,0.3,500,basic upgrade,0,3,slipstream 2,Speed 3 · slipstream 2,"R.P.M. (3, slipstream)","(3, slipstream)",slipstream×2,basic_upgrade,
+gb,Great Britain,26,8,Brakes,4.01,0.314,500,basic upgrade,0,"[1, 3]",,"Speed [1, 3]",Brakes (1–3),(1–3),,basic_upgrade,
+gb,Great Britain,27,64,Sliding Skirts,4.016,0.29,500,advanced upgrade,3,2,chain-aspiration 1; direct 1,Speed 2 · chain-aspiration 1 · direct 1,"Sliding Skirts (2, direct, chain-aspiration)","(2, direct, chain-aspiration)",chain-aspiration×1 direct×1,advanced_upgrade,rocky-road
+gb,Great Britain,28,11,Cooling system,4.016,0.286,500,basic upgrade,0,6,heat 1; cooldown 1,Speed 6 · heat 1 · cooldown 1,"Cooling system (6, cooldown, heat)","(6, cooldown, heat)",heat×1 cooldown×1,basic_upgrade,
+gb,Great Britain,29,12,Cooling system,4.028,0.306,500,basic upgrade,0,1,cooldown 2,Speed 1 · cooldown 2,"Cooling system (1, cooldown)","(1, cooldown)",cooldown×2,basic_upgrade,
+gb,Great Britain,30,25,Gas pedal,4.036,0.282,500,advanced upgrade,0,2,direct 1; scrap 2,Speed 2 · direct 1 · scrap 2,"Gas pedal (2, scrap, direct)","(2, scrap, direct)",direct×1 scrap×2,advanced_upgrade,
+gb,Great Britain,31,44,Wings,4.06,0.28,500,advanced upgrade,0,4,heat 1; scrap 2; adjust 2,Speed 4 · heat 1 · scrap 2 · adjust 2,"Wings (4, scrap, adjust↑, heat)","(4, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+gb,Great Britain,32,31,R.P.M.,4.062,0.284,500,advanced upgrade,0,"[1, 2]",slipstream 1,"Speed [1, 2] · slipstream 1","R.P.M. (1–2, slipstream)","(1–2, slipstream)",slipstream×1,advanced_upgrade,
+gb,Great Britain,33,33,Suspension,4.074,0.254,500,advanced upgrade,0,2,refresh 1; cooldown 1,Speed 2 · refresh 1 · cooldown 1,"Suspension (2, cooldown)","(2, cooldown)",refresh×1 cooldown×1,advanced_upgrade,
+gb,Great Britain,34,4,Body,4.084,0.274,500,basic upgrade,0,3,reduce 2,Speed 3 · reduce 2,"Body (3, −stress)","(3, −stress)",reduce×2,basic_upgrade,
+gb,Great Britain,35,50,Air intake,4.098,0.268,500,advanced upgrade,1,0,super-cool 1; slipstream 1; reduce 1,Speed 0 · super-cool 1 · slipstream 1 · reduce 1,"Air intake (0, −stress, slipstream, super-cool)","(0, −stress, slipstream, super-cool)",super-cool×1 slipstream×1 reduce×1,advanced_upgrade,heavy-rain
+gb,Great Britain,36,15,R.P.M.,4.106,0.248,500,basic upgrade,0,2,slipstream 2,Speed 2 · slipstream 2,"R.P.M. (2, slipstream)","(2, slipstream)",slipstream×2,basic_upgrade,
+gb,Great Britain,37,14,R.P.M.,4.108,0.27,500,basic upgrade,0,1,slipstream 2,Speed 1 · slipstream 2,"R.P.M. (1, slipstream)","(1, slipstream)",slipstream×2,basic_upgrade,
+gb,Great Britain,38,24,Gas pedal,4.116,0.254,500,advanced upgrade,0,1,direct 1; scrap 1,Speed 1 · direct 1 · scrap 1,"Gas pedal (1, scrap, direct)","(1, scrap, direct)",direct×1 scrap×1,advanced_upgrade,
+gb,Great Britain,39,56,Front Wing,4.122,0.266,500,advanced upgrade,2,0,draft 1; direct 1; refresh 1,Speed 0 · draft 1 · direct 1 · refresh 1,"Front Wing (0, direct, draft)","(0, direct, draft)",draft×1 direct×1 refresh×1,advanced_upgrade,tunnel-vision
+gb,Great Britain,40,34,Suspension,4.136,0.24,500,advanced upgrade,0,4,refresh 1,Speed 4 · refresh 1,Suspension (4),(4),refresh×1,advanced_upgrade,
+gb,Great Britain,41,37,Tires,4.146,0.262,500,advanced upgrade,0,1,scrap 2; adjust 1,Speed 1 · scrap 2 · adjust 1,"Tires (1, scrap, adjust↑)","(1, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+gb,Great Britain,42,27,Gas pedal,4.148,0.228,500,advanced upgrade,0,4,direct 1; heat 1; cooldown 1,Speed 4 · direct 1 · heat 1 · cooldown 1,"Gas pedal (4, cooldown, direct, heat)","(4, cooldown, direct, heat)",direct×1 heat×1 cooldown×1,advanced_upgrade,
+gb,Great Britain,43,3,4 wheel drive,4.154,0.246,500,basic upgrade,0,0,boost 1; cooldown 3,Speed 0 · boost 1 · cooldown 3,"4 wheel drive (0, cooldown, boost)","(0, cooldown, boost)",boost×1 cooldown×3,basic_upgrade,
+gb,Great Britain,44,39,Tires,4.156,0.25,500,advanced upgrade,0,3,adjust -1; cooldown 2,Speed 3 · adjust -1 · cooldown 2,"Tires (3, cooldown, adjust↓)","(3, cooldown, adjust↓)",adjust×-1 cooldown×2,advanced_upgrade,
+gb,Great Britain,45,20,Body,4.17,0.242,500,advanced upgrade,0,2,reduce 1; slipstream 1,Speed 2 · reduce 1 · slipstream 1,"Body (2, −stress, slipstream)","(2, −stress, slipstream)",reduce×1 slipstream×1,advanced_upgrade,
+gb,Great Britain,46,42,Turbo charger,4.174,0.232,500,advanced upgrade,0,7,heat 2; cooldown 3,Speed 7 · heat 2 · cooldown 3,"Turbo charger (7, cooldown, heat×2)","(7, cooldown, heat×2)",heat×2 cooldown×3,advanced_upgrade,
+gb,Great Britain,47,60,Front Wing,4.178,0.224,500,advanced upgrade,2,6,draft 2; heat 1,Speed 6 · draft 2 · heat 1,"Front Wing (6, draft, heat)","(6, draft, heat)",draft×2 heat×1,advanced_upgrade,tunnel-vision
+gb,Great Britain,48,23,Fuel,4.188,0.254,500,advanced upgrade,0,0,boost 1; salvage 2; cooldown 1,Speed 0 · boost 1 · salvage 2 · cooldown 1,"Fuel (0, cooldown, boost, salvage)","(0, cooldown, boost, salvage)",boost×1 salvage×2 cooldown×1,advanced_upgrade,
+gb,Great Britain,49,22,Fuel,4.194,0.238,500,advanced upgrade,0,2,salvage 2,Speed 2 · salvage 2,"Fuel (2, salvage)","(2, salvage)",salvage×2,advanced_upgrade,
+gb,Great Britain,50,32,Suspension,4.196,0.226,500,advanced upgrade,0,2,refresh 1; reduce 1,Speed 2 · refresh 1 · reduce 1,"Suspension (2, −stress)","(2, −stress)",refresh×1 reduce×1,advanced_upgrade,
+gb,Great Britain,51,62,Sliding Skirts,4.202,0.244,500,advanced upgrade,3,1,chain-aspiration 1; slipstream 1,Speed 1 · chain-aspiration 1 · slipstream 1,"Sliding Skirts (1, slipstream, chain-aspiration)","(1, slipstream, chain-aspiration)",chain-aspiration×1 slipstream×1,advanced_upgrade,rocky-road
+gb,Great Britain,52,45,Wings,4.206,0.228,500,advanced upgrade,0,3,heat 1; scrap 2; adjust 2,Speed 3 · heat 1 · scrap 2 · adjust 2,"Wings (3, scrap, adjust↑, heat)","(3, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+gb,Great Britain,53,63,Sliding Skirts,4.228,0.218,500,advanced upgrade,3,1,chain-aspiration 1; refresh 1,Speed 1 · chain-aspiration 1 · refresh 1,"Sliding Skirts (1, chain-aspiration)","(1, chain-aspiration)",chain-aspiration×1 refresh×1,advanced_upgrade,rocky-road
+gb,Great Britain,54,49,Air intake,4.242,0.208,500,advanced upgrade,1,1,super-cool 1; salvage 4; adjust -1,Speed 1 · super-cool 1 · salvage 4 · adjust -1,"Air intake (1, adjust↓, salvage, super-cool)","(1, adjust↓, salvage, super-cool)",super-cool×1 salvage×4 adjust×-1,advanced_upgrade,heavy-rain
+gb,Great Britain,55,29,R.P.M.,4.244,0.21,500,advanced upgrade,0,0,boost 1; slipstream 3,Speed 0 · boost 1 · slipstream 3,"R.P.M. (0, boost, slipstream)","(0, boost, slipstream)",boost×1 slipstream×3,advanced_upgrade,
+gb,Great Britain,56,6,Body,4.246,0.212,500,basic upgrade,0,1,reduce 3,Speed 1 · reduce 3,"Body (1, −stress)","(1, −stress)",reduce×3,basic_upgrade,
+gb,Great Britain,57,17,Upgrade Heat,4.264,0.212,500,heat card,0,0,,Heat card (no speed/symbols); type 48 is its advanced-set alias,Upgrade Heat (#17),,,heat,
+gb,Great Britain,58,35,Suspension,4.294,0.204,500,advanced upgrade,0,1,refresh 1; slipstream 1,Speed 1 · refresh 1 · slipstream 1,"Suspension (1, slipstream)","(1, slipstream)",refresh×1 slipstream×1,advanced_upgrade,
+gb,Great Britain,59,54,Air intake,4.298,0.21,500,advanced upgrade,1,0,boost 1; super-cool 1; refresh 1; adjust -1,Speed 0 · boost 1 · super-cool 1 · refresh 1 · adjust -1,"Air intake (0, boost, adjust↓, super-cool)","(0, boost, adjust↓, super-cool)",boost×1 super-cool×1 refresh×1 adjust×-1,advanced_upgrade,heavy-rain
+gb,Great Britain,60,36,Tires,4.302,0.21,500,advanced upgrade,0,2,adjust -1; cooldown 3,Speed 2 · adjust -1 · cooldown 3,"Tires (2, cooldown, adjust↓)","(2, cooldown, adjust↓)",adjust×-1 cooldown×3,advanced_upgrade,
+gb,Great Britain,61,46,Wings,4.34,0.204,500,advanced upgrade,0,6,heat 2; adjust 3,Speed 6 · heat 2 · adjust 3,"Wings (6, adjust↑, heat×2)","(6, adjust↑, heat×2)",heat×2 adjust×3,advanced_upgrade,
+gb,Great Britain,62,66,Sliding Skirts,4.344,0.19,500,advanced upgrade,3,"[4, 6]",chain-aspiration 1; heat 1,"Speed [4, 6] · chain-aspiration 1 · heat 1","Sliding Skirts (4–6, chain-aspiration, heat)","(4–6, chain-aspiration, heat)",chain-aspiration×1 heat×1,advanced_upgrade,rocky-road
+gb,Great Britain,63,18,Body,4.356,0.178,500,advanced upgrade,0,6,reduce 3; heat 1,Speed 6 · reduce 3 · heat 1,"Body (6, −stress, heat)","(6, −stress, heat)",reduce×3 heat×1,advanced_upgrade,
+gb,Great Britain,64,7,Brakes,4.41,0.162,500,basic upgrade,0,"[1, 2, 3, 4]",heat 1,"Speed [1, 2, 3, 4] · heat 1","Brakes (1–4, heat)","(1–4, heat)",heat×1,basic_upgrade,
+gb,Great Britain,65,30,R.P.M.,4.536,0.13,500,advanced upgrade,0,1,heat 1; slipstream 3,Speed 1 · heat 1 · slipstream 3,"R.P.M. (1, slipstream, heat)","(1, slipstream, heat)",heat×1 slipstream×3,advanced_upgrade,
+usa,USA,1,1,4 wheel drive,2.054,0.868,500,basic upgrade,0,4,boost 1,Speed 4 · boost 1,"4 wheel drive (4, boost)","(4, boost)",boost×1,basic_upgrade,
+usa,USA,2,2,4 wheel drive,2.144,0.85,500,basic upgrade,0,0,boost 3,Speed 0 · boost 3,"4 wheel drive (0, boost)","(0, boost)",boost×3,basic_upgrade,
+usa,USA,3,53,Air intake,2.162,0.852,500,advanced upgrade,1,4,super-cool 1; scrap 4,Speed 4 · super-cool 1 · scrap 4,"Air intake (4, scrap, super-cool)","(4, scrap, super-cool)",super-cool×1 scrap×4,advanced_upgrade,heavy-rain
+usa,USA,4,5,Body,2.21,0.85,500,basic upgrade,0,5,reduce 1,Speed 5 · reduce 1,"Body (5, −stress)","(5, −stress)",reduce×1,basic_upgrade,
+usa,USA,5,52,Air intake,2.228,0.84,500,advanced upgrade,1,3,super-cool 1; scrap 3,Speed 3 · super-cool 1 · scrap 3,"Air intake (3, scrap, super-cool)","(3, scrap, super-cool)",super-cool×1 scrap×3,advanced_upgrade,heavy-rain
+usa,USA,6,13,Cooling system,2.25,0.83,500,basic upgrade,0,3,cooldown 1,Speed 3 · cooldown 1,"Cooling system (3, cooldown)","(3, cooldown)",cooldown×1,basic_upgrade,
+usa,USA,7,41,Tires,2.258,0.798,500,advanced upgrade,0,0,boost 2; adjust 2,Speed 0 · boost 2 · adjust 2,"Tires (0, boost, adjust↑)","(0, boost, adjust↑)",boost×2 adjust×2,advanced_upgrade,
+usa,USA,8,51,Air intake,2.29,0.822,500,advanced upgrade,1,1,super-cool 1; cooldown 1; scrap 1,Speed 1 · super-cool 1 · cooldown 1 · scrap 1,"Air intake (1, cooldown, scrap, super-cool)","(1, cooldown, scrap, super-cool)",super-cool×1 cooldown×1 scrap×1,advanced_upgrade,heavy-rain
+usa,USA,9,58,Front Wing,2.294,0.82,500,advanced upgrade,2,3,draft 1; adjust 1; scrap 3,Speed 3 · draft 1 · adjust 1 · scrap 3,"Front Wing (3, scrap, adjust↑, draft)","(3, scrap, adjust↑, draft)",draft×1 adjust×1 scrap×3,advanced_upgrade,tunnel-vision
+usa,USA,10,43,Turbo charger,2.294,0.816,500,advanced upgrade,0,8,heat 1; scrap 6,Speed 8 · heat 1 · scrap 6,"Turbo charger (8, scrap, heat)","(8, scrap, heat)",heat×1 scrap×6,advanced_upgrade,
+usa,USA,11,21,Cooling system,2.298,0.83,500,advanced upgrade,0,4,scrap 2; cooldown 1,Speed 4 · scrap 2 · cooldown 1,"Cooling system (4, cooldown, scrap)","(4, cooldown, scrap)",scrap×2 cooldown×1,advanced_upgrade,
+usa,USA,12,10,Brakes,2.3,0.834,500,basic upgrade,0,"[1, 5]",,"Speed [1, 5]",Brakes (1–5),(1–5),,basic_upgrade,
+usa,USA,13,28,Gas pedal,2.32,0.816,500,advanced upgrade,0,1,direct 1; accelerate 1; scrap 5,Speed 1 · direct 1 · accelerate 1 · scrap 5,"Gas pedal (1, scrap, direct, accelerate)","(1, scrap, direct, accelerate)",direct×1 accelerate×1 scrap×5,advanced_upgrade,
+usa,USA,14,9,Brakes,2.334,0.83,500,basic upgrade,0,"[2, 4]",,"Speed [2, 4]",Brakes (2–4),(2–4),,basic_upgrade,
+usa,USA,15,11,Cooling system,2.362,0.812,500,basic upgrade,0,6,heat 1; cooldown 1,Speed 6 · heat 1 · cooldown 1,"Cooling system (6, cooldown, heat)","(6, cooldown, heat)",heat×1 cooldown×1,basic_upgrade,
+usa,USA,16,26,Gas pedal,2.366,0.804,500,advanced upgrade,0,3,direct 1; scrap 3,Speed 3 · direct 1 · scrap 3,"Gas pedal (3, scrap, direct)","(3, scrap, direct)",direct×1 scrap×3,advanced_upgrade,
+usa,USA,17,40,Tires,2.38,0.8,500,advanced upgrade,0,0,boost 1; adjust 1; slipstream 1; cooldown 1,Speed 0 · boost 1 · adjust 1 · slipstream 1 · cooldown 1,"Tires (0, cooldown, boost, adjust↑, slipstream)","(0, cooldown, boost, adjust↑, slipstream)",boost×1 adjust×1 slipstream×1 cooldown×1,advanced_upgrade,
+usa,USA,18,19,Body,2.386,0.802,500,advanced upgrade,0,2,reduce 1; cooldown 1; scrap 2,Speed 2 · reduce 1 · cooldown 1 · scrap 2,"Body (2, −stress, cooldown, scrap)","(2, −stress, cooldown, scrap)",reduce×1 cooldown×1 scrap×2,advanced_upgrade,
+usa,USA,19,47,4 wheel drive,2.408,0.808,500,advanced upgrade,0,0,boost 1; accelerate 1,Speed 0 · boost 1 · accelerate 1,"4 wheel drive (0, boost, accelerate)","(0, boost, accelerate)",boost×1 accelerate×1,advanced_upgrade,
+usa,USA,20,27,Gas pedal,2.41,0.796,500,advanced upgrade,0,4,direct 1; heat 1; cooldown 1,Speed 4 · direct 1 · heat 1 · cooldown 1,"Gas pedal (4, cooldown, direct, heat)","(4, cooldown, direct, heat)",direct×1 heat×1 cooldown×1,advanced_upgrade,
+usa,USA,21,12,Cooling system,2.412,0.814,500,basic upgrade,0,1,cooldown 2,Speed 1 · cooldown 2,"Cooling system (1, cooldown)","(1, cooldown)",cooldown×2,basic_upgrade,
+usa,USA,22,38,Tires,2.414,0.814,500,advanced upgrade,0,2,scrap 2; adjust 1,Speed 2 · scrap 2 · adjust 1,"Tires (2, scrap, adjust↑)","(2, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+usa,USA,23,50,Air intake,2.42,0.818,500,advanced upgrade,1,0,super-cool 1; slipstream 1; reduce 1,Speed 0 · super-cool 1 · slipstream 1 · reduce 1,"Air intake (0, −stress, slipstream, super-cool)","(0, −stress, slipstream, super-cool)",super-cool×1 slipstream×1 reduce×1,advanced_upgrade,heavy-rain
+usa,USA,24,61,Sliding Skirts,2.426,0.788,500,advanced upgrade,3,0,boost 1; chain-aspiration 1; adjust 1; reduce 1,Speed 0 · boost 1 · chain-aspiration 1 · adjust 1 · reduce 1,"Sliding Skirts (0, −stress, boost, adjust↑, chain-aspiration)","(0, −stress, boost, adjust↑, chain-aspiration)",boost×1 chain-aspiration×1 adjust×1 reduce×1,advanced_upgrade,rocky-road
+usa,USA,25,65,Sliding Skirts,2.428,0.812,500,advanced upgrade,3,"[2, 3]",chain-aspiration 1,"Speed [2, 3] · chain-aspiration 1","Sliding Skirts (2–3, chain-aspiration)","(2–3, chain-aspiration)",chain-aspiration×1,advanced_upgrade,rocky-road
+usa,USA,26,59,Front Wing,2.436,0.792,500,advanced upgrade,2,4,draft 1; refresh 1; scrap 4,Speed 4 · draft 1 · refresh 1 · scrap 4,"Front Wing (4, scrap, draft)","(4, scrap, draft)",draft×1 refresh×1 scrap×4,advanced_upgrade,tunnel-vision
+usa,USA,27,64,Sliding Skirts,2.438,0.794,500,advanced upgrade,3,2,chain-aspiration 1; direct 1,Speed 2 · chain-aspiration 1 · direct 1,"Sliding Skirts (2, direct, chain-aspiration)","(2, direct, chain-aspiration)",chain-aspiration×1 direct×1,advanced_upgrade,rocky-road
+usa,USA,28,57,Front Wing,2.44,0.79,500,advanced upgrade,2,2,draft 2; salvage 2; scrap 5,Speed 2 · draft 2 · salvage 2 · scrap 5,"Front Wing (2, scrap, salvage, draft)","(2, scrap, salvage, draft)",draft×2 salvage×2 scrap×5,advanced_upgrade,tunnel-vision
+usa,USA,29,3,4 wheel drive,2.444,0.764,500,basic upgrade,0,0,boost 1; cooldown 3,Speed 0 · boost 1 · cooldown 3,"4 wheel drive (0, cooldown, boost)","(0, cooldown, boost)",boost×1 cooldown×3,basic_upgrade,
+usa,USA,30,24,Gas pedal,2.446,0.812,500,advanced upgrade,0,1,direct 1; scrap 1,Speed 1 · direct 1 · scrap 1,"Gas pedal (1, scrap, direct)","(1, scrap, direct)",direct×1 scrap×1,advanced_upgrade,
+usa,USA,31,8,Brakes,2.45,0.808,500,basic upgrade,0,"[1, 3]",,"Speed [1, 3]",Brakes (1–3),(1–3),,basic_upgrade,
+usa,USA,32,23,Fuel,2.458,0.758,500,advanced upgrade,0,0,boost 1; salvage 2; cooldown 1,Speed 0 · boost 1 · salvage 2 · cooldown 1,"Fuel (0, cooldown, boost, salvage)","(0, cooldown, boost, salvage)",boost×1 salvage×2 cooldown×1,advanced_upgrade,
+usa,USA,33,4,Body,2.472,0.78,500,basic upgrade,0,3,reduce 2,Speed 3 · reduce 2,"Body (3, −stress)","(3, −stress)",reduce×2,basic_upgrade,
+usa,USA,34,39,Tires,2.48,0.762,500,advanced upgrade,0,3,adjust -1; cooldown 2,Speed 3 · adjust -1 · cooldown 2,"Tires (3, cooldown, adjust↓)","(3, cooldown, adjust↓)",adjust×-1 cooldown×2,advanced_upgrade,
+usa,USA,35,25,Gas pedal,2.498,0.782,500,advanced upgrade,0,2,direct 1; scrap 2,Speed 2 · direct 1 · scrap 2,"Gas pedal (2, scrap, direct)","(2, scrap, direct)",direct×1 scrap×2,advanced_upgrade,
+usa,USA,36,62,Sliding Skirts,2.536,0.754,500,advanced upgrade,3,1,chain-aspiration 1; slipstream 1,Speed 1 · chain-aspiration 1 · slipstream 1,"Sliding Skirts (1, slipstream, chain-aspiration)","(1, slipstream, chain-aspiration)",chain-aspiration×1 slipstream×1,advanced_upgrade,rocky-road
+usa,USA,37,16,R.P.M.,2.538,0.768,500,basic upgrade,0,3,slipstream 2,Speed 3 · slipstream 2,"R.P.M. (3, slipstream)","(3, slipstream)",slipstream×2,basic_upgrade,
+usa,USA,38,34,Suspension,2.542,0.762,500,advanced upgrade,0,4,refresh 1,Speed 4 · refresh 1,Suspension (4),(4),refresh×1,advanced_upgrade,
+usa,USA,39,60,Front Wing,2.544,0.766,500,advanced upgrade,2,6,draft 2; heat 1,Speed 6 · draft 2 · heat 1,"Front Wing (6, draft, heat)","(6, draft, heat)",draft×2 heat×1,advanced_upgrade,tunnel-vision
+usa,USA,40,29,R.P.M.,2.546,0.772,500,advanced upgrade,0,0,boost 1; slipstream 3,Speed 0 · boost 1 · slipstream 3,"R.P.M. (0, boost, slipstream)","(0, boost, slipstream)",boost×1 slipstream×3,advanced_upgrade,
+usa,USA,41,66,Sliding Skirts,2.546,0.756,500,advanced upgrade,3,"[4, 6]",chain-aspiration 1; heat 1,"Speed [4, 6] · chain-aspiration 1 · heat 1","Sliding Skirts (4–6, chain-aspiration, heat)","(4–6, chain-aspiration, heat)",chain-aspiration×1 heat×1,advanced_upgrade,rocky-road
+usa,USA,42,42,Turbo charger,2.552,0.738,500,advanced upgrade,0,7,heat 2; cooldown 3,Speed 7 · heat 2 · cooldown 3,"Turbo charger (7, cooldown, heat×2)","(7, cooldown, heat×2)",heat×2 cooldown×3,advanced_upgrade,
+usa,USA,43,31,R.P.M.,2.596,0.762,500,advanced upgrade,0,"[1, 2]",slipstream 1,"Speed [1, 2] · slipstream 1","R.P.M. (1–2, slipstream)","(1–2, slipstream)",slipstream×1,advanced_upgrade,
+usa,USA,44,49,Air intake,2.602,0.748,500,advanced upgrade,1,1,super-cool 1; salvage 4; adjust -1,Speed 1 · super-cool 1 · salvage 4 · adjust -1,"Air intake (1, adjust↓, salvage, super-cool)","(1, adjust↓, salvage, super-cool)",super-cool×1 salvage×4 adjust×-1,advanced_upgrade,heavy-rain
+usa,USA,45,37,Tires,2.606,0.752,500,advanced upgrade,0,1,scrap 2; adjust 1,Speed 1 · scrap 2 · adjust 1,"Tires (1, scrap, adjust↑)","(1, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+usa,USA,46,20,Body,2.622,0.746,500,advanced upgrade,0,2,reduce 1; slipstream 1,Speed 2 · reduce 1 · slipstream 1,"Body (2, −stress, slipstream)","(2, −stress, slipstream)",reduce×1 slipstream×1,advanced_upgrade,
+usa,USA,47,36,Tires,2.642,0.744,500,advanced upgrade,0,2,adjust -1; cooldown 3,Speed 2 · adjust -1 · cooldown 3,"Tires (2, cooldown, adjust↓)","(2, cooldown, adjust↓)",adjust×-1 cooldown×3,advanced_upgrade,
+usa,USA,48,22,Fuel,2.642,0.732,500,advanced upgrade,0,2,salvage 2,Speed 2 · salvage 2,"Fuel (2, salvage)","(2, salvage)",salvage×2,advanced_upgrade,
+usa,USA,49,54,Air intake,2.646,0.734,500,advanced upgrade,1,0,boost 1; super-cool 1; refresh 1; adjust -1,Speed 0 · boost 1 · super-cool 1 · refresh 1 · adjust -1,"Air intake (0, boost, adjust↓, super-cool)","(0, boost, adjust↓, super-cool)",boost×1 super-cool×1 refresh×1 adjust×-1,advanced_upgrade,heavy-rain
+usa,USA,50,33,Suspension,2.648,0.73,500,advanced upgrade,0,2,refresh 1; cooldown 1,Speed 2 · refresh 1 · cooldown 1,"Suspension (2, cooldown)","(2, cooldown)",refresh×1 cooldown×1,advanced_upgrade,
+usa,USA,51,55,Front Wing,2.65,0.722,500,advanced upgrade,2,0,boost 1; draft 3,Speed 0 · boost 1 · draft 3,"Front Wing (0, boost, draft)","(0, boost, draft)",boost×1 draft×3,advanced_upgrade,tunnel-vision
+usa,USA,52,15,R.P.M.,2.664,0.72,500,basic upgrade,0,2,slipstream 2,Speed 2 · slipstream 2,"R.P.M. (2, slipstream)","(2, slipstream)",slipstream×2,basic_upgrade,
+usa,USA,53,14,R.P.M.,2.666,0.716,500,basic upgrade,0,1,slipstream 2,Speed 1 · slipstream 2,"R.P.M. (1, slipstream)","(1, slipstream)",slipstream×2,basic_upgrade,
+usa,USA,54,56,Front Wing,2.7,0.72,500,advanced upgrade,2,0,draft 1; direct 1; refresh 1,Speed 0 · draft 1 · direct 1 · refresh 1,"Front Wing (0, direct, draft)","(0, direct, draft)",draft×1 direct×1 refresh×1,advanced_upgrade,tunnel-vision
+usa,USA,55,18,Body,2.754,0.724,500,advanced upgrade,0,6,reduce 3; heat 1,Speed 6 · reduce 3 · heat 1,"Body (6, −stress, heat)","(6, −stress, heat)",reduce×3 heat×1,advanced_upgrade,
+usa,USA,56,32,Suspension,2.76,0.722,500,advanced upgrade,0,2,refresh 1; reduce 1,Speed 2 · refresh 1 · reduce 1,"Suspension (2, −stress)","(2, −stress)",refresh×1 reduce×1,advanced_upgrade,
+usa,USA,57,44,Wings,2.782,0.69,500,advanced upgrade,0,4,heat 1; scrap 2; adjust 2,Speed 4 · heat 1 · scrap 2 · adjust 2,"Wings (4, scrap, adjust↑, heat)","(4, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+usa,USA,58,63,Sliding Skirts,2.81,0.69,500,advanced upgrade,3,1,chain-aspiration 1; refresh 1,Speed 1 · chain-aspiration 1 · refresh 1,"Sliding Skirts (1, chain-aspiration)","(1, chain-aspiration)",chain-aspiration×1 refresh×1,advanced_upgrade,rocky-road
+usa,USA,59,6,Body,2.824,0.692,500,basic upgrade,0,1,reduce 3,Speed 1 · reduce 3,"Body (1, −stress)","(1, −stress)",reduce×3,basic_upgrade,
+usa,USA,60,35,Suspension,2.846,0.668,500,advanced upgrade,0,1,refresh 1; slipstream 1,Speed 1 · refresh 1 · slipstream 1,"Suspension (1, slipstream)","(1, slipstream)",refresh×1 slipstream×1,advanced_upgrade,
+usa,USA,61,45,Wings,2.89,0.67,500,advanced upgrade,0,3,heat 1; scrap 2; adjust 2,Speed 3 · heat 1 · scrap 2 · adjust 2,"Wings (3, scrap, adjust↑, heat)","(3, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+usa,USA,62,17,Upgrade Heat,2.896,0.668,500,heat card,0,0,,Heat card (no speed/symbols); type 48 is its advanced-set alias,Upgrade Heat (#17),,,heat,
+usa,USA,63,7,Brakes,2.982,0.632,500,basic upgrade,0,"[1, 2, 3, 4]",heat 1,"Speed [1, 2, 3, 4] · heat 1","Brakes (1–4, heat)","(1–4, heat)",heat×1,basic_upgrade,
+usa,USA,64,46,Wings,3.114,0.614,500,advanced upgrade,0,6,heat 2; adjust 3,Speed 6 · heat 2 · adjust 3,"Wings (6, adjust↑, heat×2)","(6, adjust↑, heat×2)",heat×2 adjust×3,advanced_upgrade,
+usa,USA,65,30,R.P.M.,3.156,0.584,500,advanced upgrade,0,1,heat 1; slipstream 3,Speed 1 · heat 1 · slipstream 3,"R.P.M. (1, slipstream, heat)","(1, slipstream, heat)",heat×1 slipstream×3,advanced_upgrade,
+italia,Italia,1,2,4 wheel drive,2.182,0.822,500,basic upgrade,0,0,boost 3,Speed 0 · boost 3,"4 wheel drive (0, boost)","(0, boost)",boost×3,basic_upgrade,
+italia,Italia,2,1,4 wheel drive,2.226,0.84,500,basic upgrade,0,4,boost 1,Speed 4 · boost 1,"4 wheel drive (4, boost)","(4, boost)",boost×1,basic_upgrade,
+italia,Italia,3,53,Air intake,2.394,0.778,500,advanced upgrade,1,4,super-cool 1; scrap 4,Speed 4 · super-cool 1 · scrap 4,"Air intake (4, scrap, super-cool)","(4, scrap, super-cool)",super-cool×1 scrap×4,advanced_upgrade,heavy-rain
+italia,Italia,4,5,Body,2.436,0.76,500,basic upgrade,0,5,reduce 1,Speed 5 · reduce 1,"Body (5, −stress)","(5, −stress)",reduce×1,basic_upgrade,
+italia,Italia,5,52,Air intake,2.48,0.776,500,advanced upgrade,1,3,super-cool 1; scrap 3,Speed 3 · super-cool 1 · scrap 3,"Air intake (3, scrap, super-cool)","(3, scrap, super-cool)",super-cool×1 scrap×3,advanced_upgrade,heavy-rain
+italia,Italia,6,21,Cooling system,2.496,0.754,500,advanced upgrade,0,4,scrap 2; cooldown 1,Speed 4 · scrap 2 · cooldown 1,"Cooling system (4, cooldown, scrap)","(4, cooldown, scrap)",scrap×2 cooldown×1,advanced_upgrade,
+italia,Italia,7,40,Tires,2.538,0.744,500,advanced upgrade,0,0,boost 1; adjust 1; slipstream 1; cooldown 1,Speed 0 · boost 1 · adjust 1 · slipstream 1 · cooldown 1,"Tires (0, cooldown, boost, adjust↑, slipstream)","(0, cooldown, boost, adjust↑, slipstream)",boost×1 adjust×1 slipstream×1 cooldown×1,advanced_upgrade,
+italia,Italia,8,51,Air intake,2.554,0.73,500,advanced upgrade,1,1,super-cool 1; cooldown 1; scrap 1,Speed 1 · super-cool 1 · cooldown 1 · scrap 1,"Air intake (1, cooldown, scrap, super-cool)","(1, cooldown, scrap, super-cool)",super-cool×1 cooldown×1 scrap×1,advanced_upgrade,heavy-rain
+italia,Italia,9,11,Cooling system,2.56,0.73,500,basic upgrade,0,6,heat 1; cooldown 1,Speed 6 · heat 1 · cooldown 1,"Cooling system (6, cooldown, heat)","(6, cooldown, heat)",heat×1 cooldown×1,basic_upgrade,
+italia,Italia,10,43,Turbo charger,2.584,0.716,500,advanced upgrade,0,8,heat 1; scrap 6,Speed 8 · heat 1 · scrap 6,"Turbo charger (8, scrap, heat)","(8, scrap, heat)",heat×1 scrap×6,advanced_upgrade,
+italia,Italia,11,10,Brakes,2.586,0.748,500,basic upgrade,0,"[1, 5]",,"Speed [1, 5]",Brakes (1–5),(1–5),,basic_upgrade,
+italia,Italia,12,41,Tires,2.594,0.7,500,advanced upgrade,0,0,boost 2; adjust 2,Speed 0 · boost 2 · adjust 2,"Tires (0, boost, adjust↑)","(0, boost, adjust↑)",boost×2 adjust×2,advanced_upgrade,
+italia,Italia,13,13,Cooling system,2.608,0.746,500,basic upgrade,0,3,cooldown 1,Speed 3 · cooldown 1,"Cooling system (3, cooldown)","(3, cooldown)",cooldown×1,basic_upgrade,
+italia,Italia,14,58,Front Wing,2.644,0.718,500,advanced upgrade,2,3,draft 1; adjust 1; scrap 3,Speed 3 · draft 1 · adjust 1 · scrap 3,"Front Wing (3, scrap, adjust↑, draft)","(3, scrap, adjust↑, draft)",draft×1 adjust×1 scrap×3,advanced_upgrade,tunnel-vision
+italia,Italia,15,26,Gas pedal,2.654,0.71,500,advanced upgrade,0,3,direct 1; scrap 3,Speed 3 · direct 1 · scrap 3,"Gas pedal (3, scrap, direct)","(3, scrap, direct)",direct×1 scrap×3,advanced_upgrade,
+italia,Italia,16,59,Front Wing,2.662,0.718,500,advanced upgrade,2,4,draft 1; refresh 1; scrap 4,Speed 4 · draft 1 · refresh 1 · scrap 4,"Front Wing (4, scrap, draft)","(4, scrap, draft)",draft×1 refresh×1 scrap×4,advanced_upgrade,tunnel-vision
+italia,Italia,17,38,Tires,2.682,0.7,500,advanced upgrade,0,2,scrap 2; adjust 1,Speed 2 · scrap 2 · adjust 1,"Tires (2, scrap, adjust↑)","(2, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+italia,Italia,18,39,Tires,2.686,0.718,500,advanced upgrade,0,3,adjust -1; cooldown 2,Speed 3 · adjust -1 · cooldown 2,"Tires (3, cooldown, adjust↓)","(3, cooldown, adjust↓)",adjust×-1 cooldown×2,advanced_upgrade,
+italia,Italia,19,16,R.P.M.,2.688,0.712,500,basic upgrade,0,3,slipstream 2,Speed 3 · slipstream 2,"R.P.M. (3, slipstream)","(3, slipstream)",slipstream×2,basic_upgrade,
+italia,Italia,20,42,Turbo charger,2.694,0.688,500,advanced upgrade,0,7,heat 2; cooldown 3,Speed 7 · heat 2 · cooldown 3,"Turbo charger (7, cooldown, heat×2)","(7, cooldown, heat×2)",heat×2 cooldown×3,advanced_upgrade,
+italia,Italia,21,34,Suspension,2.704,0.686,500,advanced upgrade,0,4,refresh 1,Speed 4 · refresh 1,Suspension (4),(4),refresh×1,advanced_upgrade,
+italia,Italia,22,47,4 wheel drive,2.706,0.696,500,advanced upgrade,0,0,boost 1; accelerate 1,Speed 0 · boost 1 · accelerate 1,"4 wheel drive (0, boost, accelerate)","(0, boost, accelerate)",boost×1 accelerate×1,advanced_upgrade,
+italia,Italia,23,19,Body,2.708,0.716,500,advanced upgrade,0,2,reduce 1; cooldown 1; scrap 2,Speed 2 · reduce 1 · cooldown 1 · scrap 2,"Body (2, −stress, cooldown, scrap)","(2, −stress, cooldown, scrap)",reduce×1 cooldown×1 scrap×2,advanced_upgrade,
+italia,Italia,24,27,Gas pedal,2.724,0.702,500,advanced upgrade,0,4,direct 1; heat 1; cooldown 1,Speed 4 · direct 1 · heat 1 · cooldown 1,"Gas pedal (4, cooldown, direct, heat)","(4, cooldown, direct, heat)",direct×1 heat×1 cooldown×1,advanced_upgrade,
+italia,Italia,25,57,Front Wing,2.74,0.692,500,advanced upgrade,2,2,draft 2; salvage 2; scrap 5,Speed 2 · draft 2 · salvage 2 · scrap 5,"Front Wing (2, scrap, salvage, draft)","(2, scrap, salvage, draft)",draft×2 salvage×2 scrap×5,advanced_upgrade,tunnel-vision
+italia,Italia,26,25,Gas pedal,2.742,0.698,500,advanced upgrade,0,2,direct 1; scrap 2,Speed 2 · direct 1 · scrap 2,"Gas pedal (2, scrap, direct)","(2, scrap, direct)",direct×1 scrap×2,advanced_upgrade,
+italia,Italia,27,23,Fuel,2.75,0.698,500,advanced upgrade,0,0,boost 1; salvage 2; cooldown 1,Speed 0 · boost 1 · salvage 2 · cooldown 1,"Fuel (0, cooldown, boost, salvage)","(0, cooldown, boost, salvage)",boost×1 salvage×2 cooldown×1,advanced_upgrade,
+italia,Italia,28,4,Body,2.76,0.7,500,basic upgrade,0,3,reduce 2,Speed 3 · reduce 2,"Body (3, −stress)","(3, −stress)",reduce×2,basic_upgrade,
+italia,Italia,29,28,Gas pedal,2.764,0.662,500,advanced upgrade,0,1,direct 1; accelerate 1; scrap 5,Speed 1 · direct 1 · accelerate 1 · scrap 5,"Gas pedal (1, scrap, direct, accelerate)","(1, scrap, direct, accelerate)",direct×1 accelerate×1 scrap×5,advanced_upgrade,
+italia,Italia,30,9,Brakes,2.772,0.666,500,basic upgrade,0,"[2, 4]",,"Speed [2, 4]",Brakes (2–4),(2–4),,basic_upgrade,
+italia,Italia,31,61,Sliding Skirts,2.774,0.686,500,advanced upgrade,3,0,boost 1; chain-aspiration 1; adjust 1; reduce 1,Speed 0 · boost 1 · chain-aspiration 1 · adjust 1 · reduce 1,"Sliding Skirts (0, −stress, boost, adjust↑, chain-aspiration)","(0, −stress, boost, adjust↑, chain-aspiration)",boost×1 chain-aspiration×1 adjust×1 reduce×1,advanced_upgrade,rocky-road
+italia,Italia,32,8,Brakes,2.774,0.668,500,basic upgrade,0,"[1, 3]",,"Speed [1, 3]",Brakes (1–3),(1–3),,basic_upgrade,
+italia,Italia,33,60,Front Wing,2.786,0.674,500,advanced upgrade,2,6,draft 2; heat 1,Speed 6 · draft 2 · heat 1,"Front Wing (6, draft, heat)","(6, draft, heat)",draft×2 heat×1,advanced_upgrade,tunnel-vision
+italia,Italia,34,64,Sliding Skirts,2.786,0.67,500,advanced upgrade,3,2,chain-aspiration 1; direct 1,Speed 2 · chain-aspiration 1 · direct 1,"Sliding Skirts (2, direct, chain-aspiration)","(2, direct, chain-aspiration)",chain-aspiration×1 direct×1,advanced_upgrade,rocky-road
+italia,Italia,35,55,Front Wing,2.798,0.7,500,advanced upgrade,2,0,boost 1; draft 3,Speed 0 · boost 1 · draft 3,"Front Wing (0, boost, draft)","(0, boost, draft)",boost×1 draft×3,advanced_upgrade,tunnel-vision
+italia,Italia,36,3,4 wheel drive,2.798,0.656,500,basic upgrade,0,0,boost 1; cooldown 3,Speed 0 · boost 1 · cooldown 3,"4 wheel drive (0, cooldown, boost)","(0, cooldown, boost)",boost×1 cooldown×3,basic_upgrade,
+italia,Italia,37,33,Suspension,2.802,0.684,500,advanced upgrade,0,2,refresh 1; cooldown 1,Speed 2 · refresh 1 · cooldown 1,"Suspension (2, cooldown)","(2, cooldown)",refresh×1 cooldown×1,advanced_upgrade,
+italia,Italia,38,65,Sliding Skirts,2.812,0.674,500,advanced upgrade,3,"[2, 3]",chain-aspiration 1,"Speed [2, 3] · chain-aspiration 1","Sliding Skirts (2–3, chain-aspiration)","(2–3, chain-aspiration)",chain-aspiration×1,advanced_upgrade,rocky-road
+italia,Italia,39,24,Gas pedal,2.836,0.672,500,advanced upgrade,0,1,direct 1; scrap 1,Speed 1 · direct 1 · scrap 1,"Gas pedal (1, scrap, direct)","(1, scrap, direct)",direct×1 scrap×1,advanced_upgrade,
+italia,Italia,40,49,Air intake,2.846,0.68,500,advanced upgrade,1,1,super-cool 1; salvage 4; adjust -1,Speed 1 · super-cool 1 · salvage 4 · adjust -1,"Air intake (1, adjust↓, salvage, super-cool)","(1, adjust↓, salvage, super-cool)",super-cool×1 salvage×4 adjust×-1,advanced_upgrade,heavy-rain
+italia,Italia,41,50,Air intake,2.85,0.652,500,advanced upgrade,1,0,super-cool 1; slipstream 1; reduce 1,Speed 0 · super-cool 1 · slipstream 1 · reduce 1,"Air intake (0, −stress, slipstream, super-cool)","(0, −stress, slipstream, super-cool)",super-cool×1 slipstream×1 reduce×1,advanced_upgrade,heavy-rain
+italia,Italia,42,15,R.P.M.,2.86,0.66,500,basic upgrade,0,2,slipstream 2,Speed 2 · slipstream 2,"R.P.M. (2, slipstream)","(2, slipstream)",slipstream×2,basic_upgrade,
+italia,Italia,43,31,R.P.M.,2.86,0.66,500,advanced upgrade,0,"[1, 2]",slipstream 1,"Speed [1, 2] · slipstream 1","R.P.M. (1–2, slipstream)","(1–2, slipstream)",slipstream×1,advanced_upgrade,
+italia,Italia,44,22,Fuel,2.884,0.63,500,advanced upgrade,0,2,salvage 2,Speed 2 · salvage 2,"Fuel (2, salvage)","(2, salvage)",salvage×2,advanced_upgrade,
+italia,Italia,45,29,R.P.M.,2.916,0.622,500,advanced upgrade,0,0,boost 1; slipstream 3,Speed 0 · boost 1 · slipstream 3,"R.P.M. (0, boost, slipstream)","(0, boost, slipstream)",boost×1 slipstream×3,advanced_upgrade,
+italia,Italia,46,37,Tires,2.926,0.622,500,advanced upgrade,0,1,scrap 2; adjust 1,Speed 1 · scrap 2 · adjust 1,"Tires (1, scrap, adjust↑)","(1, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+italia,Italia,47,12,Cooling system,2.936,0.63,500,basic upgrade,0,1,cooldown 2,Speed 1 · cooldown 2,"Cooling system (1, cooldown)","(1, cooldown)",cooldown×2,basic_upgrade,
+italia,Italia,48,36,Tires,2.95,0.628,500,advanced upgrade,0,2,adjust -1; cooldown 3,Speed 2 · adjust -1 · cooldown 3,"Tires (2, cooldown, adjust↓)","(2, cooldown, adjust↓)",adjust×-1 cooldown×3,advanced_upgrade,
+italia,Italia,49,54,Air intake,2.998,0.602,500,advanced upgrade,1,0,boost 1; super-cool 1; refresh 1; adjust -1,Speed 0 · boost 1 · super-cool 1 · refresh 1 · adjust -1,"Air intake (0, boost, adjust↓, super-cool)","(0, boost, adjust↓, super-cool)",boost×1 super-cool×1 refresh×1 adjust×-1,advanced_upgrade,heavy-rain
+italia,Italia,50,18,Body,3.002,0.616,500,advanced upgrade,0,6,reduce 3; heat 1,Speed 6 · reduce 3 · heat 1,"Body (6, −stress, heat)","(6, −stress, heat)",reduce×3 heat×1,advanced_upgrade,
+italia,Italia,51,20,Body,3.002,0.612,500,advanced upgrade,0,2,reduce 1; slipstream 1,Speed 2 · reduce 1 · slipstream 1,"Body (2, −stress, slipstream)","(2, −stress, slipstream)",reduce×1 slipstream×1,advanced_upgrade,
+italia,Italia,52,14,R.P.M.,3.016,0.62,500,basic upgrade,0,1,slipstream 2,Speed 1 · slipstream 2,"R.P.M. (1, slipstream)","(1, slipstream)",slipstream×2,basic_upgrade,
+italia,Italia,53,44,Wings,3.042,0.602,500,advanced upgrade,0,4,heat 1; scrap 2; adjust 2,Speed 4 · heat 1 · scrap 2 · adjust 2,"Wings (4, scrap, adjust↑, heat)","(4, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+italia,Italia,54,32,Suspension,3.054,0.602,500,advanced upgrade,0,2,refresh 1; reduce 1,Speed 2 · refresh 1 · reduce 1,"Suspension (2, −stress)","(2, −stress)",refresh×1 reduce×1,advanced_upgrade,
+italia,Italia,55,45,Wings,3.056,0.58,500,advanced upgrade,0,3,heat 1; scrap 2; adjust 2,Speed 3 · heat 1 · scrap 2 · adjust 2,"Wings (3, scrap, adjust↑, heat)","(3, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+italia,Italia,56,56,Front Wing,3.066,0.61,500,advanced upgrade,2,0,draft 1; direct 1; refresh 1,Speed 0 · draft 1 · direct 1 · refresh 1,"Front Wing (0, direct, draft)","(0, direct, draft)",draft×1 direct×1 refresh×1,advanced_upgrade,tunnel-vision
+italia,Italia,57,66,Sliding Skirts,3.094,0.562,500,advanced upgrade,3,"[4, 6]",chain-aspiration 1; heat 1,"Speed [4, 6] · chain-aspiration 1 · heat 1","Sliding Skirts (4–6, chain-aspiration, heat)","(4–6, chain-aspiration, heat)",chain-aspiration×1 heat×1,advanced_upgrade,rocky-road
+italia,Italia,58,6,Body,3.128,0.558,500,basic upgrade,0,1,reduce 3,Speed 1 · reduce 3,"Body (1, −stress)","(1, −stress)",reduce×3,basic_upgrade,
+italia,Italia,59,35,Suspension,3.138,0.602,500,advanced upgrade,0,1,refresh 1; slipstream 1,Speed 1 · refresh 1 · slipstream 1,"Suspension (1, slipstream)","(1, slipstream)",refresh×1 slipstream×1,advanced_upgrade,
+italia,Italia,60,62,Sliding Skirts,3.158,0.57,500,advanced upgrade,3,1,chain-aspiration 1; slipstream 1,Speed 1 · chain-aspiration 1 · slipstream 1,"Sliding Skirts (1, slipstream, chain-aspiration)","(1, slipstream, chain-aspiration)",chain-aspiration×1 slipstream×1,advanced_upgrade,rocky-road
+italia,Italia,61,46,Wings,3.184,0.556,500,advanced upgrade,0,6,heat 2; adjust 3,Speed 6 · heat 2 · adjust 3,"Wings (6, adjust↑, heat×2)","(6, adjust↑, heat×2)",heat×2 adjust×3,advanced_upgrade,
+italia,Italia,62,63,Sliding Skirts,3.19,0.556,500,advanced upgrade,3,1,chain-aspiration 1; refresh 1,Speed 1 · chain-aspiration 1 · refresh 1,"Sliding Skirts (1, chain-aspiration)","(1, chain-aspiration)",chain-aspiration×1 refresh×1,advanced_upgrade,rocky-road
+italia,Italia,63,17,Upgrade Heat,3.352,0.514,500,heat card,0,0,,Heat card (no speed/symbols); type 48 is its advanced-set alias,Upgrade Heat (#17),,,heat,
+italia,Italia,64,7,Brakes,3.434,0.478,500,basic upgrade,0,"[1, 2, 3, 4]",heat 1,"Speed [1, 2, 3, 4] · heat 1","Brakes (1–4, heat)","(1–4, heat)",heat×1,basic_upgrade,
+italia,Italia,65,30,R.P.M.,3.626,0.44,500,advanced upgrade,0,1,heat 1; slipstream 3,Speed 1 · heat 1 · slipstream 3,"R.P.M. (1, slipstream, heat)","(1, slipstream, heat)",heat×1 slipstream×3,advanced_upgrade,
+france,France,1,2,4 wheel drive,2.0,0.882,500,basic upgrade,0,0,boost 3,Speed 0 · boost 3,"4 wheel drive (0, boost)","(0, boost)",boost×3,basic_upgrade,
+france,France,2,58,Front Wing,2.104,0.876,500,advanced upgrade,2,3,draft 1; adjust 1; scrap 3,Speed 3 · draft 1 · adjust 1 · scrap 3,"Front Wing (3, scrap, adjust↑, draft)","(3, scrap, adjust↑, draft)",draft×1 adjust×1 scrap×3,advanced_upgrade,tunnel-vision
+france,France,3,52,Air intake,2.202,0.86,500,advanced upgrade,1,3,super-cool 1; scrap 3,Speed 3 · super-cool 1 · scrap 3,"Air intake (3, scrap, super-cool)","(3, scrap, super-cool)",super-cool×1 scrap×3,advanced_upgrade,heavy-rain
+france,France,4,53,Air intake,2.208,0.834,500,advanced upgrade,1,4,super-cool 1; scrap 4,Speed 4 · super-cool 1 · scrap 4,"Air intake (4, scrap, super-cool)","(4, scrap, super-cool)",super-cool×1 scrap×4,advanced_upgrade,heavy-rain
+france,France,5,1,4 wheel drive,2.21,0.84,500,basic upgrade,0,4,boost 1,Speed 4 · boost 1,"4 wheel drive (4, boost)","(4, boost)",boost×1,basic_upgrade,
+france,France,6,38,Tires,2.228,0.85,500,advanced upgrade,0,2,scrap 2; adjust 1,Speed 2 · scrap 2 · adjust 1,"Tires (2, scrap, adjust↑)","(2, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+france,France,7,26,Gas pedal,2.242,0.828,500,advanced upgrade,0,3,direct 1; scrap 3,Speed 3 · direct 1 · scrap 3,"Gas pedal (3, scrap, direct)","(3, scrap, direct)",direct×1 scrap×3,advanced_upgrade,
+france,France,8,25,Gas pedal,2.306,0.832,500,advanced upgrade,0,2,direct 1; scrap 2,Speed 2 · direct 1 · scrap 2,"Gas pedal (2, scrap, direct)","(2, scrap, direct)",direct×1 scrap×2,advanced_upgrade,
+france,France,9,21,Cooling system,2.31,0.826,500,advanced upgrade,0,4,scrap 2; cooldown 1,Speed 4 · scrap 2 · cooldown 1,"Cooling system (4, cooldown, scrap)","(4, cooldown, scrap)",scrap×2 cooldown×1,advanced_upgrade,
+france,France,10,51,Air intake,2.318,0.834,500,advanced upgrade,1,1,super-cool 1; cooldown 1; scrap 1,Speed 1 · super-cool 1 · cooldown 1 · scrap 1,"Air intake (1, cooldown, scrap, super-cool)","(1, cooldown, scrap, super-cool)",super-cool×1 cooldown×1 scrap×1,advanced_upgrade,heavy-rain
+france,France,11,37,Tires,2.34,0.806,500,advanced upgrade,0,1,scrap 2; adjust 1,Speed 1 · scrap 2 · adjust 1,"Tires (1, scrap, adjust↑)","(1, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+france,France,12,65,Sliding Skirts,2.344,0.826,500,advanced upgrade,3,"[2, 3]",chain-aspiration 1,"Speed [2, 3] · chain-aspiration 1","Sliding Skirts (2–3, chain-aspiration)","(2–3, chain-aspiration)",chain-aspiration×1,advanced_upgrade,rocky-road
+france,France,13,24,Gas pedal,2.352,0.788,500,advanced upgrade,0,1,direct 1; scrap 1,Speed 1 · direct 1 · scrap 1,"Gas pedal (1, scrap, direct)","(1, scrap, direct)",direct×1 scrap×1,advanced_upgrade,
+france,France,14,8,Brakes,2.358,0.812,500,basic upgrade,0,"[1, 3]",,"Speed [1, 3]",Brakes (1–3),(1–3),,basic_upgrade,
+france,France,15,28,Gas pedal,2.37,0.81,500,advanced upgrade,0,1,direct 1; accelerate 1; scrap 5,Speed 1 · direct 1 · accelerate 1 · scrap 5,"Gas pedal (1, scrap, direct, accelerate)","(1, scrap, direct, accelerate)",direct×1 accelerate×1 scrap×5,advanced_upgrade,
+france,France,16,57,Front Wing,2.372,0.826,500,advanced upgrade,2,2,draft 2; salvage 2; scrap 5,Speed 2 · draft 2 · salvage 2 · scrap 5,"Front Wing (2, scrap, salvage, draft)","(2, scrap, salvage, draft)",draft×2 salvage×2 scrap×5,advanced_upgrade,tunnel-vision
+france,France,17,9,Brakes,2.38,0.814,500,basic upgrade,0,"[2, 4]",,"Speed [2, 4]",Brakes (2–4),(2–4),,basic_upgrade,
+france,France,18,59,Front Wing,2.382,0.8,500,advanced upgrade,2,4,draft 1; refresh 1; scrap 4,Speed 4 · draft 1 · refresh 1 · scrap 4,"Front Wing (4, scrap, draft)","(4, scrap, draft)",draft×1 refresh×1 scrap×4,advanced_upgrade,tunnel-vision
+france,France,19,5,Body,2.382,0.798,500,basic upgrade,0,5,reduce 1,Speed 5 · reduce 1,"Body (5, −stress)","(5, −stress)",reduce×1,basic_upgrade,
+france,France,20,40,Tires,2.414,0.792,500,advanced upgrade,0,0,boost 1; adjust 1; slipstream 1; cooldown 1,Speed 0 · boost 1 · adjust 1 · slipstream 1 · cooldown 1,"Tires (0, cooldown, boost, adjust↑, slipstream)","(0, cooldown, boost, adjust↑, slipstream)",boost×1 adjust×1 slipstream×1 cooldown×1,advanced_upgrade,
+france,France,21,4,Body,2.416,0.796,500,basic upgrade,0,3,reduce 2,Speed 3 · reduce 2,"Body (3, −stress)","(3, −stress)",reduce×2,basic_upgrade,
+france,France,22,19,Body,2.422,0.806,500,advanced upgrade,0,2,reduce 1; cooldown 1; scrap 2,Speed 2 · reduce 1 · cooldown 1 · scrap 2,"Body (2, −stress, cooldown, scrap)","(2, −stress, cooldown, scrap)",reduce×1 cooldown×1 scrap×2,advanced_upgrade,
+france,France,23,64,Sliding Skirts,2.424,0.782,500,advanced upgrade,3,2,chain-aspiration 1; direct 1,Speed 2 · chain-aspiration 1 · direct 1,"Sliding Skirts (2, direct, chain-aspiration)","(2, direct, chain-aspiration)",chain-aspiration×1 direct×1,advanced_upgrade,rocky-road
+france,France,24,13,Cooling system,2.43,0.782,500,basic upgrade,0,3,cooldown 1,Speed 3 · cooldown 1,"Cooling system (3, cooldown)","(3, cooldown)",cooldown×1,basic_upgrade,
+france,France,25,44,Wings,2.436,0.792,500,advanced upgrade,0,4,heat 1; scrap 2; adjust 2,Speed 4 · heat 1 · scrap 2 · adjust 2,"Wings (4, scrap, adjust↑, heat)","(4, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+france,France,26,16,R.P.M.,2.444,0.804,500,basic upgrade,0,3,slipstream 2,Speed 3 · slipstream 2,"R.P.M. (3, slipstream)","(3, slipstream)",slipstream×2,basic_upgrade,
+france,France,27,43,Turbo charger,2.454,0.778,500,advanced upgrade,0,8,heat 1; scrap 6,Speed 8 · heat 1 · scrap 6,"Turbo charger (8, scrap, heat)","(8, scrap, heat)",heat×1 scrap×6,advanced_upgrade,
+france,France,28,10,Brakes,2.456,0.79,500,basic upgrade,0,"[1, 5]",,"Speed [1, 5]",Brakes (1–5),(1–5),,basic_upgrade,
+france,France,29,31,R.P.M.,2.46,0.808,500,advanced upgrade,0,"[1, 2]",slipstream 1,"Speed [1, 2] · slipstream 1","R.P.M. (1–2, slipstream)","(1–2, slipstream)",slipstream×1,advanced_upgrade,
+france,France,30,61,Sliding Skirts,2.462,0.792,500,advanced upgrade,3,0,boost 1; chain-aspiration 1; adjust 1; reduce 1,Speed 0 · boost 1 · chain-aspiration 1 · adjust 1 · reduce 1,"Sliding Skirts (0, −stress, boost, adjust↑, chain-aspiration)","(0, −stress, boost, adjust↑, chain-aspiration)",boost×1 chain-aspiration×1 adjust×1 reduce×1,advanced_upgrade,rocky-road
+france,France,31,34,Suspension,2.468,0.788,500,advanced upgrade,0,4,refresh 1,Speed 4 · refresh 1,Suspension (4),(4),refresh×1,advanced_upgrade,
+france,France,32,50,Air intake,2.496,0.788,500,advanced upgrade,1,0,super-cool 1; slipstream 1; reduce 1,Speed 0 · super-cool 1 · slipstream 1 · reduce 1,"Air intake (0, −stress, slipstream, super-cool)","(0, −stress, slipstream, super-cool)",super-cool×1 slipstream×1 reduce×1,advanced_upgrade,heavy-rain
+france,France,33,20,Body,2.502,0.77,500,advanced upgrade,0,2,reduce 1; slipstream 1,Speed 2 · reduce 1 · slipstream 1,"Body (2, −stress, slipstream)","(2, −stress, slipstream)",reduce×1 slipstream×1,advanced_upgrade,
+france,France,34,22,Fuel,2.504,0.758,500,advanced upgrade,0,2,salvage 2,Speed 2 · salvage 2,"Fuel (2, salvage)","(2, salvage)",salvage×2,advanced_upgrade,
+france,France,35,47,4 wheel drive,2.51,0.778,500,advanced upgrade,0,0,boost 1; accelerate 1,Speed 0 · boost 1 · accelerate 1,"4 wheel drive (0, boost, accelerate)","(0, boost, accelerate)",boost×1 accelerate×1,advanced_upgrade,
+france,France,36,15,R.P.M.,2.554,0.766,500,basic upgrade,0,2,slipstream 2,Speed 2 · slipstream 2,"R.P.M. (2, slipstream)","(2, slipstream)",slipstream×2,basic_upgrade,
+france,France,37,33,Suspension,2.558,0.75,500,advanced upgrade,0,2,refresh 1; cooldown 1,Speed 2 · refresh 1 · cooldown 1,"Suspension (2, cooldown)","(2, cooldown)",refresh×1 cooldown×1,advanced_upgrade,
+france,France,38,41,Tires,2.56,0.76,500,advanced upgrade,0,0,boost 2; adjust 2,Speed 0 · boost 2 · adjust 2,"Tires (0, boost, adjust↑)","(0, boost, adjust↑)",boost×2 adjust×2,advanced_upgrade,
+france,France,39,55,Front Wing,2.562,0.768,500,advanced upgrade,2,0,boost 1; draft 3,Speed 0 · boost 1 · draft 3,"Front Wing (0, boost, draft)","(0, boost, draft)",boost×1 draft×3,advanced_upgrade,tunnel-vision
+france,France,40,11,Cooling system,2.57,0.754,500,basic upgrade,0,6,heat 1; cooldown 1,Speed 6 · heat 1 · cooldown 1,"Cooling system (6, cooldown, heat)","(6, cooldown, heat)",heat×1 cooldown×1,basic_upgrade,
+france,France,41,45,Wings,2.582,0.752,500,advanced upgrade,0,3,heat 1; scrap 2; adjust 2,Speed 3 · heat 1 · scrap 2 · adjust 2,"Wings (3, scrap, adjust↑, heat)","(3, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+france,France,42,27,Gas pedal,2.586,0.74,500,advanced upgrade,0,4,direct 1; heat 1; cooldown 1,Speed 4 · direct 1 · heat 1 · cooldown 1,"Gas pedal (4, cooldown, direct, heat)","(4, cooldown, direct, heat)",direct×1 heat×1 cooldown×1,advanced_upgrade,
+france,France,43,32,Suspension,2.594,0.728,500,advanced upgrade,0,2,refresh 1; reduce 1,Speed 2 · refresh 1 · reduce 1,"Suspension (2, −stress)","(2, −stress)",refresh×1 reduce×1,advanced_upgrade,
+france,France,44,29,R.P.M.,2.638,0.732,500,advanced upgrade,0,0,boost 1; slipstream 3,Speed 0 · boost 1 · slipstream 3,"R.P.M. (0, boost, slipstream)","(0, boost, slipstream)",boost×1 slipstream×3,advanced_upgrade,
+france,France,45,12,Cooling system,2.64,0.75,500,basic upgrade,0,1,cooldown 2,Speed 1 · cooldown 2,"Cooling system (1, cooldown)","(1, cooldown)",cooldown×2,basic_upgrade,
+france,France,46,49,Air intake,2.64,0.73,500,advanced upgrade,1,1,super-cool 1; salvage 4; adjust -1,Speed 1 · super-cool 1 · salvage 4 · adjust -1,"Air intake (1, adjust↓, salvage, super-cool)","(1, adjust↓, salvage, super-cool)",super-cool×1 salvage×4 adjust×-1,advanced_upgrade,heavy-rain
+france,France,47,56,Front Wing,2.644,0.738,500,advanced upgrade,2,0,draft 1; direct 1; refresh 1,Speed 0 · draft 1 · direct 1 · refresh 1,"Front Wing (0, direct, draft)","(0, direct, draft)",draft×1 direct×1 refresh×1,advanced_upgrade,tunnel-vision
+france,France,48,62,Sliding Skirts,2.648,0.746,500,advanced upgrade,3,1,chain-aspiration 1; slipstream 1,Speed 1 · chain-aspiration 1 · slipstream 1,"Sliding Skirts (1, slipstream, chain-aspiration)","(1, slipstream, chain-aspiration)",chain-aspiration×1 slipstream×1,advanced_upgrade,rocky-road
+france,France,49,39,Tires,2.65,0.732,500,advanced upgrade,0,3,adjust -1; cooldown 2,Speed 3 · adjust -1 · cooldown 2,"Tires (3, cooldown, adjust↓)","(3, cooldown, adjust↓)",adjust×-1 cooldown×2,advanced_upgrade,
+france,France,50,14,R.P.M.,2.658,0.728,500,basic upgrade,0,1,slipstream 2,Speed 1 · slipstream 2,"R.P.M. (1, slipstream)","(1, slipstream)",slipstream×2,basic_upgrade,
+france,France,51,23,Fuel,2.66,0.74,500,advanced upgrade,0,0,boost 1; salvage 2; cooldown 1,Speed 0 · boost 1 · salvage 2 · cooldown 1,"Fuel (0, cooldown, boost, salvage)","(0, cooldown, boost, salvage)",boost×1 salvage×2 cooldown×1,advanced_upgrade,
+france,France,52,60,Front Wing,2.674,0.72,500,advanced upgrade,2,6,draft 2; heat 1,Speed 6 · draft 2 · heat 1,"Front Wing (6, draft, heat)","(6, draft, heat)",draft×2 heat×1,advanced_upgrade,tunnel-vision
+france,France,53,6,Body,2.694,0.738,500,basic upgrade,0,1,reduce 3,Speed 1 · reduce 3,"Body (1, −stress)","(1, −stress)",reduce×3,basic_upgrade,
+france,France,54,18,Body,2.696,0.718,500,advanced upgrade,0,6,reduce 3; heat 1,Speed 6 · reduce 3 · heat 1,"Body (6, −stress, heat)","(6, −stress, heat)",reduce×3 heat×1,advanced_upgrade,
+france,France,55,63,Sliding Skirts,2.7,0.742,500,advanced upgrade,3,1,chain-aspiration 1; refresh 1,Speed 1 · chain-aspiration 1 · refresh 1,"Sliding Skirts (1, chain-aspiration)","(1, chain-aspiration)",chain-aspiration×1 refresh×1,advanced_upgrade,rocky-road
+france,France,56,35,Suspension,2.712,0.698,500,advanced upgrade,0,1,refresh 1; slipstream 1,Speed 1 · refresh 1 · slipstream 1,"Suspension (1, slipstream)","(1, slipstream)",refresh×1 slipstream×1,advanced_upgrade,
+france,France,57,36,Tires,2.758,0.706,500,advanced upgrade,0,2,adjust -1; cooldown 3,Speed 2 · adjust -1 · cooldown 3,"Tires (2, cooldown, adjust↓)","(2, cooldown, adjust↓)",adjust×-1 cooldown×3,advanced_upgrade,
+france,France,58,66,Sliding Skirts,2.778,0.696,500,advanced upgrade,3,"[4, 6]",chain-aspiration 1; heat 1,"Speed [4, 6] · chain-aspiration 1 · heat 1","Sliding Skirts (4–6, chain-aspiration, heat)","(4–6, chain-aspiration, heat)",chain-aspiration×1 heat×1,advanced_upgrade,rocky-road
+france,France,59,3,4 wheel drive,2.778,0.694,500,basic upgrade,0,0,boost 1; cooldown 3,Speed 0 · boost 1 · cooldown 3,"4 wheel drive (0, cooldown, boost)","(0, cooldown, boost)",boost×1 cooldown×3,basic_upgrade,
+france,France,60,42,Turbo charger,2.8,0.7,500,advanced upgrade,0,7,heat 2; cooldown 3,Speed 7 · heat 2 · cooldown 3,"Turbo charger (7, cooldown, heat×2)","(7, cooldown, heat×2)",heat×2 cooldown×3,advanced_upgrade,
+france,France,61,46,Wings,2.848,0.684,500,advanced upgrade,0,6,heat 2; adjust 3,Speed 6 · heat 2 · adjust 3,"Wings (6, adjust↑, heat×2)","(6, adjust↑, heat×2)",heat×2 adjust×3,advanced_upgrade,
+france,France,62,54,Air intake,2.85,0.684,500,advanced upgrade,1,0,boost 1; super-cool 1; refresh 1; adjust -1,Speed 0 · boost 1 · super-cool 1 · refresh 1 · adjust -1,"Air intake (0, boost, adjust↓, super-cool)","(0, boost, adjust↓, super-cool)",boost×1 super-cool×1 refresh×1 adjust×-1,advanced_upgrade,heavy-rain
+france,France,63,17,Upgrade Heat,2.894,0.68,500,heat card,0,0,,Heat card (no speed/symbols); type 48 is its advanced-set alias,Upgrade Heat (#17),,,heat,
+france,France,64,7,Brakes,3.062,0.608,500,basic upgrade,0,"[1, 2, 3, 4]",heat 1,"Speed [1, 2, 3, 4] · heat 1","Brakes (1–4, heat)","(1–4, heat)",heat×1,basic_upgrade,
+france,France,65,30,R.P.M.,3.174,0.558,500,advanced upgrade,0,1,heat 1; slipstream 3,Speed 1 · heat 1 · slipstream 3,"R.P.M. (1, slipstream, heat)","(1, slipstream, heat)",heat×1 slipstream×3,advanced_upgrade,
+japan,Japan,1,1,4 wheel drive,3.142,0.556,500,basic upgrade,0,4,boost 1,Speed 4 · boost 1,"4 wheel drive (4, boost)","(4, boost)",boost×1,basic_upgrade,
+japan,Japan,2,2,4 wheel drive,3.162,0.566,500,basic upgrade,0,0,boost 3,Speed 0 · boost 3,"4 wheel drive (0, boost)","(0, boost)",boost×3,basic_upgrade,
+japan,Japan,3,51,Air intake,3.182,0.564,500,advanced upgrade,1,1,super-cool 1; cooldown 1; scrap 1,Speed 1 · super-cool 1 · cooldown 1 · scrap 1,"Air intake (1, cooldown, scrap, super-cool)","(1, cooldown, scrap, super-cool)",super-cool×1 cooldown×1 scrap×1,advanced_upgrade,heavy-rain
+japan,Japan,4,53,Air intake,3.196,0.558,500,advanced upgrade,1,4,super-cool 1; scrap 4,Speed 4 · super-cool 1 · scrap 4,"Air intake (4, scrap, super-cool)","(4, scrap, super-cool)",super-cool×1 scrap×4,advanced_upgrade,heavy-rain
+japan,Japan,5,52,Air intake,3.208,0.558,500,advanced upgrade,1,3,super-cool 1; scrap 3,Speed 3 · super-cool 1 · scrap 3,"Air intake (3, scrap, super-cool)","(3, scrap, super-cool)",super-cool×1 scrap×3,advanced_upgrade,heavy-rain
+japan,Japan,6,13,Cooling system,3.242,0.532,500,basic upgrade,0,3,cooldown 1,Speed 3 · cooldown 1,"Cooling system (3, cooldown)","(3, cooldown)",cooldown×1,basic_upgrade,
+japan,Japan,7,40,Tires,3.256,0.526,500,advanced upgrade,0,0,boost 1; adjust 1; slipstream 1; cooldown 1,Speed 0 · boost 1 · adjust 1 · slipstream 1 · cooldown 1,"Tires (0, cooldown, boost, adjust↑, slipstream)","(0, cooldown, boost, adjust↑, slipstream)",boost×1 adjust×1 slipstream×1 cooldown×1,advanced_upgrade,
+japan,Japan,8,41,Tires,3.282,0.536,500,advanced upgrade,0,0,boost 2; adjust 2,Speed 0 · boost 2 · adjust 2,"Tires (0, boost, adjust↑)","(0, boost, adjust↑)",boost×2 adjust×2,advanced_upgrade,
+japan,Japan,9,11,Cooling system,3.286,0.498,500,basic upgrade,0,6,heat 1; cooldown 1,Speed 6 · heat 1 · cooldown 1,"Cooling system (6, cooldown, heat)","(6, cooldown, heat)",heat×1 cooldown×1,basic_upgrade,
+japan,Japan,10,38,Tires,3.296,0.51,500,advanced upgrade,0,2,scrap 2; adjust 1,Speed 2 · scrap 2 · adjust 1,"Tires (2, scrap, adjust↑)","(2, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+japan,Japan,11,58,Front Wing,3.302,0.514,500,advanced upgrade,2,3,draft 1; adjust 1; scrap 3,Speed 3 · draft 1 · adjust 1 · scrap 3,"Front Wing (3, scrap, adjust↑, draft)","(3, scrap, adjust↑, draft)",draft×1 adjust×1 scrap×3,advanced_upgrade,tunnel-vision
+japan,Japan,12,50,Air intake,3.314,0.514,500,advanced upgrade,1,0,super-cool 1; slipstream 1; reduce 1,Speed 0 · super-cool 1 · slipstream 1 · reduce 1,"Air intake (0, −stress, slipstream, super-cool)","(0, −stress, slipstream, super-cool)",super-cool×1 slipstream×1 reduce×1,advanced_upgrade,heavy-rain
+japan,Japan,13,16,R.P.M.,3.314,0.492,500,basic upgrade,0,3,slipstream 2,Speed 3 · slipstream 2,"R.P.M. (3, slipstream)","(3, slipstream)",slipstream×2,basic_upgrade,
+japan,Japan,14,5,Body,3.32,0.52,500,basic upgrade,0,5,reduce 1,Speed 5 · reduce 1,"Body (5, −stress)","(5, −stress)",reduce×1,basic_upgrade,
+japan,Japan,15,12,Cooling system,3.342,0.526,500,basic upgrade,0,1,cooldown 2,Speed 1 · cooldown 2,"Cooling system (1, cooldown)","(1, cooldown)",cooldown×2,basic_upgrade,
+japan,Japan,16,43,Turbo charger,3.354,0.492,500,advanced upgrade,0,8,heat 1; scrap 6,Speed 8 · heat 1 · scrap 6,"Turbo charger (8, scrap, heat)","(8, scrap, heat)",heat×1 scrap×6,advanced_upgrade,
+japan,Japan,17,21,Cooling system,3.37,0.5,500,advanced upgrade,0,4,scrap 2; cooldown 1,Speed 4 · scrap 2 · cooldown 1,"Cooling system (4, cooldown, scrap)","(4, cooldown, scrap)",scrap×2 cooldown×1,advanced_upgrade,
+japan,Japan,18,31,R.P.M.,3.372,0.516,500,advanced upgrade,0,"[1, 2]",slipstream 1,"Speed [1, 2] · slipstream 1","R.P.M. (1–2, slipstream)","(1–2, slipstream)",slipstream×1,advanced_upgrade,
+japan,Japan,19,19,Body,3.384,0.494,500,advanced upgrade,0,2,reduce 1; cooldown 1; scrap 2,Speed 2 · reduce 1 · cooldown 1 · scrap 2,"Body (2, −stress, cooldown, scrap)","(2, −stress, cooldown, scrap)",reduce×1 cooldown×1 scrap×2,advanced_upgrade,
+japan,Japan,20,47,4 wheel drive,3.384,0.492,500,advanced upgrade,0,0,boost 1; accelerate 1,Speed 0 · boost 1 · accelerate 1,"4 wheel drive (0, boost, accelerate)","(0, boost, accelerate)",boost×1 accelerate×1,advanced_upgrade,
+japan,Japan,21,55,Front Wing,3.394,0.478,500,advanced upgrade,2,0,boost 1; draft 3,Speed 0 · boost 1 · draft 3,"Front Wing (0, boost, draft)","(0, boost, draft)",boost×1 draft×3,advanced_upgrade,tunnel-vision
+japan,Japan,22,39,Tires,3.4,0.482,500,advanced upgrade,0,3,adjust -1; cooldown 2,Speed 3 · adjust -1 · cooldown 2,"Tires (3, cooldown, adjust↓)","(3, cooldown, adjust↓)",adjust×-1 cooldown×2,advanced_upgrade,
+japan,Japan,23,25,Gas pedal,3.414,0.48,500,advanced upgrade,0,2,direct 1; scrap 2,Speed 2 · direct 1 · scrap 2,"Gas pedal (2, scrap, direct)","(2, scrap, direct)",direct×1 scrap×2,advanced_upgrade,
+japan,Japan,24,4,Body,3.416,0.49,500,basic upgrade,0,3,reduce 2,Speed 3 · reduce 2,"Body (3, −stress)","(3, −stress)",reduce×2,basic_upgrade,
+japan,Japan,25,26,Gas pedal,3.416,0.476,500,advanced upgrade,0,3,direct 1; scrap 3,Speed 3 · direct 1 · scrap 3,"Gas pedal (3, scrap, direct)","(3, scrap, direct)",direct×1 scrap×3,advanced_upgrade,
+japan,Japan,26,64,Sliding Skirts,3.416,0.472,500,advanced upgrade,3,2,chain-aspiration 1; direct 1,Speed 2 · chain-aspiration 1 · direct 1,"Sliding Skirts (2, direct, chain-aspiration)","(2, direct, chain-aspiration)",chain-aspiration×1 direct×1,advanced_upgrade,rocky-road
+japan,Japan,27,24,Gas pedal,3.424,0.466,500,advanced upgrade,0,1,direct 1; scrap 1,Speed 1 · direct 1 · scrap 1,"Gas pedal (1, scrap, direct)","(1, scrap, direct)",direct×1 scrap×1,advanced_upgrade,
+japan,Japan,28,23,Fuel,3.444,0.478,500,advanced upgrade,0,0,boost 1; salvage 2; cooldown 1,Speed 0 · boost 1 · salvage 2 · cooldown 1,"Fuel (0, cooldown, boost, salvage)","(0, cooldown, boost, salvage)",boost×1 salvage×2 cooldown×1,advanced_upgrade,
+japan,Japan,29,15,R.P.M.,3.448,0.476,500,basic upgrade,0,2,slipstream 2,Speed 2 · slipstream 2,"R.P.M. (2, slipstream)","(2, slipstream)",slipstream×2,basic_upgrade,
+japan,Japan,30,37,Tires,3.45,0.452,500,advanced upgrade,0,1,scrap 2; adjust 1,Speed 1 · scrap 2 · adjust 1,"Tires (1, scrap, adjust↑)","(1, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+japan,Japan,31,57,Front Wing,3.452,0.468,500,advanced upgrade,2,2,draft 2; salvage 2; scrap 5,Speed 2 · draft 2 · salvage 2 · scrap 5,"Front Wing (2, scrap, salvage, draft)","(2, scrap, salvage, draft)",draft×2 salvage×2 scrap×5,advanced_upgrade,tunnel-vision
+japan,Japan,32,9,Brakes,3.464,0.464,500,basic upgrade,0,"[2, 4]",,"Speed [2, 4]",Brakes (2–4),(2–4),,basic_upgrade,
+japan,Japan,33,61,Sliding Skirts,3.468,0.482,500,advanced upgrade,3,0,boost 1; chain-aspiration 1; adjust 1; reduce 1,Speed 0 · boost 1 · chain-aspiration 1 · adjust 1 · reduce 1,"Sliding Skirts (0, −stress, boost, adjust↑, chain-aspiration)","(0, −stress, boost, adjust↑, chain-aspiration)",boost×1 chain-aspiration×1 adjust×1 reduce×1,advanced_upgrade,rocky-road
+japan,Japan,34,20,Body,3.47,0.464,500,advanced upgrade,0,2,reduce 1; slipstream 1,Speed 2 · reduce 1 · slipstream 1,"Body (2, −stress, slipstream)","(2, −stress, slipstream)",reduce×1 slipstream×1,advanced_upgrade,
+japan,Japan,35,28,Gas pedal,3.472,0.454,500,advanced upgrade,0,1,direct 1; accelerate 1; scrap 5,Speed 1 · direct 1 · accelerate 1 · scrap 5,"Gas pedal (1, scrap, direct, accelerate)","(1, scrap, direct, accelerate)",direct×1 accelerate×1 scrap×5,advanced_upgrade,
+japan,Japan,36,33,Suspension,3.48,0.47,500,advanced upgrade,0,2,refresh 1; cooldown 1,Speed 2 · refresh 1 · cooldown 1,"Suspension (2, cooldown)","(2, cooldown)",refresh×1 cooldown×1,advanced_upgrade,
+japan,Japan,37,56,Front Wing,3.492,0.45,500,advanced upgrade,2,0,draft 1; direct 1; refresh 1,Speed 0 · draft 1 · direct 1 · refresh 1,"Front Wing (0, direct, draft)","(0, direct, draft)",draft×1 direct×1 refresh×1,advanced_upgrade,tunnel-vision
+japan,Japan,38,10,Brakes,3.496,0.452,500,basic upgrade,0,"[1, 5]",,"Speed [1, 5]",Brakes (1–5),(1–5),,basic_upgrade,
+japan,Japan,39,27,Gas pedal,3.5,0.436,500,advanced upgrade,0,4,direct 1; heat 1; cooldown 1,Speed 4 · direct 1 · heat 1 · cooldown 1,"Gas pedal (4, cooldown, direct, heat)","(4, cooldown, direct, heat)",direct×1 heat×1 cooldown×1,advanced_upgrade,
+japan,Japan,40,8,Brakes,3.502,0.446,500,basic upgrade,0,"[1, 3]",,"Speed [1, 3]",Brakes (1–3),(1–3),,basic_upgrade,
+japan,Japan,41,60,Front Wing,3.508,0.452,500,advanced upgrade,2,6,draft 2; heat 1,Speed 6 · draft 2 · heat 1,"Front Wing (6, draft, heat)","(6, draft, heat)",draft×2 heat×1,advanced_upgrade,tunnel-vision
+japan,Japan,42,65,Sliding Skirts,3.512,0.44,500,advanced upgrade,3,"[2, 3]",chain-aspiration 1,"Speed [2, 3] · chain-aspiration 1","Sliding Skirts (2–3, chain-aspiration)","(2–3, chain-aspiration)",chain-aspiration×1,advanced_upgrade,rocky-road
+japan,Japan,43,66,Sliding Skirts,3.524,0.452,500,advanced upgrade,3,"[4, 6]",chain-aspiration 1; heat 1,"Speed [4, 6] · chain-aspiration 1 · heat 1","Sliding Skirts (4–6, chain-aspiration, heat)","(4–6, chain-aspiration, heat)",chain-aspiration×1 heat×1,advanced_upgrade,rocky-road
+japan,Japan,44,18,Body,3.546,0.414,500,advanced upgrade,0,6,reduce 3; heat 1,Speed 6 · reduce 3 · heat 1,"Body (6, −stress, heat)","(6, −stress, heat)",reduce×3 heat×1,advanced_upgrade,
+japan,Japan,45,49,Air intake,3.556,0.422,500,advanced upgrade,1,1,super-cool 1; salvage 4; adjust -1,Speed 1 · super-cool 1 · salvage 4 · adjust -1,"Air intake (1, adjust↓, salvage, super-cool)","(1, adjust↓, salvage, super-cool)",super-cool×1 salvage×4 adjust×-1,advanced_upgrade,heavy-rain
+japan,Japan,46,62,Sliding Skirts,3.556,0.402,500,advanced upgrade,3,1,chain-aspiration 1; slipstream 1,Speed 1 · chain-aspiration 1 · slipstream 1,"Sliding Skirts (1, slipstream, chain-aspiration)","(1, slipstream, chain-aspiration)",chain-aspiration×1 slipstream×1,advanced_upgrade,rocky-road
+japan,Japan,47,59,Front Wing,3.572,0.43,500,advanced upgrade,2,4,draft 1; refresh 1; scrap 4,Speed 4 · draft 1 · refresh 1 · scrap 4,"Front Wing (4, scrap, draft)","(4, scrap, draft)",draft×1 refresh×1 scrap×4,advanced_upgrade,tunnel-vision
+japan,Japan,48,6,Body,3.58,0.434,500,basic upgrade,0,1,reduce 3,Speed 1 · reduce 3,"Body (1, −stress)","(1, −stress)",reduce×3,basic_upgrade,
+japan,Japan,49,3,4 wheel drive,3.582,0.436,500,basic upgrade,0,0,boost 1; cooldown 3,Speed 0 · boost 1 · cooldown 3,"4 wheel drive (0, cooldown, boost)","(0, cooldown, boost)",boost×1 cooldown×3,basic_upgrade,
+japan,Japan,50,36,Tires,3.584,0.442,500,advanced upgrade,0,2,adjust -1; cooldown 3,Speed 2 · adjust -1 · cooldown 3,"Tires (2, cooldown, adjust↓)","(2, cooldown, adjust↓)",adjust×-1 cooldown×3,advanced_upgrade,
+japan,Japan,51,34,Suspension,3.586,0.43,500,advanced upgrade,0,4,refresh 1,Speed 4 · refresh 1,Suspension (4),(4),refresh×1,advanced_upgrade,
+japan,Japan,52,32,Suspension,3.598,0.42,500,advanced upgrade,0,2,refresh 1; reduce 1,Speed 2 · refresh 1 · reduce 1,"Suspension (2, −stress)","(2, −stress)",refresh×1 reduce×1,advanced_upgrade,
+japan,Japan,53,22,Fuel,3.6,0.41,500,advanced upgrade,0,2,salvage 2,Speed 2 · salvage 2,"Fuel (2, salvage)","(2, salvage)",salvage×2,advanced_upgrade,
+japan,Japan,54,14,R.P.M.,3.604,0.412,500,basic upgrade,0,1,slipstream 2,Speed 1 · slipstream 2,"R.P.M. (1, slipstream)","(1, slipstream)",slipstream×2,basic_upgrade,
+japan,Japan,55,29,R.P.M.,3.628,0.418,500,advanced upgrade,0,0,boost 1; slipstream 3,Speed 0 · boost 1 · slipstream 3,"R.P.M. (0, boost, slipstream)","(0, boost, slipstream)",boost×1 slipstream×3,advanced_upgrade,
+japan,Japan,56,42,Turbo charger,3.634,0.412,500,advanced upgrade,0,7,heat 2; cooldown 3,Speed 7 · heat 2 · cooldown 3,"Turbo charger (7, cooldown, heat×2)","(7, cooldown, heat×2)",heat×2 cooldown×3,advanced_upgrade,
+japan,Japan,57,45,Wings,3.648,0.4,500,advanced upgrade,0,3,heat 1; scrap 2; adjust 2,Speed 3 · heat 1 · scrap 2 · adjust 2,"Wings (3, scrap, adjust↑, heat)","(3, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+japan,Japan,58,54,Air intake,3.65,0.41,500,advanced upgrade,1,0,boost 1; super-cool 1; refresh 1; adjust -1,Speed 0 · boost 1 · super-cool 1 · refresh 1 · adjust -1,"Air intake (0, boost, adjust↓, super-cool)","(0, boost, adjust↓, super-cool)",boost×1 super-cool×1 refresh×1 adjust×-1,advanced_upgrade,heavy-rain
+japan,Japan,59,35,Suspension,3.652,0.384,500,advanced upgrade,0,1,refresh 1; slipstream 1,Speed 1 · refresh 1 · slipstream 1,"Suspension (1, slipstream)","(1, slipstream)",refresh×1 slipstream×1,advanced_upgrade,
+japan,Japan,60,63,Sliding Skirts,3.666,0.372,500,advanced upgrade,3,1,chain-aspiration 1; refresh 1,Speed 1 · chain-aspiration 1 · refresh 1,"Sliding Skirts (1, chain-aspiration)","(1, chain-aspiration)",chain-aspiration×1 refresh×1,advanced_upgrade,rocky-road
+japan,Japan,61,44,Wings,3.726,0.358,500,advanced upgrade,0,4,heat 1; scrap 2; adjust 2,Speed 4 · heat 1 · scrap 2 · adjust 2,"Wings (4, scrap, adjust↑, heat)","(4, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+japan,Japan,62,17,Upgrade Heat,3.762,0.34,500,heat card,0,0,,Heat card (no speed/symbols); type 48 is its advanced-set alias,Upgrade Heat (#17),,,heat,
+japan,Japan,63,7,Brakes,3.794,0.34,500,basic upgrade,0,"[1, 2, 3, 4]",heat 1,"Speed [1, 2, 3, 4] · heat 1","Brakes (1–4, heat)","(1–4, heat)",heat×1,basic_upgrade,
+japan,Japan,64,46,Wings,3.81,0.336,500,advanced upgrade,0,6,heat 2; adjust 3,Speed 6 · heat 2 · adjust 3,"Wings (6, adjust↑, heat×2)","(6, adjust↑, heat×2)",heat×2 adjust×3,advanced_upgrade,
+japan,Japan,65,30,R.P.M.,3.878,0.31,500,advanced upgrade,0,1,heat 1; slipstream 3,Speed 1 · heat 1 · slipstream 3,"R.P.M. (1, slipstream, heat)","(1, slipstream, heat)",heat×1 slipstream×3,advanced_upgrade,
+mexico,Mexico,1,1,4 wheel drive,3.63,0.406,500,basic upgrade,0,4,boost 1,Speed 4 · boost 1,"4 wheel drive (4, boost)","(4, boost)",boost×1,basic_upgrade,
+mexico,Mexico,2,2,4 wheel drive,3.642,0.406,500,basic upgrade,0,0,boost 3,Speed 0 · boost 3,"4 wheel drive (0, boost)","(0, boost)",boost×3,basic_upgrade,
+mexico,Mexico,3,43,Turbo charger,3.9,0.318,500,advanced upgrade,0,8,heat 1; scrap 6,Speed 8 · heat 1 · scrap 6,"Turbo charger (8, scrap, heat)","(8, scrap, heat)",heat×1 scrap×6,advanced_upgrade,
+mexico,Mexico,4,26,Gas pedal,3.9,0.308,500,advanced upgrade,0,3,direct 1; scrap 3,Speed 3 · direct 1 · scrap 3,"Gas pedal (3, scrap, direct)","(3, scrap, direct)",direct×1 scrap×3,advanced_upgrade,
+mexico,Mexico,5,41,Tires,3.922,0.306,500,advanced upgrade,0,0,boost 2; adjust 2,Speed 0 · boost 2 · adjust 2,"Tires (0, boost, adjust↑)","(0, boost, adjust↑)",boost×2 adjust×2,advanced_upgrade,
+mexico,Mexico,6,5,Body,3.93,0.288,500,basic upgrade,0,5,reduce 1,Speed 5 · reduce 1,"Body (5, −stress)","(5, −stress)",reduce×1,basic_upgrade,
+mexico,Mexico,7,38,Tires,3.938,0.274,500,advanced upgrade,0,2,scrap 2; adjust 1,Speed 2 · scrap 2 · adjust 1,"Tires (2, scrap, adjust↑)","(2, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+mexico,Mexico,8,53,Air intake,3.948,0.294,500,advanced upgrade,1,4,super-cool 1; scrap 4,Speed 4 · super-cool 1 · scrap 4,"Air intake (4, scrap, super-cool)","(4, scrap, super-cool)",super-cool×1 scrap×4,advanced_upgrade,heavy-rain
+mexico,Mexico,9,58,Front Wing,3.96,0.292,500,advanced upgrade,2,3,draft 1; adjust 1; scrap 3,Speed 3 · draft 1 · adjust 1 · scrap 3,"Front Wing (3, scrap, adjust↑, draft)","(3, scrap, adjust↑, draft)",draft×1 adjust×1 scrap×3,advanced_upgrade,tunnel-vision
+mexico,Mexico,10,27,Gas pedal,3.968,0.304,500,advanced upgrade,0,4,direct 1; heat 1; cooldown 1,Speed 4 · direct 1 · heat 1 · cooldown 1,"Gas pedal (4, cooldown, direct, heat)","(4, cooldown, direct, heat)",direct×1 heat×1 cooldown×1,advanced_upgrade,
+mexico,Mexico,11,51,Air intake,3.99,0.274,500,advanced upgrade,1,1,super-cool 1; cooldown 1; scrap 1,Speed 1 · super-cool 1 · cooldown 1 · scrap 1,"Air intake (1, cooldown, scrap, super-cool)","(1, cooldown, scrap, super-cool)",super-cool×1 cooldown×1 scrap×1,advanced_upgrade,heavy-rain
+mexico,Mexico,12,11,Cooling system,3.998,0.274,500,basic upgrade,0,6,heat 1; cooldown 1,Speed 6 · heat 1 · cooldown 1,"Cooling system (6, cooldown, heat)","(6, cooldown, heat)",heat×1 cooldown×1,basic_upgrade,
+mexico,Mexico,13,10,Brakes,4.002,0.278,500,basic upgrade,0,"[1, 5]",,"Speed [1, 5]",Brakes (1–5),(1–5),,basic_upgrade,
+mexico,Mexico,14,64,Sliding Skirts,4.002,0.264,500,advanced upgrade,3,2,chain-aspiration 1; direct 1,Speed 2 · chain-aspiration 1 · direct 1,"Sliding Skirts (2, direct, chain-aspiration)","(2, direct, chain-aspiration)",chain-aspiration×1 direct×1,advanced_upgrade,rocky-road
+mexico,Mexico,15,57,Front Wing,4.012,0.302,500,advanced upgrade,2,2,draft 2; salvage 2; scrap 5,Speed 2 · draft 2 · salvage 2 · scrap 5,"Front Wing (2, scrap, salvage, draft)","(2, scrap, salvage, draft)",draft×2 salvage×2 scrap×5,advanced_upgrade,tunnel-vision
+mexico,Mexico,16,50,Air intake,4.036,0.272,500,advanced upgrade,1,0,super-cool 1; slipstream 1; reduce 1,Speed 0 · super-cool 1 · slipstream 1 · reduce 1,"Air intake (0, −stress, slipstream, super-cool)","(0, −stress, slipstream, super-cool)",super-cool×1 slipstream×1 reduce×1,advanced_upgrade,heavy-rain
+mexico,Mexico,17,40,Tires,4.056,0.256,500,advanced upgrade,0,0,boost 1; adjust 1; slipstream 1; cooldown 1,Speed 0 · boost 1 · adjust 1 · slipstream 1 · cooldown 1,"Tires (0, cooldown, boost, adjust↑, slipstream)","(0, cooldown, boost, adjust↑, slipstream)",boost×1 adjust×1 slipstream×1 cooldown×1,advanced_upgrade,
+mexico,Mexico,18,28,Gas pedal,4.056,0.246,500,advanced upgrade,0,1,direct 1; accelerate 1; scrap 5,Speed 1 · direct 1 · accelerate 1 · scrap 5,"Gas pedal (1, scrap, direct, accelerate)","(1, scrap, direct, accelerate)",direct×1 accelerate×1 scrap×5,advanced_upgrade,
+mexico,Mexico,19,9,Brakes,4.066,0.264,500,basic upgrade,0,"[2, 4]",,"Speed [2, 4]",Brakes (2–4),(2–4),,basic_upgrade,
+mexico,Mexico,20,16,R.P.M.,4.068,0.274,500,basic upgrade,0,3,slipstream 2,Speed 3 · slipstream 2,"R.P.M. (3, slipstream)","(3, slipstream)",slipstream×2,basic_upgrade,
+mexico,Mexico,21,21,Cooling system,4.07,0.266,500,advanced upgrade,0,4,scrap 2; cooldown 1,Speed 4 · scrap 2 · cooldown 1,"Cooling system (4, cooldown, scrap)","(4, cooldown, scrap)",scrap×2 cooldown×1,advanced_upgrade,
+mexico,Mexico,22,52,Air intake,4.076,0.276,500,advanced upgrade,1,3,super-cool 1; scrap 3,Speed 3 · super-cool 1 · scrap 3,"Air intake (3, scrap, super-cool)","(3, scrap, super-cool)",super-cool×1 scrap×3,advanced_upgrade,heavy-rain
+mexico,Mexico,23,20,Body,4.076,0.254,500,advanced upgrade,0,2,reduce 1; slipstream 1,Speed 2 · reduce 1 · slipstream 1,"Body (2, −stress, slipstream)","(2, −stress, slipstream)",reduce×1 slipstream×1,advanced_upgrade,
+mexico,Mexico,24,65,Sliding Skirts,4.082,0.262,500,advanced upgrade,3,"[2, 3]",chain-aspiration 1,"Speed [2, 3] · chain-aspiration 1","Sliding Skirts (2–3, chain-aspiration)","(2–3, chain-aspiration)",chain-aspiration×1,advanced_upgrade,rocky-road
+mexico,Mexico,25,13,Cooling system,4.084,0.256,500,basic upgrade,0,3,cooldown 1,Speed 3 · cooldown 1,"Cooling system (3, cooldown)","(3, cooldown)",cooldown×1,basic_upgrade,
+mexico,Mexico,26,66,Sliding Skirts,4.09,0.262,500,advanced upgrade,3,"[4, 6]",chain-aspiration 1; heat 1,"Speed [4, 6] · chain-aspiration 1 · heat 1","Sliding Skirts (4–6, chain-aspiration, heat)","(4–6, chain-aspiration, heat)",chain-aspiration×1 heat×1,advanced_upgrade,rocky-road
+mexico,Mexico,27,3,4 wheel drive,4.09,0.252,500,basic upgrade,0,0,boost 1; cooldown 3,Speed 0 · boost 1 · cooldown 3,"4 wheel drive (0, cooldown, boost)","(0, cooldown, boost)",boost×1 cooldown×3,basic_upgrade,
+mexico,Mexico,28,55,Front Wing,4.1,0.272,500,advanced upgrade,2,0,boost 1; draft 3,Speed 0 · boost 1 · draft 3,"Front Wing (0, boost, draft)","(0, boost, draft)",boost×1 draft×3,advanced_upgrade,tunnel-vision
+mexico,Mexico,29,37,Tires,4.102,0.258,500,advanced upgrade,0,1,scrap 2; adjust 1,Speed 1 · scrap 2 · adjust 1,"Tires (1, scrap, adjust↑)","(1, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+mexico,Mexico,30,25,Gas pedal,4.104,0.266,500,advanced upgrade,0,2,direct 1; scrap 2,Speed 2 · direct 1 · scrap 2,"Gas pedal (2, scrap, direct)","(2, scrap, direct)",direct×1 scrap×2,advanced_upgrade,
+mexico,Mexico,31,4,Body,4.112,0.252,500,basic upgrade,0,3,reduce 2,Speed 3 · reduce 2,"Body (3, −stress)","(3, −stress)",reduce×2,basic_upgrade,
+mexico,Mexico,32,60,Front Wing,4.114,0.262,500,advanced upgrade,2,6,draft 2; heat 1,Speed 6 · draft 2 · heat 1,"Front Wing (6, draft, heat)","(6, draft, heat)",draft×2 heat×1,advanced_upgrade,tunnel-vision
+mexico,Mexico,33,33,Suspension,4.12,0.238,500,advanced upgrade,0,2,refresh 1; cooldown 1,Speed 2 · refresh 1 · cooldown 1,"Suspension (2, cooldown)","(2, cooldown)",refresh×1 cooldown×1,advanced_upgrade,
+mexico,Mexico,34,47,4 wheel drive,4.124,0.24,500,advanced upgrade,0,0,boost 1; accelerate 1,Speed 0 · boost 1 · accelerate 1,"4 wheel drive (0, boost, accelerate)","(0, boost, accelerate)",boost×1 accelerate×1,advanced_upgrade,
+mexico,Mexico,35,18,Body,4.126,0.25,500,advanced upgrade,0,6,reduce 3; heat 1,Speed 6 · reduce 3 · heat 1,"Body (6, −stress, heat)","(6, −stress, heat)",reduce×3 heat×1,advanced_upgrade,
+mexico,Mexico,36,19,Body,4.126,0.248,500,advanced upgrade,0,2,reduce 1; cooldown 1; scrap 2,Speed 2 · reduce 1 · cooldown 1 · scrap 2,"Body (2, −stress, cooldown, scrap)","(2, −stress, cooldown, scrap)",reduce×1 cooldown×1 scrap×2,advanced_upgrade,
+mexico,Mexico,37,39,Tires,4.136,0.242,500,advanced upgrade,0,3,adjust -1; cooldown 2,Speed 3 · adjust -1 · cooldown 2,"Tires (3, cooldown, adjust↓)","(3, cooldown, adjust↓)",adjust×-1 cooldown×2,advanced_upgrade,
+mexico,Mexico,38,8,Brakes,4.14,0.232,500,basic upgrade,0,"[1, 3]",,"Speed [1, 3]",Brakes (1–3),(1–3),,basic_upgrade,
+mexico,Mexico,39,31,R.P.M.,4.146,0.24,500,advanced upgrade,0,"[1, 2]",slipstream 1,"Speed [1, 2] · slipstream 1","R.P.M. (1–2, slipstream)","(1–2, slipstream)",slipstream×1,advanced_upgrade,
+mexico,Mexico,40,12,Cooling system,4.146,0.228,500,basic upgrade,0,1,cooldown 2,Speed 1 · cooldown 2,"Cooling system (1, cooldown)","(1, cooldown)",cooldown×2,basic_upgrade,
+mexico,Mexico,41,24,Gas pedal,4.182,0.23,500,advanced upgrade,0,1,direct 1; scrap 1,Speed 1 · direct 1 · scrap 1,"Gas pedal (1, scrap, direct)","(1, scrap, direct)",direct×1 scrap×1,advanced_upgrade,
+mexico,Mexico,42,59,Front Wing,4.182,0.216,500,advanced upgrade,2,4,draft 1; refresh 1; scrap 4,Speed 4 · draft 1 · refresh 1 · scrap 4,"Front Wing (4, scrap, draft)","(4, scrap, draft)",draft×1 refresh×1 scrap×4,advanced_upgrade,tunnel-vision
+mexico,Mexico,43,15,R.P.M.,4.19,0.22,500,basic upgrade,0,2,slipstream 2,Speed 2 · slipstream 2,"R.P.M. (2, slipstream)","(2, slipstream)",slipstream×2,basic_upgrade,
+mexico,Mexico,44,23,Fuel,4.194,0.238,500,advanced upgrade,0,0,boost 1; salvage 2; cooldown 1,Speed 0 · boost 1 · salvage 2 · cooldown 1,"Fuel (0, cooldown, boost, salvage)","(0, cooldown, boost, salvage)",boost×1 salvage×2 cooldown×1,advanced_upgrade,
+mexico,Mexico,45,14,R.P.M.,4.2,0.214,500,basic upgrade,0,1,slipstream 2,Speed 1 · slipstream 2,"R.P.M. (1, slipstream)","(1, slipstream)",slipstream×2,basic_upgrade,
+mexico,Mexico,46,54,Air intake,4.214,0.204,500,advanced upgrade,1,0,boost 1; super-cool 1; refresh 1; adjust -1,Speed 0 · boost 1 · super-cool 1 · refresh 1 · adjust -1,"Air intake (0, boost, adjust↓, super-cool)","(0, boost, adjust↓, super-cool)",boost×1 super-cool×1 refresh×1 adjust×-1,advanced_upgrade,heavy-rain
+mexico,Mexico,47,45,Wings,4.216,0.216,500,advanced upgrade,0,3,heat 1; scrap 2; adjust 2,Speed 3 · heat 1 · scrap 2 · adjust 2,"Wings (3, scrap, adjust↑, heat)","(3, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+mexico,Mexico,48,61,Sliding Skirts,4.216,0.21,500,advanced upgrade,3,0,boost 1; chain-aspiration 1; adjust 1; reduce 1,Speed 0 · boost 1 · chain-aspiration 1 · adjust 1 · reduce 1,"Sliding Skirts (0, −stress, boost, adjust↑, chain-aspiration)","(0, −stress, boost, adjust↑, chain-aspiration)",boost×1 chain-aspiration×1 adjust×1 reduce×1,advanced_upgrade,rocky-road
+mexico,Mexico,49,34,Suspension,4.226,0.226,500,advanced upgrade,0,4,refresh 1,Speed 4 · refresh 1,Suspension (4),(4),refresh×1,advanced_upgrade,
+mexico,Mexico,50,42,Turbo charger,4.23,0.22,500,advanced upgrade,0,7,heat 2; cooldown 3,Speed 7 · heat 2 · cooldown 3,"Turbo charger (7, cooldown, heat×2)","(7, cooldown, heat×2)",heat×2 cooldown×3,advanced_upgrade,
+mexico,Mexico,51,22,Fuel,4.23,0.206,500,advanced upgrade,0,2,salvage 2,Speed 2 · salvage 2,"Fuel (2, salvage)","(2, salvage)",salvage×2,advanced_upgrade,
+mexico,Mexico,52,56,Front Wing,4.246,0.18,500,advanced upgrade,2,0,draft 1; direct 1; refresh 1,Speed 0 · draft 1 · direct 1 · refresh 1,"Front Wing (0, direct, draft)","(0, direct, draft)",draft×1 direct×1 refresh×1,advanced_upgrade,tunnel-vision
+mexico,Mexico,53,35,Suspension,4.262,0.196,500,advanced upgrade,0,1,refresh 1; slipstream 1,Speed 1 · refresh 1 · slipstream 1,"Suspension (1, slipstream)","(1, slipstream)",refresh×1 slipstream×1,advanced_upgrade,
+mexico,Mexico,54,32,Suspension,4.272,0.188,500,advanced upgrade,0,2,refresh 1; reduce 1,Speed 2 · refresh 1 · reduce 1,"Suspension (2, −stress)","(2, −stress)",refresh×1 reduce×1,advanced_upgrade,
+mexico,Mexico,55,44,Wings,4.274,0.202,500,advanced upgrade,0,4,heat 1; scrap 2; adjust 2,Speed 4 · heat 1 · scrap 2 · adjust 2,"Wings (4, scrap, adjust↑, heat)","(4, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+mexico,Mexico,56,29,R.P.M.,4.284,0.184,500,advanced upgrade,0,0,boost 1; slipstream 3,Speed 0 · boost 1 · slipstream 3,"R.P.M. (0, boost, slipstream)","(0, boost, slipstream)",boost×1 slipstream×3,advanced_upgrade,
+mexico,Mexico,57,7,Brakes,4.29,0.188,500,basic upgrade,0,"[1, 2, 3, 4]",heat 1,"Speed [1, 2, 3, 4] · heat 1","Brakes (1–4, heat)","(1–4, heat)",heat×1,basic_upgrade,
+mexico,Mexico,58,36,Tires,4.292,0.182,500,advanced upgrade,0,2,adjust -1; cooldown 3,Speed 2 · adjust -1 · cooldown 3,"Tires (2, cooldown, adjust↓)","(2, cooldown, adjust↓)",adjust×-1 cooldown×3,advanced_upgrade,
+mexico,Mexico,59,6,Body,4.312,0.174,500,basic upgrade,0,1,reduce 3,Speed 1 · reduce 3,"Body (1, −stress)","(1, −stress)",reduce×3,basic_upgrade,
+mexico,Mexico,60,62,Sliding Skirts,4.322,0.182,500,advanced upgrade,3,1,chain-aspiration 1; slipstream 1,Speed 1 · chain-aspiration 1 · slipstream 1,"Sliding Skirts (1, slipstream, chain-aspiration)","(1, slipstream, chain-aspiration)",chain-aspiration×1 slipstream×1,advanced_upgrade,rocky-road
+mexico,Mexico,61,49,Air intake,4.324,0.176,500,advanced upgrade,1,1,super-cool 1; salvage 4; adjust -1,Speed 1 · super-cool 1 · salvage 4 · adjust -1,"Air intake (1, adjust↓, salvage, super-cool)","(1, adjust↓, salvage, super-cool)",super-cool×1 salvage×4 adjust×-1,advanced_upgrade,heavy-rain
+mexico,Mexico,62,63,Sliding Skirts,4.362,0.16,500,advanced upgrade,3,1,chain-aspiration 1; refresh 1,Speed 1 · chain-aspiration 1 · refresh 1,"Sliding Skirts (1, chain-aspiration)","(1, chain-aspiration)",chain-aspiration×1 refresh×1,advanced_upgrade,rocky-road
+mexico,Mexico,63,17,Upgrade Heat,4.378,0.148,500,heat card,0,0,,Heat card (no speed/symbols); type 48 is its advanced-set alias,Upgrade Heat (#17),,,heat,
+mexico,Mexico,64,46,Wings,4.408,0.148,500,advanced upgrade,0,6,heat 2; adjust 3,Speed 6 · heat 2 · adjust 3,"Wings (6, adjust↑, heat×2)","(6, adjust↑, heat×2)",heat×2 adjust×3,advanced_upgrade,
+mexico,Mexico,65,30,R.P.M.,4.526,0.118,500,advanced upgrade,0,1,heat 1; slipstream 3,Speed 1 · heat 1 · slipstream 3,"R.P.M. (1, slipstream, heat)","(1, slipstream, heat)",heat×1 slipstream×3,advanced_upgrade,
+espana,España,1,53,Air intake,3.142,0.568,500,advanced upgrade,1,4,super-cool 1; scrap 4,Speed 4 · super-cool 1 · scrap 4,"Air intake (4, scrap, super-cool)","(4, scrap, super-cool)",super-cool×1 scrap×4,advanced_upgrade,heavy-rain
+espana,España,2,58,Front Wing,3.2,0.596,500,advanced upgrade,2,3,draft 1; adjust 1; scrap 3,Speed 3 · draft 1 · adjust 1 · scrap 3,"Front Wing (3, scrap, adjust↑, draft)","(3, scrap, adjust↑, draft)",draft×1 adjust×1 scrap×3,advanced_upgrade,tunnel-vision
+espana,España,3,52,Air intake,3.208,0.564,500,advanced upgrade,1,3,super-cool 1; scrap 3,Speed 3 · super-cool 1 · scrap 3,"Air intake (3, scrap, super-cool)","(3, scrap, super-cool)",super-cool×1 scrap×3,advanced_upgrade,heavy-rain
+espana,España,4,43,Turbo charger,3.278,0.546,500,advanced upgrade,0,8,heat 1; scrap 6,Speed 8 · heat 1 · scrap 6,"Turbo charger (8, scrap, heat)","(8, scrap, heat)",heat×1 scrap×6,advanced_upgrade,
+espana,España,5,26,Gas pedal,3.306,0.524,500,advanced upgrade,0,3,direct 1; scrap 3,Speed 3 · direct 1 · scrap 3,"Gas pedal (3, scrap, direct)","(3, scrap, direct)",direct×1 scrap×3,advanced_upgrade,
+espana,España,6,1,4 wheel drive,3.314,0.526,500,basic upgrade,0,4,boost 1,Speed 4 · boost 1,"4 wheel drive (4, boost)","(4, boost)",boost×1,basic_upgrade,
+espana,España,7,5,Body,3.372,0.502,500,basic upgrade,0,5,reduce 1,Speed 5 · reduce 1,"Body (5, −stress)","(5, −stress)",reduce×1,basic_upgrade,
+espana,España,8,28,Gas pedal,3.384,0.514,500,advanced upgrade,0,1,direct 1; accelerate 1; scrap 5,Speed 1 · direct 1 · accelerate 1 · scrap 5,"Gas pedal (1, scrap, direct, accelerate)","(1, scrap, direct, accelerate)",direct×1 accelerate×1 scrap×5,advanced_upgrade,
+espana,España,9,19,Body,3.416,0.482,500,advanced upgrade,0,2,reduce 1; cooldown 1; scrap 2,Speed 2 · reduce 1 · cooldown 1 · scrap 2,"Body (2, −stress, cooldown, scrap)","(2, −stress, cooldown, scrap)",reduce×1 cooldown×1 scrap×2,advanced_upgrade,
+espana,España,10,38,Tires,3.424,0.492,500,advanced upgrade,0,2,scrap 2; adjust 1,Speed 2 · scrap 2 · adjust 1,"Tires (2, scrap, adjust↑)","(2, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+espana,España,11,9,Brakes,3.456,0.502,500,basic upgrade,0,"[2, 4]",,"Speed [2, 4]",Brakes (2–4),(2–4),,basic_upgrade,
+espana,España,12,59,Front Wing,3.474,0.474,500,advanced upgrade,2,4,draft 1; refresh 1; scrap 4,Speed 4 · draft 1 · refresh 1 · scrap 4,"Front Wing (4, scrap, draft)","(4, scrap, draft)",draft×1 refresh×1 scrap×4,advanced_upgrade,tunnel-vision
+espana,España,13,21,Cooling system,3.48,0.482,500,advanced upgrade,0,4,scrap 2; cooldown 1,Speed 4 · scrap 2 · cooldown 1,"Cooling system (4, cooldown, scrap)","(4, cooldown, scrap)",scrap×2 cooldown×1,advanced_upgrade,
+espana,España,14,39,Tires,3.518,0.454,500,advanced upgrade,0,3,adjust -1; cooldown 2,Speed 3 · adjust -1 · cooldown 2,"Tires (3, cooldown, adjust↓)","(3, cooldown, adjust↓)",adjust×-1 cooldown×2,advanced_upgrade,
+espana,España,15,2,4 wheel drive,3.52,0.464,500,basic upgrade,0,0,boost 3,Speed 0 · boost 3,"4 wheel drive (0, boost)","(0, boost)",boost×3,basic_upgrade,
+espana,España,16,51,Air intake,3.526,0.446,500,advanced upgrade,1,1,super-cool 1; cooldown 1; scrap 1,Speed 1 · super-cool 1 · cooldown 1 · scrap 1,"Air intake (1, cooldown, scrap, super-cool)","(1, cooldown, scrap, super-cool)",super-cool×1 cooldown×1 scrap×1,advanced_upgrade,heavy-rain
+espana,España,17,57,Front Wing,3.532,0.466,500,advanced upgrade,2,2,draft 2; salvage 2; scrap 5,Speed 2 · draft 2 · salvage 2 · scrap 5,"Front Wing (2, scrap, salvage, draft)","(2, scrap, salvage, draft)",draft×2 salvage×2 scrap×5,advanced_upgrade,tunnel-vision
+espana,España,18,10,Brakes,3.532,0.444,500,basic upgrade,0,"[1, 5]",,"Speed [1, 5]",Brakes (1–5),(1–5),,basic_upgrade,
+espana,España,19,55,Front Wing,3.536,0.454,500,advanced upgrade,2,0,boost 1; draft 3,Speed 0 · boost 1 · draft 3,"Front Wing (0, boost, draft)","(0, boost, draft)",boost×1 draft×3,advanced_upgrade,tunnel-vision
+espana,España,20,25,Gas pedal,3.544,0.426,500,advanced upgrade,0,2,direct 1; scrap 2,Speed 2 · direct 1 · scrap 2,"Gas pedal (2, scrap, direct)","(2, scrap, direct)",direct×1 scrap×2,advanced_upgrade,
+espana,España,21,65,Sliding Skirts,3.544,0.424,500,advanced upgrade,3,"[2, 3]",chain-aspiration 1,"Speed [2, 3] · chain-aspiration 1","Sliding Skirts (2–3, chain-aspiration)","(2–3, chain-aspiration)",chain-aspiration×1,advanced_upgrade,rocky-road
+espana,España,22,64,Sliding Skirts,3.548,0.438,500,advanced upgrade,3,2,chain-aspiration 1; direct 1,Speed 2 · chain-aspiration 1 · direct 1,"Sliding Skirts (2, direct, chain-aspiration)","(2, direct, chain-aspiration)",chain-aspiration×1 direct×1,advanced_upgrade,rocky-road
+espana,España,23,41,Tires,3.55,0.442,500,advanced upgrade,0,0,boost 2; adjust 2,Speed 0 · boost 2 · adjust 2,"Tires (0, boost, adjust↑)","(0, boost, adjust↑)",boost×2 adjust×2,advanced_upgrade,
+espana,España,24,34,Suspension,3.554,0.452,500,advanced upgrade,0,4,refresh 1,Speed 4 · refresh 1,Suspension (4),(4),refresh×1,advanced_upgrade,
+espana,España,25,47,4 wheel drive,3.574,0.454,500,advanced upgrade,0,0,boost 1; accelerate 1,Speed 0 · boost 1 · accelerate 1,"4 wheel drive (0, boost, accelerate)","(0, boost, accelerate)",boost×1 accelerate×1,advanced_upgrade,
+espana,España,26,66,Sliding Skirts,3.576,0.428,500,advanced upgrade,3,"[4, 6]",chain-aspiration 1; heat 1,"Speed [4, 6] · chain-aspiration 1 · heat 1","Sliding Skirts (4–6, chain-aspiration, heat)","(4–6, chain-aspiration, heat)",chain-aspiration×1 heat×1,advanced_upgrade,rocky-road
+espana,España,27,50,Air intake,3.592,0.422,500,advanced upgrade,1,0,super-cool 1; slipstream 1; reduce 1,Speed 0 · super-cool 1 · slipstream 1 · reduce 1,"Air intake (0, −stress, slipstream, super-cool)","(0, −stress, slipstream, super-cool)",super-cool×1 slipstream×1 reduce×1,advanced_upgrade,heavy-rain
+espana,España,28,37,Tires,3.596,0.412,500,advanced upgrade,0,1,scrap 2; adjust 1,Speed 1 · scrap 2 · adjust 1,"Tires (1, scrap, adjust↑)","(1, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+espana,España,29,61,Sliding Skirts,3.6,0.438,500,advanced upgrade,3,0,boost 1; chain-aspiration 1; adjust 1; reduce 1,Speed 0 · boost 1 · chain-aspiration 1 · adjust 1 · reduce 1,"Sliding Skirts (0, −stress, boost, adjust↑, chain-aspiration)","(0, −stress, boost, adjust↑, chain-aspiration)",boost×1 chain-aspiration×1 adjust×1 reduce×1,advanced_upgrade,rocky-road
+espana,España,30,40,Tires,3.612,0.43,500,advanced upgrade,0,0,boost 1; adjust 1; slipstream 1; cooldown 1,Speed 0 · boost 1 · adjust 1 · slipstream 1 · cooldown 1,"Tires (0, cooldown, boost, adjust↑, slipstream)","(0, cooldown, boost, adjust↑, slipstream)",boost×1 adjust×1 slipstream×1 cooldown×1,advanced_upgrade,
+espana,España,31,13,Cooling system,3.626,0.422,500,basic upgrade,0,3,cooldown 1,Speed 3 · cooldown 1,"Cooling system (3, cooldown)","(3, cooldown)",cooldown×1,basic_upgrade,
+espana,España,32,60,Front Wing,3.632,0.442,500,advanced upgrade,2,6,draft 2; heat 1,Speed 6 · draft 2 · heat 1,"Front Wing (6, draft, heat)","(6, draft, heat)",draft×2 heat×1,advanced_upgrade,tunnel-vision
+espana,España,33,16,R.P.M.,3.632,0.42,500,basic upgrade,0,3,slipstream 2,Speed 3 · slipstream 2,"R.P.M. (3, slipstream)","(3, slipstream)",slipstream×2,basic_upgrade,
+espana,España,34,8,Brakes,3.632,0.416,500,basic upgrade,0,"[1, 3]",,"Speed [1, 3]",Brakes (1–3),(1–3),,basic_upgrade,
+espana,España,35,31,R.P.M.,3.642,0.41,500,advanced upgrade,0,"[1, 2]",slipstream 1,"Speed [1, 2] · slipstream 1","R.P.M. (1–2, slipstream)","(1–2, slipstream)",slipstream×1,advanced_upgrade,
+espana,España,36,11,Cooling system,3.644,0.404,500,basic upgrade,0,6,heat 1; cooldown 1,Speed 6 · heat 1 · cooldown 1,"Cooling system (6, cooldown, heat)","(6, cooldown, heat)",heat×1 cooldown×1,basic_upgrade,
+espana,España,37,44,Wings,3.66,0.412,500,advanced upgrade,0,4,heat 1; scrap 2; adjust 2,Speed 4 · heat 1 · scrap 2 · adjust 2,"Wings (4, scrap, adjust↑, heat)","(4, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+espana,España,38,45,Wings,3.664,0.412,500,advanced upgrade,0,3,heat 1; scrap 2; adjust 2,Speed 3 · heat 1 · scrap 2 · adjust 2,"Wings (3, scrap, adjust↑, heat)","(3, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+espana,España,39,24,Gas pedal,3.668,0.404,500,advanced upgrade,0,1,direct 1; scrap 1,Speed 1 · direct 1 · scrap 1,"Gas pedal (1, scrap, direct)","(1, scrap, direct)",direct×1 scrap×1,advanced_upgrade,
+espana,España,40,20,Body,3.672,0.41,500,advanced upgrade,0,2,reduce 1; slipstream 1,Speed 2 · reduce 1 · slipstream 1,"Body (2, −stress, slipstream)","(2, −stress, slipstream)",reduce×1 slipstream×1,advanced_upgrade,
+espana,España,41,15,R.P.M.,3.68,0.402,500,basic upgrade,0,2,slipstream 2,Speed 2 · slipstream 2,"R.P.M. (2, slipstream)","(2, slipstream)",slipstream×2,basic_upgrade,
+espana,España,42,4,Body,3.706,0.374,500,basic upgrade,0,3,reduce 2,Speed 3 · reduce 2,"Body (3, −stress)","(3, −stress)",reduce×2,basic_upgrade,
+espana,España,43,22,Fuel,3.71,0.382,500,advanced upgrade,0,2,salvage 2,Speed 2 · salvage 2,"Fuel (2, salvage)","(2, salvage)",salvage×2,advanced_upgrade,
+espana,España,44,49,Air intake,3.712,0.382,500,advanced upgrade,1,1,super-cool 1; salvage 4; adjust -1,Speed 1 · super-cool 1 · salvage 4 · adjust -1,"Air intake (1, adjust↓, salvage, super-cool)","(1, adjust↓, salvage, super-cool)",super-cool×1 salvage×4 adjust×-1,advanced_upgrade,heavy-rain
+espana,España,45,3,4 wheel drive,3.72,0.372,500,basic upgrade,0,0,boost 1; cooldown 3,Speed 0 · boost 1 · cooldown 3,"4 wheel drive (0, cooldown, boost)","(0, cooldown, boost)",boost×1 cooldown×3,basic_upgrade,
+espana,España,46,12,Cooling system,3.728,0.382,500,basic upgrade,0,1,cooldown 2,Speed 1 · cooldown 2,"Cooling system (1, cooldown)","(1, cooldown)",cooldown×2,basic_upgrade,
+espana,España,47,23,Fuel,3.734,0.38,500,advanced upgrade,0,0,boost 1; salvage 2; cooldown 1,Speed 0 · boost 1 · salvage 2 · cooldown 1,"Fuel (0, cooldown, boost, salvage)","(0, cooldown, boost, salvage)",boost×1 salvage×2 cooldown×1,advanced_upgrade,
+espana,España,48,14,R.P.M.,3.74,0.372,500,basic upgrade,0,1,slipstream 2,Speed 1 · slipstream 2,"R.P.M. (1, slipstream)","(1, slipstream)",slipstream×2,basic_upgrade,
+espana,España,49,29,R.P.M.,3.742,0.362,500,advanced upgrade,0,0,boost 1; slipstream 3,Speed 0 · boost 1 · slipstream 3,"R.P.M. (0, boost, slipstream)","(0, boost, slipstream)",boost×1 slipstream×3,advanced_upgrade,
+espana,España,50,62,Sliding Skirts,3.748,0.378,500,advanced upgrade,3,1,chain-aspiration 1; slipstream 1,Speed 1 · chain-aspiration 1 · slipstream 1,"Sliding Skirts (1, slipstream, chain-aspiration)","(1, slipstream, chain-aspiration)",chain-aspiration×1 slipstream×1,advanced_upgrade,rocky-road
+espana,España,51,27,Gas pedal,3.752,0.382,500,advanced upgrade,0,4,direct 1; heat 1; cooldown 1,Speed 4 · direct 1 · heat 1 · cooldown 1,"Gas pedal (4, cooldown, direct, heat)","(4, cooldown, direct, heat)",direct×1 heat×1 cooldown×1,advanced_upgrade,
+espana,España,52,18,Body,3.758,0.394,500,advanced upgrade,0,6,reduce 3; heat 1,Speed 6 · reduce 3 · heat 1,"Body (6, −stress, heat)","(6, −stress, heat)",reduce×3 heat×1,advanced_upgrade,
+espana,España,53,32,Suspension,3.76,0.36,500,advanced upgrade,0,2,refresh 1; reduce 1,Speed 2 · refresh 1 · reduce 1,"Suspension (2, −stress)","(2, −stress)",refresh×1 reduce×1,advanced_upgrade,
+espana,España,54,33,Suspension,3.772,0.362,500,advanced upgrade,0,2,refresh 1; cooldown 1,Speed 2 · refresh 1 · cooldown 1,"Suspension (2, cooldown)","(2, cooldown)",refresh×1 cooldown×1,advanced_upgrade,
+espana,España,55,56,Front Wing,3.778,0.35,500,advanced upgrade,2,0,draft 1; direct 1; refresh 1,Speed 0 · draft 1 · direct 1 · refresh 1,"Front Wing (0, direct, draft)","(0, direct, draft)",draft×1 direct×1 refresh×1,advanced_upgrade,tunnel-vision
+espana,España,56,6,Body,3.8,0.366,500,basic upgrade,0,1,reduce 3,Speed 1 · reduce 3,"Body (1, −stress)","(1, −stress)",reduce×3,basic_upgrade,
+espana,España,57,36,Tires,3.804,0.378,500,advanced upgrade,0,2,adjust -1; cooldown 3,Speed 2 · adjust -1 · cooldown 3,"Tires (2, cooldown, adjust↓)","(2, cooldown, adjust↓)",adjust×-1 cooldown×3,advanced_upgrade,
+espana,España,58,42,Turbo charger,3.818,0.364,500,advanced upgrade,0,7,heat 2; cooldown 3,Speed 7 · heat 2 · cooldown 3,"Turbo charger (7, cooldown, heat×2)","(7, cooldown, heat×2)",heat×2 cooldown×3,advanced_upgrade,
+espana,España,59,54,Air intake,3.82,0.34,500,advanced upgrade,1,0,boost 1; super-cool 1; refresh 1; adjust -1,Speed 0 · boost 1 · super-cool 1 · refresh 1 · adjust -1,"Air intake (0, boost, adjust↓, super-cool)","(0, boost, adjust↓, super-cool)",boost×1 super-cool×1 refresh×1 adjust×-1,advanced_upgrade,heavy-rain
+espana,España,60,35,Suspension,3.888,0.328,500,advanced upgrade,0,1,refresh 1; slipstream 1,Speed 1 · refresh 1 · slipstream 1,"Suspension (1, slipstream)","(1, slipstream)",refresh×1 slipstream×1,advanced_upgrade,
+espana,España,61,63,Sliding Skirts,3.89,0.316,500,advanced upgrade,3,1,chain-aspiration 1; refresh 1,Speed 1 · chain-aspiration 1 · refresh 1,"Sliding Skirts (1, chain-aspiration)","(1, chain-aspiration)",chain-aspiration×1 refresh×1,advanced_upgrade,rocky-road
+espana,España,62,7,Brakes,3.952,0.278,500,basic upgrade,0,"[1, 2, 3, 4]",heat 1,"Speed [1, 2, 3, 4] · heat 1","Brakes (1–4, heat)","(1–4, heat)",heat×1,basic_upgrade,
+espana,España,63,46,Wings,3.954,0.298,500,advanced upgrade,0,6,heat 2; adjust 3,Speed 6 · heat 2 · adjust 3,"Wings (6, adjust↑, heat×2)","(6, adjust↑, heat×2)",heat×2 adjust×3,advanced_upgrade,
+espana,España,64,17,Upgrade Heat,4.0,0.29,500,heat card,0,0,,Heat card (no speed/symbols); type 48 is its advanced-set alias,Upgrade Heat (#17),,,heat,
+espana,España,65,30,R.P.M.,4.162,0.256,500,advanced upgrade,0,1,heat 1; slipstream 3,Speed 1 · heat 1 · slipstream 3,"R.P.M. (1, slipstream, heat)","(1, slipstream, heat)",heat×1 slipstream×3,advanced_upgrade,
+nederland,Nederland,1,2,4 wheel drive,3.93,0.288,500,basic upgrade,0,0,boost 3,Speed 0 · boost 3,"4 wheel drive (0, boost)","(0, boost)",boost×3,basic_upgrade,
+nederland,Nederland,2,1,4 wheel drive,4.134,0.242,500,basic upgrade,0,4,boost 1,Speed 4 · boost 1,"4 wheel drive (4, boost)","(4, boost)",boost×1,basic_upgrade,
+nederland,Nederland,3,21,Cooling system,4.228,0.208,500,advanced upgrade,0,4,scrap 2; cooldown 1,Speed 4 · scrap 2 · cooldown 1,"Cooling system (4, cooldown, scrap)","(4, cooldown, scrap)",scrap×2 cooldown×1,advanced_upgrade,
+nederland,Nederland,4,58,Front Wing,4.268,0.196,500,advanced upgrade,2,3,draft 1; adjust 1; scrap 3,Speed 3 · draft 1 · adjust 1 · scrap 3,"Front Wing (3, scrap, adjust↑, draft)","(3, scrap, adjust↑, draft)",draft×1 adjust×1 scrap×3,advanced_upgrade,tunnel-vision
+nederland,Nederland,5,53,Air intake,4.276,0.192,500,advanced upgrade,1,4,super-cool 1; scrap 4,Speed 4 · super-cool 1 · scrap 4,"Air intake (4, scrap, super-cool)","(4, scrap, super-cool)",super-cool×1 scrap×4,advanced_upgrade,heavy-rain
+nederland,Nederland,6,52,Air intake,4.286,0.194,500,advanced upgrade,1,3,super-cool 1; scrap 3,Speed 3 · super-cool 1 · scrap 3,"Air intake (3, scrap, super-cool)","(3, scrap, super-cool)",super-cool×1 scrap×3,advanced_upgrade,heavy-rain
+nederland,Nederland,7,51,Air intake,4.294,0.196,500,advanced upgrade,1,1,super-cool 1; cooldown 1; scrap 1,Speed 1 · super-cool 1 · cooldown 1 · scrap 1,"Air intake (1, cooldown, scrap, super-cool)","(1, cooldown, scrap, super-cool)",super-cool×1 cooldown×1 scrap×1,advanced_upgrade,heavy-rain
+nederland,Nederland,8,43,Turbo charger,4.324,0.172,500,advanced upgrade,0,8,heat 1; scrap 6,Speed 8 · heat 1 · scrap 6,"Turbo charger (8, scrap, heat)","(8, scrap, heat)",heat×1 scrap×6,advanced_upgrade,
+nederland,Nederland,9,57,Front Wing,4.326,0.174,500,advanced upgrade,2,2,draft 2; salvage 2; scrap 5,Speed 2 · draft 2 · salvage 2 · scrap 5,"Front Wing (2, scrap, salvage, draft)","(2, scrap, salvage, draft)",draft×2 salvage×2 scrap×5,advanced_upgrade,tunnel-vision
+nederland,Nederland,10,10,Brakes,4.328,0.184,500,basic upgrade,0,"[1, 5]",,"Speed [1, 5]",Brakes (1–5),(1–5),,basic_upgrade,
+nederland,Nederland,11,41,Tires,4.334,0.18,500,advanced upgrade,0,0,boost 2; adjust 2,Speed 0 · boost 2 · adjust 2,"Tires (0, boost, adjust↑)","(0, boost, adjust↑)",boost×2 adjust×2,advanced_upgrade,
+nederland,Nederland,12,40,Tires,4.338,0.196,500,advanced upgrade,0,0,boost 1; adjust 1; slipstream 1; cooldown 1,Speed 0 · boost 1 · adjust 1 · slipstream 1 · cooldown 1,"Tires (0, cooldown, boost, adjust↑, slipstream)","(0, cooldown, boost, adjust↑, slipstream)",boost×1 adjust×1 slipstream×1 cooldown×1,advanced_upgrade,
+nederland,Nederland,13,13,Cooling system,4.338,0.178,500,basic upgrade,0,3,cooldown 1,Speed 3 · cooldown 1,"Cooling system (3, cooldown)","(3, cooldown)",cooldown×1,basic_upgrade,
+nederland,Nederland,14,9,Brakes,4.344,0.182,500,basic upgrade,0,"[2, 4]",,"Speed [2, 4]",Brakes (2–4),(2–4),,basic_upgrade,
+nederland,Nederland,15,11,Cooling system,4.354,0.172,500,basic upgrade,0,6,heat 1; cooldown 1,Speed 6 · heat 1 · cooldown 1,"Cooling system (6, cooldown, heat)","(6, cooldown, heat)",heat×1 cooldown×1,basic_upgrade,
+nederland,Nederland,16,26,Gas pedal,4.386,0.166,500,advanced upgrade,0,3,direct 1; scrap 3,Speed 3 · direct 1 · scrap 3,"Gas pedal (3, scrap, direct)","(3, scrap, direct)",direct×1 scrap×3,advanced_upgrade,
+nederland,Nederland,17,5,Body,4.386,0.146,500,basic upgrade,0,5,reduce 1,Speed 5 · reduce 1,"Body (5, −stress)","(5, −stress)",reduce×1,basic_upgrade,
+nederland,Nederland,18,59,Front Wing,4.396,0.16,500,advanced upgrade,2,4,draft 1; refresh 1; scrap 4,Speed 4 · draft 1 · refresh 1 · scrap 4,"Front Wing (4, scrap, draft)","(4, scrap, draft)",draft×1 refresh×1 scrap×4,advanced_upgrade,tunnel-vision
+nederland,Nederland,19,55,Front Wing,4.4,0.18,500,advanced upgrade,2,0,boost 1; draft 3,Speed 0 · boost 1 · draft 3,"Front Wing (0, boost, draft)","(0, boost, draft)",boost×1 draft×3,advanced_upgrade,tunnel-vision
+nederland,Nederland,20,19,Body,4.4,0.16,500,advanced upgrade,0,2,reduce 1; cooldown 1; scrap 2,Speed 2 · reduce 1 · cooldown 1 · scrap 2,"Body (2, −stress, cooldown, scrap)","(2, −stress, cooldown, scrap)",reduce×1 cooldown×1 scrap×2,advanced_upgrade,
+nederland,Nederland,21,12,Cooling system,4.416,0.16,500,basic upgrade,0,1,cooldown 2,Speed 1 · cooldown 2,"Cooling system (1, cooldown)","(1, cooldown)",cooldown×2,basic_upgrade,
+nederland,Nederland,22,16,R.P.M.,4.42,0.158,500,basic upgrade,0,3,slipstream 2,Speed 3 · slipstream 2,"R.P.M. (3, slipstream)","(3, slipstream)",slipstream×2,basic_upgrade,
+nederland,Nederland,23,28,Gas pedal,4.422,0.14,500,advanced upgrade,0,1,direct 1; accelerate 1; scrap 5,Speed 1 · direct 1 · accelerate 1 · scrap 5,"Gas pedal (1, scrap, direct, accelerate)","(1, scrap, direct, accelerate)",direct×1 accelerate×1 scrap×5,advanced_upgrade,
+nederland,Nederland,24,38,Tires,4.44,0.14,500,advanced upgrade,0,2,scrap 2; adjust 1,Speed 2 · scrap 2 · adjust 1,"Tires (2, scrap, adjust↑)","(2, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+nederland,Nederland,25,65,Sliding Skirts,4.448,0.146,500,advanced upgrade,3,"[2, 3]",chain-aspiration 1,"Speed [2, 3] · chain-aspiration 1","Sliding Skirts (2–3, chain-aspiration)","(2–3, chain-aspiration)",chain-aspiration×1,advanced_upgrade,rocky-road
+nederland,Nederland,26,8,Brakes,4.454,0.136,500,basic upgrade,0,"[1, 3]",,"Speed [1, 3]",Brakes (1–3),(1–3),,basic_upgrade,
+nederland,Nederland,27,61,Sliding Skirts,4.464,0.142,500,advanced upgrade,3,0,boost 1; chain-aspiration 1; adjust 1; reduce 1,Speed 0 · boost 1 · chain-aspiration 1 · adjust 1 · reduce 1,"Sliding Skirts (0, −stress, boost, adjust↑, chain-aspiration)","(0, −stress, boost, adjust↑, chain-aspiration)",boost×1 chain-aspiration×1 adjust×1 reduce×1,advanced_upgrade,rocky-road
+nederland,Nederland,28,39,Tires,4.466,0.134,500,advanced upgrade,0,3,adjust -1; cooldown 2,Speed 3 · adjust -1 · cooldown 2,"Tires (3, cooldown, adjust↓)","(3, cooldown, adjust↓)",adjust×-1 cooldown×2,advanced_upgrade,
+nederland,Nederland,29,31,R.P.M.,4.466,0.132,500,advanced upgrade,0,"[1, 2]",slipstream 1,"Speed [1, 2] · slipstream 1","R.P.M. (1–2, slipstream)","(1–2, slipstream)",slipstream×1,advanced_upgrade,
+nederland,Nederland,30,15,R.P.M.,4.476,0.136,500,basic upgrade,0,2,slipstream 2,Speed 2 · slipstream 2,"R.P.M. (2, slipstream)","(2, slipstream)",slipstream×2,basic_upgrade,
+nederland,Nederland,31,60,Front Wing,4.476,0.136,500,advanced upgrade,2,6,draft 2; heat 1,Speed 6 · draft 2 · heat 1,"Front Wing (6, draft, heat)","(6, draft, heat)",draft×2 heat×1,advanced_upgrade,tunnel-vision
+nederland,Nederland,32,3,4 wheel drive,4.482,0.138,500,basic upgrade,0,0,boost 1; cooldown 3,Speed 0 · boost 1 · cooldown 3,"4 wheel drive (0, cooldown, boost)","(0, cooldown, boost)",boost×1 cooldown×3,basic_upgrade,
+nederland,Nederland,33,27,Gas pedal,4.488,0.134,500,advanced upgrade,0,4,direct 1; heat 1; cooldown 1,Speed 4 · direct 1 · heat 1 · cooldown 1,"Gas pedal (4, cooldown, direct, heat)","(4, cooldown, direct, heat)",direct×1 heat×1 cooldown×1,advanced_upgrade,
+nederland,Nederland,34,34,Suspension,4.494,0.132,500,advanced upgrade,0,4,refresh 1,Speed 4 · refresh 1,Suspension (4),(4),refresh×1,advanced_upgrade,
+nederland,Nederland,35,36,Tires,4.496,0.136,500,advanced upgrade,0,2,adjust -1; cooldown 3,Speed 2 · adjust -1 · cooldown 3,"Tires (2, cooldown, adjust↓)","(2, cooldown, adjust↓)",adjust×-1 cooldown×3,advanced_upgrade,
+nederland,Nederland,36,42,Turbo charger,4.5,0.132,500,advanced upgrade,0,7,heat 2; cooldown 3,Speed 7 · heat 2 · cooldown 3,"Turbo charger (7, cooldown, heat×2)","(7, cooldown, heat×2)",heat×2 cooldown×3,advanced_upgrade,
+nederland,Nederland,37,47,4 wheel drive,4.502,0.13,500,advanced upgrade,0,0,boost 1; accelerate 1,Speed 0 · boost 1 · accelerate 1,"4 wheel drive (0, boost, accelerate)","(0, boost, accelerate)",boost×1 accelerate×1,advanced_upgrade,
+nederland,Nederland,38,4,Body,4.504,0.128,500,basic upgrade,0,3,reduce 2,Speed 3 · reduce 2,"Body (3, −stress)","(3, −stress)",reduce×2,basic_upgrade,
+nederland,Nederland,39,23,Fuel,4.506,0.13,500,advanced upgrade,0,0,boost 1; salvage 2; cooldown 1,Speed 0 · boost 1 · salvage 2 · cooldown 1,"Fuel (0, cooldown, boost, salvage)","(0, cooldown, boost, salvage)",boost×1 salvage×2 cooldown×1,advanced_upgrade,
+nederland,Nederland,40,37,Tires,4.512,0.114,500,advanced upgrade,0,1,scrap 2; adjust 1,Speed 1 · scrap 2 · adjust 1,"Tires (1, scrap, adjust↑)","(1, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+nederland,Nederland,41,44,Wings,4.516,0.126,500,advanced upgrade,0,4,heat 1; scrap 2; adjust 2,Speed 4 · heat 1 · scrap 2 · adjust 2,"Wings (4, scrap, adjust↑, heat)","(4, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+nederland,Nederland,42,50,Air intake,4.526,0.124,500,advanced upgrade,1,0,super-cool 1; slipstream 1; reduce 1,Speed 0 · super-cool 1 · slipstream 1 · reduce 1,"Air intake (0, −stress, slipstream, super-cool)","(0, −stress, slipstream, super-cool)",super-cool×1 slipstream×1 reduce×1,advanced_upgrade,heavy-rain
+nederland,Nederland,43,33,Suspension,4.532,0.12,500,advanced upgrade,0,2,refresh 1; cooldown 1,Speed 2 · refresh 1 · cooldown 1,"Suspension (2, cooldown)","(2, cooldown)",refresh×1 cooldown×1,advanced_upgrade,
+nederland,Nederland,44,64,Sliding Skirts,4.534,0.12,500,advanced upgrade,3,2,chain-aspiration 1; direct 1,Speed 2 · chain-aspiration 1 · direct 1,"Sliding Skirts (2, direct, chain-aspiration)","(2, direct, chain-aspiration)",chain-aspiration×1 direct×1,advanced_upgrade,rocky-road
+nederland,Nederland,45,14,R.P.M.,4.534,0.114,500,basic upgrade,0,1,slipstream 2,Speed 1 · slipstream 2,"R.P.M. (1, slipstream)","(1, slipstream)",slipstream×2,basic_upgrade,
+nederland,Nederland,46,25,Gas pedal,4.534,0.11,500,advanced upgrade,0,2,direct 1; scrap 2,Speed 2 · direct 1 · scrap 2,"Gas pedal (2, scrap, direct)","(2, scrap, direct)",direct×1 scrap×2,advanced_upgrade,
+nederland,Nederland,47,20,Body,4.536,0.114,500,advanced upgrade,0,2,reduce 1; slipstream 1,Speed 2 · reduce 1 · slipstream 1,"Body (2, −stress, slipstream)","(2, −stress, slipstream)",reduce×1 slipstream×1,advanced_upgrade,
+nederland,Nederland,48,29,R.P.M.,4.538,0.122,500,advanced upgrade,0,0,boost 1; slipstream 3,Speed 0 · boost 1 · slipstream 3,"R.P.M. (0, boost, slipstream)","(0, boost, slipstream)",boost×1 slipstream×3,advanced_upgrade,
+nederland,Nederland,49,22,Fuel,4.548,0.124,500,advanced upgrade,0,2,salvage 2,Speed 2 · salvage 2,"Fuel (2, salvage)","(2, salvage)",salvage×2,advanced_upgrade,
+nederland,Nederland,50,62,Sliding Skirts,4.56,0.12,500,advanced upgrade,3,1,chain-aspiration 1; slipstream 1,Speed 1 · chain-aspiration 1 · slipstream 1,"Sliding Skirts (1, slipstream, chain-aspiration)","(1, slipstream, chain-aspiration)",chain-aspiration×1 slipstream×1,advanced_upgrade,rocky-road
+nederland,Nederland,51,45,Wings,4.56,0.112,500,advanced upgrade,0,3,heat 1; scrap 2; adjust 2,Speed 3 · heat 1 · scrap 2 · adjust 2,"Wings (3, scrap, adjust↑, heat)","(3, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+nederland,Nederland,52,24,Gas pedal,4.566,0.102,500,advanced upgrade,0,1,direct 1; scrap 1,Speed 1 · direct 1 · scrap 1,"Gas pedal (1, scrap, direct)","(1, scrap, direct)",direct×1 scrap×1,advanced_upgrade,
+nederland,Nederland,53,54,Air intake,4.582,0.116,500,advanced upgrade,1,0,boost 1; super-cool 1; refresh 1; adjust -1,Speed 0 · boost 1 · super-cool 1 · refresh 1 · adjust -1,"Air intake (0, boost, adjust↓, super-cool)","(0, boost, adjust↓, super-cool)",boost×1 super-cool×1 refresh×1 adjust×-1,advanced_upgrade,heavy-rain
+nederland,Nederland,54,49,Air intake,4.584,0.098,500,advanced upgrade,1,1,super-cool 1; salvage 4; adjust -1,Speed 1 · super-cool 1 · salvage 4 · adjust -1,"Air intake (1, adjust↓, salvage, super-cool)","(1, adjust↓, salvage, super-cool)",super-cool×1 salvage×4 adjust×-1,advanced_upgrade,heavy-rain
+nederland,Nederland,55,18,Body,4.588,0.112,500,advanced upgrade,0,6,reduce 3; heat 1,Speed 6 · reduce 3 · heat 1,"Body (6, −stress, heat)","(6, −stress, heat)",reduce×3 heat×1,advanced_upgrade,
+nederland,Nederland,56,56,Front Wing,4.588,0.1,500,advanced upgrade,2,0,draft 1; direct 1; refresh 1,Speed 0 · draft 1 · direct 1 · refresh 1,"Front Wing (0, direct, draft)","(0, direct, draft)",draft×1 direct×1 refresh×1,advanced_upgrade,tunnel-vision
+nederland,Nederland,57,66,Sliding Skirts,4.606,0.094,500,advanced upgrade,3,"[4, 6]",chain-aspiration 1; heat 1,"Speed [4, 6] · chain-aspiration 1 · heat 1","Sliding Skirts (4–6, chain-aspiration, heat)","(4–6, chain-aspiration, heat)",chain-aspiration×1 heat×1,advanced_upgrade,rocky-road
+nederland,Nederland,58,6,Body,4.63,0.084,500,basic upgrade,0,1,reduce 3,Speed 1 · reduce 3,"Body (1, −stress)","(1, −stress)",reduce×3,basic_upgrade,
+nederland,Nederland,59,32,Suspension,4.632,0.084,500,advanced upgrade,0,2,refresh 1; reduce 1,Speed 2 · refresh 1 · reduce 1,"Suspension (2, −stress)","(2, −stress)",refresh×1 reduce×1,advanced_upgrade,
+nederland,Nederland,60,17,Upgrade Heat,4.638,0.084,500,heat card,0,0,,Heat card (no speed/symbols); type 48 is its advanced-set alias,Upgrade Heat (#17),,,heat,
+nederland,Nederland,61,46,Wings,4.658,0.078,500,advanced upgrade,0,6,heat 2; adjust 3,Speed 6 · heat 2 · adjust 3,"Wings (6, adjust↑, heat×2)","(6, adjust↑, heat×2)",heat×2 adjust×3,advanced_upgrade,
+nederland,Nederland,62,35,Suspension,4.664,0.072,500,advanced upgrade,0,1,refresh 1; slipstream 1,Speed 1 · refresh 1 · slipstream 1,"Suspension (1, slipstream)","(1, slipstream)",refresh×1 slipstream×1,advanced_upgrade,
+nederland,Nederland,63,63,Sliding Skirts,4.678,0.078,500,advanced upgrade,3,1,chain-aspiration 1; refresh 1,Speed 1 · chain-aspiration 1 · refresh 1,"Sliding Skirts (1, chain-aspiration)","(1, chain-aspiration)",chain-aspiration×1 refresh×1,advanced_upgrade,rocky-road
+nederland,Nederland,64,7,Brakes,4.68,0.072,500,basic upgrade,0,"[1, 2, 3, 4]",heat 1,"Speed [1, 2, 3, 4] · heat 1","Brakes (1–4, heat)","(1–4, heat)",heat×1,basic_upgrade,
+nederland,Nederland,65,30,R.P.M.,4.786,0.05,500,advanced upgrade,0,1,heat 1; slipstream 3,Speed 1 · heat 1 · slipstream 3,"R.P.M. (1, slipstream, heat)","(1, slipstream, heat)",heat×1 slipstream×3,advanced_upgrade,
+deutschland,Deutschland,1,58,Front Wing,2.808,0.692,500,advanced upgrade,2,3,draft 1; adjust 1; scrap 3,Speed 3 · draft 1 · adjust 1 · scrap 3,"Front Wing (3, scrap, adjust↑, draft)","(3, scrap, adjust↑, draft)",draft×1 adjust×1 scrap×3,advanced_upgrade,tunnel-vision
+deutschland,Deutschland,2,53,Air intake,2.852,0.696,500,advanced upgrade,1,4,super-cool 1; scrap 4,Speed 4 · super-cool 1 · scrap 4,"Air intake (4, scrap, super-cool)","(4, scrap, super-cool)",super-cool×1 scrap×4,advanced_upgrade,heavy-rain
+deutschland,Deutschland,3,5,Body,2.86,0.682,500,basic upgrade,0,5,reduce 1,Speed 5 · reduce 1,"Body (5, −stress)","(5, −stress)",reduce×1,basic_upgrade,
+deutschland,Deutschland,4,26,Gas pedal,2.872,0.672,500,advanced upgrade,0,3,direct 1; scrap 3,Speed 3 · direct 1 · scrap 3,"Gas pedal (3, scrap, direct)","(3, scrap, direct)",direct×1 scrap×3,advanced_upgrade,
+deutschland,Deutschland,5,9,Brakes,2.888,0.67,500,basic upgrade,0,"[2, 4]",,"Speed [2, 4]",Brakes (2–4),(2–4),,basic_upgrade,
+deutschland,Deutschland,6,25,Gas pedal,2.898,0.658,500,advanced upgrade,0,2,direct 1; scrap 2,Speed 2 · direct 1 · scrap 2,"Gas pedal (2, scrap, direct)","(2, scrap, direct)",direct×1 scrap×2,advanced_upgrade,
+deutschland,Deutschland,7,1,4 wheel drive,2.922,0.65,500,basic upgrade,0,4,boost 1,Speed 4 · boost 1,"4 wheel drive (4, boost)","(4, boost)",boost×1,basic_upgrade,
+deutschland,Deutschland,8,64,Sliding Skirts,2.93,0.658,500,advanced upgrade,3,2,chain-aspiration 1; direct 1,Speed 2 · chain-aspiration 1 · direct 1,"Sliding Skirts (2, direct, chain-aspiration)","(2, direct, chain-aspiration)",chain-aspiration×1 direct×1,advanced_upgrade,rocky-road
+deutschland,Deutschland,9,2,4 wheel drive,2.964,0.64,500,basic upgrade,0,0,boost 3,Speed 0 · boost 3,"4 wheel drive (0, boost)","(0, boost)",boost×3,basic_upgrade,
+deutschland,Deutschland,10,52,Air intake,2.974,0.614,500,advanced upgrade,1,3,super-cool 1; scrap 3,Speed 3 · super-cool 1 · scrap 3,"Air intake (3, scrap, super-cool)","(3, scrap, super-cool)",super-cool×1 scrap×3,advanced_upgrade,heavy-rain
+deutschland,Deutschland,11,38,Tires,2.984,0.63,500,advanced upgrade,0,2,scrap 2; adjust 1,Speed 2 · scrap 2 · adjust 1,"Tires (2, scrap, adjust↑)","(2, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+deutschland,Deutschland,12,8,Brakes,2.996,0.63,500,basic upgrade,0,"[1, 3]",,"Speed [1, 3]",Brakes (1–3),(1–3),,basic_upgrade,
+deutschland,Deutschland,13,28,Gas pedal,2.998,0.622,500,advanced upgrade,0,1,direct 1; accelerate 1; scrap 5,Speed 1 · direct 1 · accelerate 1 · scrap 5,"Gas pedal (1, scrap, direct, accelerate)","(1, scrap, direct, accelerate)",direct×1 accelerate×1 scrap×5,advanced_upgrade,
+deutschland,Deutschland,14,65,Sliding Skirts,3.008,0.636,500,advanced upgrade,3,"[2, 3]",chain-aspiration 1,"Speed [2, 3] · chain-aspiration 1","Sliding Skirts (2–3, chain-aspiration)","(2–3, chain-aspiration)",chain-aspiration×1,advanced_upgrade,rocky-road
+deutschland,Deutschland,15,41,Tires,3.028,0.61,500,advanced upgrade,0,0,boost 2; adjust 2,Speed 0 · boost 2 · adjust 2,"Tires (0, boost, adjust↑)","(0, boost, adjust↑)",boost×2 adjust×2,advanced_upgrade,
+deutschland,Deutschland,16,57,Front Wing,3.044,0.636,500,advanced upgrade,2,2,draft 2; salvage 2; scrap 5,Speed 2 · draft 2 · salvage 2 · scrap 5,"Front Wing (2, scrap, salvage, draft)","(2, scrap, salvage, draft)",draft×2 salvage×2 scrap×5,advanced_upgrade,tunnel-vision
+deutschland,Deutschland,17,51,Air intake,3.046,0.618,500,advanced upgrade,1,1,super-cool 1; cooldown 1; scrap 1,Speed 1 · super-cool 1 · cooldown 1 · scrap 1,"Air intake (1, cooldown, scrap, super-cool)","(1, cooldown, scrap, super-cool)",super-cool×1 cooldown×1 scrap×1,advanced_upgrade,heavy-rain
+deutschland,Deutschland,18,40,Tires,3.052,0.606,500,advanced upgrade,0,0,boost 1; adjust 1; slipstream 1; cooldown 1,Speed 0 · boost 1 · adjust 1 · slipstream 1 · cooldown 1,"Tires (0, cooldown, boost, adjust↑, slipstream)","(0, cooldown, boost, adjust↑, slipstream)",boost×1 adjust×1 slipstream×1 cooldown×1,advanced_upgrade,
+deutschland,Deutschland,19,13,Cooling system,3.066,0.61,500,basic upgrade,0,3,cooldown 1,Speed 3 · cooldown 1,"Cooling system (3, cooldown)","(3, cooldown)",cooldown×1,basic_upgrade,
+deutschland,Deutschland,20,19,Body,3.082,0.602,500,advanced upgrade,0,2,reduce 1; cooldown 1; scrap 2,Speed 2 · reduce 1 · cooldown 1 · scrap 2,"Body (2, −stress, cooldown, scrap)","(2, −stress, cooldown, scrap)",reduce×1 cooldown×1 scrap×2,advanced_upgrade,
+deutschland,Deutschland,21,43,Turbo charger,3.088,0.606,500,advanced upgrade,0,8,heat 1; scrap 6,Speed 8 · heat 1 · scrap 6,"Turbo charger (8, scrap, heat)","(8, scrap, heat)",heat×1 scrap×6,advanced_upgrade,
+deutschland,Deutschland,22,61,Sliding Skirts,3.094,0.6,500,advanced upgrade,3,0,boost 1; chain-aspiration 1; adjust 1; reduce 1,Speed 0 · boost 1 · chain-aspiration 1 · adjust 1 · reduce 1,"Sliding Skirts (0, −stress, boost, adjust↑, chain-aspiration)","(0, −stress, boost, adjust↑, chain-aspiration)",boost×1 chain-aspiration×1 adjust×1 reduce×1,advanced_upgrade,rocky-road
+deutschland,Deutschland,23,37,Tires,3.1,0.57,500,advanced upgrade,0,1,scrap 2; adjust 1,Speed 1 · scrap 2 · adjust 1,"Tires (1, scrap, adjust↑)","(1, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+deutschland,Deutschland,24,10,Brakes,3.104,0.614,500,basic upgrade,0,"[1, 5]",,"Speed [1, 5]",Brakes (1–5),(1–5),,basic_upgrade,
+deutschland,Deutschland,25,21,Cooling system,3.12,0.6,500,advanced upgrade,0,4,scrap 2; cooldown 1,Speed 4 · scrap 2 · cooldown 1,"Cooling system (4, cooldown, scrap)","(4, cooldown, scrap)",scrap×2 cooldown×1,advanced_upgrade,
+deutschland,Deutschland,26,27,Gas pedal,3.122,0.58,500,advanced upgrade,0,4,direct 1; heat 1; cooldown 1,Speed 4 · direct 1 · heat 1 · cooldown 1,"Gas pedal (4, cooldown, direct, heat)","(4, cooldown, direct, heat)",direct×1 heat×1 cooldown×1,advanced_upgrade,
+deutschland,Deutschland,27,4,Body,3.124,0.606,500,basic upgrade,0,3,reduce 2,Speed 3 · reduce 2,"Body (3, −stress)","(3, −stress)",reduce×2,basic_upgrade,
+deutschland,Deutschland,28,50,Air intake,3.134,0.596,500,advanced upgrade,1,0,super-cool 1; slipstream 1; reduce 1,Speed 0 · super-cool 1 · slipstream 1 · reduce 1,"Air intake (0, −stress, slipstream, super-cool)","(0, −stress, slipstream, super-cool)",super-cool×1 slipstream×1 reduce×1,advanced_upgrade,heavy-rain
+deutschland,Deutschland,29,16,R.P.M.,3.162,0.568,500,basic upgrade,0,3,slipstream 2,Speed 3 · slipstream 2,"R.P.M. (3, slipstream)","(3, slipstream)",slipstream×2,basic_upgrade,
+deutschland,Deutschland,30,24,Gas pedal,3.164,0.57,500,advanced upgrade,0,1,direct 1; scrap 1,Speed 1 · direct 1 · scrap 1,"Gas pedal (1, scrap, direct)","(1, scrap, direct)",direct×1 scrap×1,advanced_upgrade,
+deutschland,Deutschland,31,12,Cooling system,3.184,0.582,500,basic upgrade,0,1,cooldown 2,Speed 1 · cooldown 2,"Cooling system (1, cooldown)","(1, cooldown)",cooldown×2,basic_upgrade,
+deutschland,Deutschland,32,47,4 wheel drive,3.19,0.576,500,advanced upgrade,0,0,boost 1; accelerate 1,Speed 0 · boost 1 · accelerate 1,"4 wheel drive (0, boost, accelerate)","(0, boost, accelerate)",boost×1 accelerate×1,advanced_upgrade,
+deutschland,Deutschland,33,15,R.P.M.,3.204,0.568,500,basic upgrade,0,2,slipstream 2,Speed 2 · slipstream 2,"R.P.M. (2, slipstream)","(2, slipstream)",slipstream×2,basic_upgrade,
+deutschland,Deutschland,34,11,Cooling system,3.206,0.586,500,basic upgrade,0,6,heat 1; cooldown 1,Speed 6 · heat 1 · cooldown 1,"Cooling system (6, cooldown, heat)","(6, cooldown, heat)",heat×1 cooldown×1,basic_upgrade,
+deutschland,Deutschland,35,56,Front Wing,3.212,0.572,500,advanced upgrade,2,0,draft 1; direct 1; refresh 1,Speed 0 · draft 1 · direct 1 · refresh 1,"Front Wing (0, direct, draft)","(0, direct, draft)",draft×1 direct×1 refresh×1,advanced_upgrade,tunnel-vision
+deutschland,Deutschland,36,39,Tires,3.212,0.548,500,advanced upgrade,0,3,adjust -1; cooldown 2,Speed 3 · adjust -1 · cooldown 2,"Tires (3, cooldown, adjust↓)","(3, cooldown, adjust↓)",adjust×-1 cooldown×2,advanced_upgrade,
+deutschland,Deutschland,37,31,R.P.M.,3.216,0.562,500,advanced upgrade,0,"[1, 2]",slipstream 1,"Speed [1, 2] · slipstream 1","R.P.M. (1–2, slipstream)","(1–2, slipstream)",slipstream×1,advanced_upgrade,
+deutschland,Deutschland,38,20,Body,3.232,0.546,500,advanced upgrade,0,2,reduce 1; slipstream 1,Speed 2 · reduce 1 · slipstream 1,"Body (2, −stress, slipstream)","(2, −stress, slipstream)",reduce×1 slipstream×1,advanced_upgrade,
+deutschland,Deutschland,39,33,Suspension,3.262,0.536,500,advanced upgrade,0,2,refresh 1; cooldown 1,Speed 2 · refresh 1 · cooldown 1,"Suspension (2, cooldown)","(2, cooldown)",refresh×1 cooldown×1,advanced_upgrade,
+deutschland,Deutschland,40,66,Sliding Skirts,3.266,0.544,500,advanced upgrade,3,"[4, 6]",chain-aspiration 1; heat 1,"Speed [4, 6] · chain-aspiration 1 · heat 1","Sliding Skirts (4–6, chain-aspiration, heat)","(4–6, chain-aspiration, heat)",chain-aspiration×1 heat×1,advanced_upgrade,rocky-road
+deutschland,Deutschland,41,44,Wings,3.27,0.548,500,advanced upgrade,0,4,heat 1; scrap 2; adjust 2,Speed 4 · heat 1 · scrap 2 · adjust 2,"Wings (4, scrap, adjust↑, heat)","(4, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+deutschland,Deutschland,42,34,Suspension,3.276,0.528,500,advanced upgrade,0,4,refresh 1,Speed 4 · refresh 1,Suspension (4),(4),refresh×1,advanced_upgrade,
+deutschland,Deutschland,43,22,Fuel,3.284,0.532,500,advanced upgrade,0,2,salvage 2,Speed 2 · salvage 2,"Fuel (2, salvage)","(2, salvage)",salvage×2,advanced_upgrade,
+deutschland,Deutschland,44,59,Front Wing,3.29,0.528,500,advanced upgrade,2,4,draft 1; refresh 1; scrap 4,Speed 4 · draft 1 · refresh 1 · scrap 4,"Front Wing (4, scrap, draft)","(4, scrap, draft)",draft×1 refresh×1 scrap×4,advanced_upgrade,tunnel-vision
+deutschland,Deutschland,45,62,Sliding Skirts,3.298,0.54,500,advanced upgrade,3,1,chain-aspiration 1; slipstream 1,Speed 1 · chain-aspiration 1 · slipstream 1,"Sliding Skirts (1, slipstream, chain-aspiration)","(1, slipstream, chain-aspiration)",chain-aspiration×1 slipstream×1,advanced_upgrade,rocky-road
+deutschland,Deutschland,46,55,Front Wing,3.314,0.518,500,advanced upgrade,2,0,boost 1; draft 3,Speed 0 · boost 1 · draft 3,"Front Wing (0, boost, draft)","(0, boost, draft)",boost×1 draft×3,advanced_upgrade,tunnel-vision
+deutschland,Deutschland,47,35,Suspension,3.33,0.514,500,advanced upgrade,0,1,refresh 1; slipstream 1,Speed 1 · refresh 1 · slipstream 1,"Suspension (1, slipstream)","(1, slipstream)",refresh×1 slipstream×1,advanced_upgrade,
+deutschland,Deutschland,48,29,R.P.M.,3.338,0.51,500,advanced upgrade,0,0,boost 1; slipstream 3,Speed 0 · boost 1 · slipstream 3,"R.P.M. (0, boost, slipstream)","(0, boost, slipstream)",boost×1 slipstream×3,advanced_upgrade,
+deutschland,Deutschland,49,36,Tires,3.356,0.518,500,advanced upgrade,0,2,adjust -1; cooldown 3,Speed 2 · adjust -1 · cooldown 3,"Tires (2, cooldown, adjust↓)","(2, cooldown, adjust↓)",adjust×-1 cooldown×3,advanced_upgrade,
+deutschland,Deutschland,50,54,Air intake,3.366,0.516,500,advanced upgrade,1,0,boost 1; super-cool 1; refresh 1; adjust -1,Speed 0 · boost 1 · super-cool 1 · refresh 1 · adjust -1,"Air intake (0, boost, adjust↓, super-cool)","(0, boost, adjust↓, super-cool)",boost×1 super-cool×1 refresh×1 adjust×-1,advanced_upgrade,heavy-rain
+deutschland,Deutschland,51,3,4 wheel drive,3.368,0.492,500,basic upgrade,0,0,boost 1; cooldown 3,Speed 0 · boost 1 · cooldown 3,"4 wheel drive (0, cooldown, boost)","(0, cooldown, boost)",boost×1 cooldown×3,basic_upgrade,
+deutschland,Deutschland,52,60,Front Wing,3.386,0.52,500,advanced upgrade,2,6,draft 2; heat 1,Speed 6 · draft 2 · heat 1,"Front Wing (6, draft, heat)","(6, draft, heat)",draft×2 heat×1,advanced_upgrade,tunnel-vision
+deutschland,Deutschland,53,32,Suspension,3.388,0.498,500,advanced upgrade,0,2,refresh 1; reduce 1,Speed 2 · refresh 1 · reduce 1,"Suspension (2, −stress)","(2, −stress)",refresh×1 reduce×1,advanced_upgrade,
+deutschland,Deutschland,54,6,Body,3.402,0.484,500,basic upgrade,0,1,reduce 3,Speed 1 · reduce 3,"Body (1, −stress)","(1, −stress)",reduce×3,basic_upgrade,
+deutschland,Deutschland,55,45,Wings,3.404,0.492,500,advanced upgrade,0,3,heat 1; scrap 2; adjust 2,Speed 3 · heat 1 · scrap 2 · adjust 2,"Wings (3, scrap, adjust↑, heat)","(3, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+deutschland,Deutschland,56,14,R.P.M.,3.41,0.498,500,basic upgrade,0,1,slipstream 2,Speed 1 · slipstream 2,"R.P.M. (1, slipstream)","(1, slipstream)",slipstream×2,basic_upgrade,
+deutschland,Deutschland,57,23,Fuel,3.414,0.472,500,advanced upgrade,0,0,boost 1; salvage 2; cooldown 1,Speed 0 · boost 1 · salvage 2 · cooldown 1,"Fuel (0, cooldown, boost, salvage)","(0, cooldown, boost, salvage)",boost×1 salvage×2 cooldown×1,advanced_upgrade,
+deutschland,Deutschland,58,63,Sliding Skirts,3.416,0.512,500,advanced upgrade,3,1,chain-aspiration 1; refresh 1,Speed 1 · chain-aspiration 1 · refresh 1,"Sliding Skirts (1, chain-aspiration)","(1, chain-aspiration)",chain-aspiration×1 refresh×1,advanced_upgrade,rocky-road
+deutschland,Deutschland,59,18,Body,3.428,0.492,500,advanced upgrade,0,6,reduce 3; heat 1,Speed 6 · reduce 3 · heat 1,"Body (6, −stress, heat)","(6, −stress, heat)",reduce×3 heat×1,advanced_upgrade,
+deutschland,Deutschland,60,49,Air intake,3.428,0.466,500,advanced upgrade,1,1,super-cool 1; salvage 4; adjust -1,Speed 1 · super-cool 1 · salvage 4 · adjust -1,"Air intake (1, adjust↓, salvage, super-cool)","(1, adjust↓, salvage, super-cool)",super-cool×1 salvage×4 adjust×-1,advanced_upgrade,heavy-rain
+deutschland,Deutschland,61,17,Upgrade Heat,3.484,0.486,500,heat card,0,0,,Heat card (no speed/symbols); type 48 is its advanced-set alias,Upgrade Heat (#17),,,heat,
+deutschland,Deutschland,62,42,Turbo charger,3.538,0.456,500,advanced upgrade,0,7,heat 2; cooldown 3,Speed 7 · heat 2 · cooldown 3,"Turbo charger (7, cooldown, heat×2)","(7, cooldown, heat×2)",heat×2 cooldown×3,advanced_upgrade,
+deutschland,Deutschland,63,46,Wings,3.61,0.426,500,advanced upgrade,0,6,heat 2; adjust 3,Speed 6 · heat 2 · adjust 3,"Wings (6, adjust↑, heat×2)","(6, adjust↑, heat×2)",heat×2 adjust×3,advanced_upgrade,
+deutschland,Deutschland,64,7,Brakes,3.658,0.406,500,basic upgrade,0,"[1, 2, 3, 4]",heat 1,"Speed [1, 2, 3, 4] · heat 1","Brakes (1–4, heat)","(1–4, heat)",heat×1,basic_upgrade,
+deutschland,Deutschland,65,30,R.P.M.,3.792,0.346,500,advanced upgrade,0,1,heat 1; slipstream 3,Speed 1 · heat 1 · slipstream 3,"R.P.M. (1, slipstream, heat)","(1, slipstream, heat)",heat×1 slipstream×3,advanced_upgrade,
+southafrica,South Africa,1,58,Front Wing,2.564,0.748,500,advanced upgrade,2,3,draft 1; adjust 1; scrap 3,Speed 3 · draft 1 · adjust 1 · scrap 3,"Front Wing (3, scrap, adjust↑, draft)","(3, scrap, adjust↑, draft)",draft×1 adjust×1 scrap×3,advanced_upgrade,tunnel-vision
+southafrica,South Africa,2,38,Tires,2.662,0.734,500,advanced upgrade,0,2,scrap 2; adjust 1,Speed 2 · scrap 2 · adjust 1,"Tires (2, scrap, adjust↑)","(2, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+southafrica,South Africa,3,53,Air intake,2.676,0.714,500,advanced upgrade,1,4,super-cool 1; scrap 4,Speed 4 · super-cool 1 · scrap 4,"Air intake (4, scrap, super-cool)","(4, scrap, super-cool)",super-cool×1 scrap×4,advanced_upgrade,heavy-rain
+southafrica,South Africa,4,52,Air intake,2.678,0.72,500,advanced upgrade,1,3,super-cool 1; scrap 3,Speed 3 · super-cool 1 · scrap 3,"Air intake (3, scrap, super-cool)","(3, scrap, super-cool)",super-cool×1 scrap×3,advanced_upgrade,heavy-rain
+southafrica,South Africa,5,28,Gas pedal,2.782,0.668,500,advanced upgrade,0,1,direct 1; accelerate 1; scrap 5,Speed 1 · direct 1 · accelerate 1 · scrap 5,"Gas pedal (1, scrap, direct, accelerate)","(1, scrap, direct, accelerate)",direct×1 accelerate×1 scrap×5,advanced_upgrade,
+southafrica,South Africa,6,26,Gas pedal,2.786,0.706,500,advanced upgrade,0,3,direct 1; scrap 3,Speed 3 · direct 1 · scrap 3,"Gas pedal (3, scrap, direct)","(3, scrap, direct)",direct×1 scrap×3,advanced_upgrade,
+southafrica,South Africa,7,57,Front Wing,2.828,0.69,500,advanced upgrade,2,2,draft 2; salvage 2; scrap 5,Speed 2 · draft 2 · salvage 2 · scrap 5,"Front Wing (2, scrap, salvage, draft)","(2, scrap, salvage, draft)",draft×2 salvage×2 scrap×5,advanced_upgrade,tunnel-vision
+southafrica,South Africa,8,5,Body,2.852,0.65,500,basic upgrade,0,5,reduce 1,Speed 5 · reduce 1,"Body (5, −stress)","(5, −stress)",reduce×1,basic_upgrade,
+southafrica,South Africa,9,25,Gas pedal,2.86,0.638,500,advanced upgrade,0,2,direct 1; scrap 2,Speed 2 · direct 1 · scrap 2,"Gas pedal (2, scrap, direct)","(2, scrap, direct)",direct×1 scrap×2,advanced_upgrade,
+southafrica,South Africa,10,65,Sliding Skirts,2.866,0.674,500,advanced upgrade,3,"[2, 3]",chain-aspiration 1,"Speed [2, 3] · chain-aspiration 1","Sliding Skirts (2–3, chain-aspiration)","(2–3, chain-aspiration)",chain-aspiration×1,advanced_upgrade,rocky-road
+southafrica,South Africa,11,44,Wings,2.872,0.688,500,advanced upgrade,0,4,heat 1; scrap 2; adjust 2,Speed 4 · heat 1 · scrap 2 · adjust 2,"Wings (4, scrap, adjust↑, heat)","(4, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+southafrica,South Africa,12,64,Sliding Skirts,2.88,0.668,500,advanced upgrade,3,2,chain-aspiration 1; direct 1,Speed 2 · chain-aspiration 1 · direct 1,"Sliding Skirts (2, direct, chain-aspiration)","(2, direct, chain-aspiration)",chain-aspiration×1 direct×1,advanced_upgrade,rocky-road
+southafrica,South Africa,13,9,Brakes,2.882,0.642,500,basic upgrade,0,"[2, 4]",,"Speed [2, 4]",Brakes (2–4),(2–4),,basic_upgrade,
+southafrica,South Africa,14,31,R.P.M.,2.892,0.642,500,advanced upgrade,0,"[1, 2]",slipstream 1,"Speed [1, 2] · slipstream 1","R.P.M. (1–2, slipstream)","(1–2, slipstream)",slipstream×1,advanced_upgrade,
+southafrica,South Africa,15,1,4 wheel drive,2.894,0.648,500,basic upgrade,0,4,boost 1,Speed 4 · boost 1,"4 wheel drive (4, boost)","(4, boost)",boost×1,basic_upgrade,
+southafrica,South Africa,16,8,Brakes,2.896,0.65,500,basic upgrade,0,"[1, 3]",,"Speed [1, 3]",Brakes (1–3),(1–3),,basic_upgrade,
+southafrica,South Africa,17,40,Tires,2.914,0.634,500,advanced upgrade,0,0,boost 1; adjust 1; slipstream 1; cooldown 1,Speed 0 · boost 1 · adjust 1 · slipstream 1 · cooldown 1,"Tires (0, cooldown, boost, adjust↑, slipstream)","(0, cooldown, boost, adjust↑, slipstream)",boost×1 adjust×1 slipstream×1 cooldown×1,advanced_upgrade,
+southafrica,South Africa,18,15,R.P.M.,2.918,0.646,500,basic upgrade,0,2,slipstream 2,Speed 2 · slipstream 2,"R.P.M. (2, slipstream)","(2, slipstream)",slipstream×2,basic_upgrade,
+southafrica,South Africa,19,51,Air intake,2.932,0.664,500,advanced upgrade,1,1,super-cool 1; cooldown 1; scrap 1,Speed 1 · super-cool 1 · cooldown 1 · scrap 1,"Air intake (1, cooldown, scrap, super-cool)","(1, cooldown, scrap, super-cool)",super-cool×1 cooldown×1 scrap×1,advanced_upgrade,heavy-rain
+southafrica,South Africa,20,13,Cooling system,2.946,0.63,500,basic upgrade,0,3,cooldown 1,Speed 3 · cooldown 1,"Cooling system (3, cooldown)","(3, cooldown)",cooldown×1,basic_upgrade,
+southafrica,South Africa,21,16,R.P.M.,2.956,0.644,500,basic upgrade,0,3,slipstream 2,Speed 3 · slipstream 2,"R.P.M. (3, slipstream)","(3, slipstream)",slipstream×2,basic_upgrade,
+southafrica,South Africa,22,19,Body,2.958,0.63,500,advanced upgrade,0,2,reduce 1; cooldown 1; scrap 2,Speed 2 · reduce 1 · cooldown 1 · scrap 2,"Body (2, −stress, cooldown, scrap)","(2, −stress, cooldown, scrap)",reduce×1 cooldown×1 scrap×2,advanced_upgrade,
+southafrica,South Africa,23,21,Cooling system,2.978,0.628,500,advanced upgrade,0,4,scrap 2; cooldown 1,Speed 4 · scrap 2 · cooldown 1,"Cooling system (4, cooldown, scrap)","(4, cooldown, scrap)",scrap×2 cooldown×1,advanced_upgrade,
+southafrica,South Africa,24,4,Body,2.994,0.612,500,basic upgrade,0,3,reduce 2,Speed 3 · reduce 2,"Body (3, −stress)","(3, −stress)",reduce×2,basic_upgrade,
+southafrica,South Africa,25,20,Body,2.998,0.644,500,advanced upgrade,0,2,reduce 1; slipstream 1,Speed 2 · reduce 1 · slipstream 1,"Body (2, −stress, slipstream)","(2, −stress, slipstream)",reduce×1 slipstream×1,advanced_upgrade,
+southafrica,South Africa,26,24,Gas pedal,3.002,0.628,500,advanced upgrade,0,1,direct 1; scrap 1,Speed 1 · direct 1 · scrap 1,"Gas pedal (1, scrap, direct)","(1, scrap, direct)",direct×1 scrap×1,advanced_upgrade,
+southafrica,South Africa,27,59,Front Wing,3.006,0.608,500,advanced upgrade,2,4,draft 1; refresh 1; scrap 4,Speed 4 · draft 1 · refresh 1 · scrap 4,"Front Wing (4, scrap, draft)","(4, scrap, draft)",draft×1 refresh×1 scrap×4,advanced_upgrade,tunnel-vision
+southafrica,South Africa,28,43,Turbo charger,3.02,0.624,500,advanced upgrade,0,8,heat 1; scrap 6,Speed 8 · heat 1 · scrap 6,"Turbo charger (8, scrap, heat)","(8, scrap, heat)",heat×1 scrap×6,advanced_upgrade,
+southafrica,South Africa,29,41,Tires,3.034,0.58,500,advanced upgrade,0,0,boost 2; adjust 2,Speed 0 · boost 2 · adjust 2,"Tires (0, boost, adjust↑)","(0, boost, adjust↑)",boost×2 adjust×2,advanced_upgrade,
+southafrica,South Africa,30,37,Tires,3.046,0.636,500,advanced upgrade,0,1,scrap 2; adjust 1,Speed 1 · scrap 2 · adjust 1,"Tires (1, scrap, adjust↑)","(1, scrap, adjust↑)",scrap×2 adjust×1,advanced_upgrade,
+southafrica,South Africa,31,22,Fuel,3.048,0.612,500,advanced upgrade,0,2,salvage 2,Speed 2 · salvage 2,"Fuel (2, salvage)","(2, salvage)",salvage×2,advanced_upgrade,
+southafrica,South Africa,32,10,Brakes,3.052,0.612,500,basic upgrade,0,"[1, 5]",,"Speed [1, 5]",Brakes (1–5),(1–5),,basic_upgrade,
+southafrica,South Africa,33,61,Sliding Skirts,3.052,0.604,500,advanced upgrade,3,0,boost 1; chain-aspiration 1; adjust 1; reduce 1,Speed 0 · boost 1 · chain-aspiration 1 · adjust 1 · reduce 1,"Sliding Skirts (0, −stress, boost, adjust↑, chain-aspiration)","(0, −stress, boost, adjust↑, chain-aspiration)",boost×1 chain-aspiration×1 adjust×1 reduce×1,advanced_upgrade,rocky-road
+southafrica,South Africa,34,45,Wings,3.054,0.602,500,advanced upgrade,0,3,heat 1; scrap 2; adjust 2,Speed 3 · heat 1 · scrap 2 · adjust 2,"Wings (3, scrap, adjust↑, heat)","(3, scrap, adjust↑, heat)",heat×1 scrap×2 adjust×2,advanced_upgrade,
+southafrica,South Africa,35,55,Front Wing,3.062,0.616,500,advanced upgrade,2,0,boost 1; draft 3,Speed 0 · boost 1 · draft 3,"Front Wing (0, boost, draft)","(0, boost, draft)",boost×1 draft×3,advanced_upgrade,tunnel-vision
+southafrica,South Africa,36,14,R.P.M.,3.072,0.574,500,basic upgrade,0,1,slipstream 2,Speed 1 · slipstream 2,"R.P.M. (1, slipstream)","(1, slipstream)",slipstream×2,basic_upgrade,
+southafrica,South Africa,37,50,Air intake,3.084,0.596,500,advanced upgrade,1,0,super-cool 1; slipstream 1; reduce 1,Speed 0 · super-cool 1 · slipstream 1 · reduce 1,"Air intake (0, −stress, slipstream, super-cool)","(0, −stress, slipstream, super-cool)",super-cool×1 slipstream×1 reduce×1,advanced_upgrade,heavy-rain
+southafrica,South Africa,38,11,Cooling system,3.106,0.592,500,basic upgrade,0,6,heat 1; cooldown 1,Speed 6 · heat 1 · cooldown 1,"Cooling system (6, cooldown, heat)","(6, cooldown, heat)",heat×1 cooldown×1,basic_upgrade,
+southafrica,South Africa,39,56,Front Wing,3.14,0.588,500,advanced upgrade,2,0,draft 1; direct 1; refresh 1,Speed 0 · draft 1 · direct 1 · refresh 1,"Front Wing (0, direct, draft)","(0, direct, draft)",draft×1 direct×1 refresh×1,advanced_upgrade,tunnel-vision
+southafrica,South Africa,40,62,Sliding Skirts,3.18,0.568,500,advanced upgrade,3,1,chain-aspiration 1; slipstream 1,Speed 1 · chain-aspiration 1 · slipstream 1,"Sliding Skirts (1, slipstream, chain-aspiration)","(1, slipstream, chain-aspiration)",chain-aspiration×1 slipstream×1,advanced_upgrade,rocky-road
+southafrica,South Africa,41,34,Suspension,3.184,0.582,500,advanced upgrade,0,4,refresh 1,Speed 4 · refresh 1,Suspension (4),(4),refresh×1,advanced_upgrade,
+southafrica,South Africa,42,33,Suspension,3.188,0.568,500,advanced upgrade,0,2,refresh 1; cooldown 1,Speed 2 · refresh 1 · cooldown 1,"Suspension (2, cooldown)","(2, cooldown)",refresh×1 cooldown×1,advanced_upgrade,
+southafrica,South Africa,43,2,4 wheel drive,3.19,0.544,500,basic upgrade,0,0,boost 3,Speed 0 · boost 3,"4 wheel drive (0, boost)","(0, boost)",boost×3,basic_upgrade,
+southafrica,South Africa,44,12,Cooling system,3.2,0.566,500,basic upgrade,0,1,cooldown 2,Speed 1 · cooldown 2,"Cooling system (1, cooldown)","(1, cooldown)",cooldown×2,basic_upgrade,
+southafrica,South Africa,45,29,R.P.M.,3.216,0.564,500,advanced upgrade,0,0,boost 1; slipstream 3,Speed 0 · boost 1 · slipstream 3,"R.P.M. (0, boost, slipstream)","(0, boost, slipstream)",boost×1 slipstream×3,advanced_upgrade,
+southafrica,South Africa,46,60,Front Wing,3.228,0.572,500,advanced upgrade,2,6,draft 2; heat 1,Speed 6 · draft 2 · heat 1,"Front Wing (6, draft, heat)","(6, draft, heat)",draft×2 heat×1,advanced_upgrade,tunnel-vision
+southafrica,South Africa,47,27,Gas pedal,3.232,0.54,500,advanced upgrade,0,4,direct 1; heat 1; cooldown 1,Speed 4 · direct 1 · heat 1 · cooldown 1,"Gas pedal (4, cooldown, direct, heat)","(4, cooldown, direct, heat)",direct×1 heat×1 cooldown×1,advanced_upgrade,
+southafrica,South Africa,48,32,Suspension,3.234,0.56,500,advanced upgrade,0,2,refresh 1; reduce 1,Speed 2 · refresh 1 · reduce 1,"Suspension (2, −stress)","(2, −stress)",refresh×1 reduce×1,advanced_upgrade,
+southafrica,South Africa,49,3,4 wheel drive,3.244,0.53,500,basic upgrade,0,0,boost 1; cooldown 3,Speed 0 · boost 1 · cooldown 3,"4 wheel drive (0, cooldown, boost)","(0, cooldown, boost)",boost×1 cooldown×3,basic_upgrade,
+southafrica,South Africa,50,47,4 wheel drive,3.28,0.53,500,advanced upgrade,0,0,boost 1; accelerate 1,Speed 0 · boost 1 · accelerate 1,"4 wheel drive (0, boost, accelerate)","(0, boost, accelerate)",boost×1 accelerate×1,advanced_upgrade,
+southafrica,South Africa,51,36,Tires,3.298,0.536,500,advanced upgrade,0,2,adjust -1; cooldown 3,Speed 2 · adjust -1 · cooldown 3,"Tires (2, cooldown, adjust↓)","(2, cooldown, adjust↓)",adjust×-1 cooldown×3,advanced_upgrade,
+southafrica,South Africa,52,49,Air intake,3.314,0.514,500,advanced upgrade,1,1,super-cool 1; salvage 4; adjust -1,Speed 1 · super-cool 1 · salvage 4 · adjust -1,"Air intake (1, adjust↓, salvage, super-cool)","(1, adjust↓, salvage, super-cool)",super-cool×1 salvage×4 adjust×-1,advanced_upgrade,heavy-rain
+southafrica,South Africa,53,35,Suspension,3.316,0.508,500,advanced upgrade,0,1,refresh 1; slipstream 1,Speed 1 · refresh 1 · slipstream 1,"Suspension (1, slipstream)","(1, slipstream)",refresh×1 slipstream×1,advanced_upgrade,
+southafrica,South Africa,54,63,Sliding Skirts,3.328,0.528,500,advanced upgrade,3,1,chain-aspiration 1; refresh 1,Speed 1 · chain-aspiration 1 · refresh 1,"Sliding Skirts (1, chain-aspiration)","(1, chain-aspiration)",chain-aspiration×1 refresh×1,advanced_upgrade,rocky-road
+southafrica,South Africa,55,23,Fuel,3.332,0.5,500,advanced upgrade,0,0,boost 1; salvage 2; cooldown 1,Speed 0 · boost 1 · salvage 2 · cooldown 1,"Fuel (0, cooldown, boost, salvage)","(0, cooldown, boost, salvage)",boost×1 salvage×2 cooldown×1,advanced_upgrade,
+southafrica,South Africa,56,66,Sliding Skirts,3.342,0.522,500,advanced upgrade,3,"[4, 6]",chain-aspiration 1; heat 1,"Speed [4, 6] · chain-aspiration 1 · heat 1","Sliding Skirts (4–6, chain-aspiration, heat)","(4–6, chain-aspiration, heat)",chain-aspiration×1 heat×1,advanced_upgrade,rocky-road
+southafrica,South Africa,57,39,Tires,3.342,0.514,500,advanced upgrade,0,3,adjust -1; cooldown 2,Speed 3 · adjust -1 · cooldown 2,"Tires (3, cooldown, adjust↓)","(3, cooldown, adjust↓)",adjust×-1 cooldown×2,advanced_upgrade,
+southafrica,South Africa,58,46,Wings,3.366,0.5,500,advanced upgrade,0,6,heat 2; adjust 3,Speed 6 · heat 2 · adjust 3,"Wings (6, adjust↑, heat×2)","(6, adjust↑, heat×2)",heat×2 adjust×3,advanced_upgrade,
+southafrica,South Africa,59,18,Body,3.392,0.498,500,advanced upgrade,0,6,reduce 3; heat 1,Speed 6 · reduce 3 · heat 1,"Body (6, −stress, heat)","(6, −stress, heat)",reduce×3 heat×1,advanced_upgrade,
+southafrica,South Africa,60,6,Body,3.404,0.494,500,basic upgrade,0,1,reduce 3,Speed 1 · reduce 3,"Body (1, −stress)","(1, −stress)",reduce×3,basic_upgrade,
+southafrica,South Africa,61,7,Brakes,3.436,0.496,500,basic upgrade,0,"[1, 2, 3, 4]",heat 1,"Speed [1, 2, 3, 4] · heat 1","Brakes (1–4, heat)","(1–4, heat)",heat×1,basic_upgrade,
+southafrica,South Africa,62,42,Turbo charger,3.458,0.478,500,advanced upgrade,0,7,heat 2; cooldown 3,Speed 7 · heat 2 · cooldown 3,"Turbo charger (7, cooldown, heat×2)","(7, cooldown, heat×2)",heat×2 cooldown×3,advanced_upgrade,
+southafrica,South Africa,63,17,Upgrade Heat,3.464,0.478,500,heat card,0,0,,Heat card (no speed/symbols); type 48 is its advanced-set alias,Upgrade Heat (#17),,,heat,
+southafrica,South Africa,64,54,Air intake,3.57,0.418,500,advanced upgrade,1,0,boost 1; super-cool 1; refresh 1; adjust -1,Speed 0 · boost 1 · super-cool 1 · refresh 1 · adjust -1,"Air intake (0, boost, adjust↓, super-cool)","(0, boost, adjust↓, super-cool)",boost×1 super-cool×1 refresh×1 adjust×-1,advanced_upgrade,heavy-rain
+southafrica,South Africa,65,30,R.P.M.,3.638,0.42,500,advanced upgrade,0,1,heat 1; slipstream 3,Speed 1 · heat 1 · slipstream 3,"R.P.M. (1, slipstream, heat)","(1, slipstream, heat)",heat×1 slipstream×3,advanced_upgrade,

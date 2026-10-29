@@ -371,9 +371,11 @@ body {
   text-transform: uppercase;
   color: var(--muted);
   font-weight: 650;
+  white-space: normal;
 }
 
-.rank-table td:nth-child(2) {
+.rank-table td:nth-child(2),
+.rank-table td:nth-child(4) {
   white-space: normal;
 }
 

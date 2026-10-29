@@ -149,6 +149,7 @@ body {
 .page {
   flex: 1;
   width: min(var(--max), calc(100% - 2rem));
+  min-width: 0;
   margin: 1.75rem auto 3rem;
 }
 
@@ -363,6 +364,7 @@ body {
   padding: 0.28rem 0.5rem;
   border-bottom: 1px solid var(--line);
   white-space: nowrap;
+  vertical-align: middle;
 }
 
 .rank-table th {
@@ -374,9 +376,68 @@ body {
   white-space: normal;
 }
 
-.rank-table td:nth-child(2),
-.rank-table td:nth-child(4) {
-  white-space: normal;
+.rank-table td.module-cell {
+  width: 1%;
+  line-height: 0;
+}
+
+.pb-card-face {
+  position: relative;
+  display: inline-block;
+  height: 48px;
+  aspect-ratio: 900 / 1451;
+  border-radius: 3px;
+  background-image: url("../cards/upgrade-cards.jpg");
+  background-size: 1000% 800%;
+  background-repeat: no-repeat;
+  box-shadow: 0 0 0 1px rgba(18, 21, 28, 0.22);
+  vertical-align: middle;
+}
+
+.pb-details {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.28rem;
+  line-height: 1;
+}
+
+.pb-speed {
+  font-variant-numeric: tabular-nums;
+  font-weight: 650;
+  min-width: 2rem;
+  text-align: left;
+}
+
+.pb-speed--empty {
+  min-width: 0;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.pb-heat-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  flex: 0 0 auto;
+  background-image: url("../heat-icons.png");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position-y: center;
+  /* Tiles are dark or already colored, so they read on this light page. */
+  filter: none;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
 }
 
 .track-ranks {

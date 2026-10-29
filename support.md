@@ -10,6 +10,8 @@ permalink: /support/
 
 [pitbosssupport@gmail.com](mailto:pitbosssupport@gmail.com)
 
+Unlisted friends-beta testers can use this address.
+
 ## GitHub Issues
 
 The extension's **Report a bug** link opens a new issue on this repository: [https://github.com/PitBoss-Support/PitBoss/issues/new](https://github.com/PitBoss-Support/PitBoss/issues/new).

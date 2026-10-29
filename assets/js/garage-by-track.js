@@ -3,11 +3,12 @@
   if (!board) return;
 
   var url = board.getAttribute("data-cards-url");
-  var tbody = document.querySelector("#garage-table tbody");
+  var table = document.getElementById("garage-table");
+  var tbody = table && table.querySelector("tbody");
   var caption = document.getElementById("garage-caption");
   var status = document.getElementById("garage-status");
   var radios = board.querySelectorAll('input[name="garage-track"]');
-  if (!url || !tbody || !radios.length) return;
+  if (!url || !table || !tbody || !radios.length) return;
 
   var trackNames = {};
 
@@ -19,7 +20,7 @@
     return card.tie[trackId];
   }
 
-  // Track scores are integer tenths (512 = 51.2). Avg is integer hundredths.
+  // Track scores are integer tenths (512 = 51.2). Overall is integer hundredths.
   function formatScore(value, trackId) {
     var v = Math.abs(value);
     if (trackId === "avg") {
@@ -28,18 +29,20 @@
     return Math.trunc(v / 10) + "." + String(v % 10);
   }
 
+  function sortName(trackId) {
+    if (trackId === "avg") return "Overall Score";
+    return trackNames[trackId] || trackId;
+  }
+
   function statusText(trackId) {
-    if (trackId === "avg") {
-      return "Average of the 10 base-track scores, highest first.";
-    }
-    return (trackNames[trackId] || trackId) + " only, highest score first.";
+    return "Sorted by " + sortName(trackId) + ", highest first.";
   }
 
   function captionText(trackId) {
     if (trackId === "avg") {
-      return "65 garage cards ranked by average score across the 10 base tracks. Higher score is better.";
+      return "65 garage cards with an Overall Score and one score per base track, sorted by Overall Score, highest first. Higher score is better.";
     }
-    return "65 garage cards ranked by " + (trackNames[trackId] || trackId) + " score. Higher score is better.";
+    return "65 garage cards sorted by " + sortName(trackId) + " score, highest first. Overall Score stays the mean of the ten track scores. Higher score is better.";
   }
 
   function textCell(text, className) {
@@ -56,6 +59,19 @@
     return td;
   }
 
+  function markSort(trackId) {
+    var headers = table.querySelectorAll("thead th[data-sort]");
+    headers.forEach(function (th) {
+      var on = th.getAttribute("data-sort") === trackId;
+      th.setAttribute("aria-sort", on ? "descending" : "none");
+      var btn = th.querySelector("button");
+      if (btn) btn.setAttribute("aria-pressed", on ? "true" : "false");
+    });
+    radios.forEach(function (radio) {
+      radio.checked = radio.value === trackId;
+    });
+  }
+
   function render(data, trackId) {
     var ranked = data.cards.slice().sort(function (a, b) {
       return scoreOf(b, trackId) - scoreOf(a, trackId) || tieOf(a, trackId) - tieOf(b, trackId) || a.id - b.id;
@@ -67,12 +83,27 @@
       tr.appendChild(htmlCell(card.face, "card-cell"));
       tr.appendChild(htmlCell(card.speed, "speed-cell"));
       tr.appendChild(htmlCell(card.details, "details-cell"));
-      tr.appendChild(textCell(formatScore(scoreOf(card, trackId), trackId), "score-cell"));
+      var overall = textCell(formatScore(card.avg, "avg"), "score-cell score-cell--overall");
+      if (trackId === "avg") overall.classList.add("is-sort-col");
+      tr.appendChild(overall);
+      data.tracks.forEach(function (track) {
+        var td = textCell(formatScore(card.scores[track.id], track.id), "score-cell score-cell--track");
+        if (track.id === trackId) td.classList.add("is-sort-col");
+        tr.appendChild(td);
+      });
       frag.appendChild(tr);
     });
     tbody.replaceChildren(frag);
+    markSort(trackId);
     if (caption) caption.textContent = captionText(trackId);
     if (status) status.textContent = statusText(trackId);
+  }
+
+  function revealColumn(trackId) {
+    var th = table.querySelector('thead th[data-sort="' + trackId + '"]');
+    if (th && th.scrollIntoView) {
+      th.scrollIntoView({ inline: "nearest", block: "nearest" });
+    }
   }
 
   fetch(url)
@@ -83,10 +114,27 @@
     .then(function (data) {
       data.tracks.forEach(function (track) {
         trackNames[track.id] = track.name;
+        var th = table.querySelector('thead th[data-sort="' + track.id + '"]');
+        var btn = th && th.querySelector("button");
+        if (!btn) return;
+        if (track.short) btn.textContent = track.short;
+        btn.title = track.name;
+        btn.setAttribute("aria-label", "Sort by " + track.name);
+      });
+      table.querySelector("thead").addEventListener("click", function (event) {
+        var btn = event.target.closest("button");
+        if (!btn || !table.contains(btn)) return;
+        var th = btn.closest("th");
+        var trackId = th && th.getAttribute("data-sort");
+        if (!trackId) return;
+        render(data, trackId);
+        revealColumn(trackId);
       });
       radios.forEach(function (radio) {
         radio.addEventListener("change", function () {
-          if (radio.checked) render(data, radio.value);
+          if (!radio.checked) return;
+          render(data, radio.value);
+          revealColumn(radio.value);
         });
       });
       var selected = board.querySelector('input[name="garage-track"]:checked');
@@ -94,7 +142,7 @@
     })
     .catch(function () {
       if (status) {
-        status.textContent = "Showing the average ranking. Track filters could not be loaded.";
+        status.textContent = "Showing the Overall Score ranking. Column sorting could not be loaded.";
       }
     });
 })();

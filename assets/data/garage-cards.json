@@ -5,44 +5,54 @@
   },
   "tracks": [
     {
-      "id": "gb",
-      "name": "Great Britain"
+      "id": "usa",
+      "name": "USA",
+      "short": "USA"
     },
     {
-      "id": "usa",
-      "name": "USA"
+      "id": "gb",
+      "name": "Great Britain",
+      "short": "GB"
     },
     {
       "id": "italia",
-      "name": "Italia"
+      "name": "Italia",
+      "short": "Italia"
     },
     {
       "id": "france",
-      "name": "France"
+      "name": "France",
+      "short": "France"
     },
     {
       "id": "japan",
-      "name": "Japan"
+      "name": "Japan",
+      "short": "Japan"
     },
     {
       "id": "mexico",
-      "name": "Mexico"
+      "name": "Mexico",
+      "short": "Mexico"
     },
     {
       "id": "espana",
-      "name": "España"
+      "name": "España",
+      "short": "España"
     },
     {
       "id": "nederland",
-      "name": "Nederland"
+      "name": "Nederland",
+      "short": "Nederland"
     },
     {
       "id": "deutschland",
-      "name": "Deutschland"
+      "name": "Deutschland",
+      "short": "Deutschland"
     },
     {
       "id": "southafrica",
-      "name": "South Africa"
+      "name": "South Africa",
+      "short": "S. Africa"
     }
   ],
   "cards": [

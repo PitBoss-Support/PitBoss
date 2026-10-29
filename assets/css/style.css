@@ -153,6 +153,14 @@ body {
   margin: 1.75rem auto 3rem;
 }
 
+.page:has(#garage-board) {
+  width: min(72rem, calc(100% - 2rem));
+}
+
+.page:has(#garage-board) > :not(#garage-board) {
+  max-width: 44rem;
+}
+
 .page h1 {
   margin: 0 0 0.7rem;
   font-size: clamp(1.7rem, 3vw, 2.15rem);
@@ -354,7 +362,8 @@ body {
 
 .rank-table {
   width: auto;
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   font-size: 0.92rem;
 }
 
@@ -365,6 +374,7 @@ body {
   border-bottom: 1px solid var(--line);
   white-space: nowrap;
   vertical-align: middle;
+  background: var(--paper);
 }
 
 .rank-table th {
@@ -385,13 +395,87 @@ body {
   font-variant-numeric: tabular-nums;
 }
 
-.rank-table th:last-child,
+.rank-table th.score-col,
 .rank-table td.score-cell {
-  padding-left: 1.1rem;
+  text-align: right;
+  padding-left: 0.55rem;
+  padding-right: 0.55rem;
 }
 
-.rank-table td.score-cell {
+.rank-table th.score-col {
+  white-space: nowrap;
+}
+
+.rank-table td.score-cell--overall {
   font-weight: 650;
+}
+
+.rank-table th.score-col--overall,
+.rank-table td.score-cell--overall {
+  box-shadow: inset 1px 0 0 var(--line);
+}
+
+.rank-table th[aria-sort="descending"],
+.rank-table td.is-sort-col {
+  background: #f8edd4;
+  color: var(--ink);
+}
+
+.rank-table tbody tr:hover td {
+  background: #f3efe6;
+}
+
+.rank-table tbody tr:hover td.is-sort-col {
+  background: #f3e2b8;
+}
+
+.rank-table .sort-btn {
+  appearance: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  text-align: inherit;
+  font-weight: inherit;
+  cursor: pointer;
+}
+
+.rank-table th[aria-sort="descending"] .sort-btn::after {
+  content: " \2193";
+  letter-spacing: 0;
+}
+
+.rank-table .sort-btn:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 2px;
+}
+
+.rank-table .col-rank,
+.rank-table td.rank-cell {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  min-width: 4rem;
+  width: 4rem;
+  white-space: nowrap;
+}
+
+.rank-table .col-card,
+.rank-table td.card-cell {
+  position: sticky;
+  left: 4rem;
+  z-index: 1;
+  box-shadow: 1px 0 0 var(--line);
+}
+
+.rank-table thead .col-rank,
+.rank-table thead .col-card {
+  z-index: 2;
 }
 
 .pb-card-face {

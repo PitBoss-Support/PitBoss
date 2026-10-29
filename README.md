@@ -1,10 +1,10 @@
 # PitBoss
 
-Unofficial Chrome extension for *Heat: Pedal to the Metal* on Board Game Arena.
+Unofficial extension for *Heat: Pedal to the Metal* on Board Game Arena.
 
 **Beta (v0.9.0).** Free during the beta.
 
-PitBoss adds a panel on Heat tables with garage rankings, engine and boost info, play-speed odds, a HeatAI suggestion, deck and discard tracking, opponent summaries, and board landing lines. It runs on Chrome and Brave (desktop, Manifest V3), only on `boardgamearena.com`, and only on a Heat game table — not the lobby.
+PitBoss adds a panel on Heat tables with garage rankings, engine and boost info, play-speed odds, an AI suggestion, deck and discard tracking, opponent summaries, and board landing lines. It runs on Chrome and Brave (desktop, Chromium, Manifest V3). Firefox is not supported yet. It runs only on `boardgamearena.com`, and only on a Heat game table — not the lobby.
 
 ## Support site
 
@@ -13,6 +13,8 @@ Documentation is a GitHub Pages site built from this repository. Once Pages is e
 - [Home](https://pitboss-support.github.io/PitBoss/)
 - [Install](https://pitboss-support.github.io/PitBoss/install/)
 - [How to use](https://pitboss-support.github.io/PitBoss/how-to-use/)
+- [How AI works](https://pitboss-support.github.io/PitBoss/how-ai-works/)
+- [Garage by track](https://pitboss-support.github.io/PitBoss/garage-by-track/)
 - [Settings](https://pitboss-support.github.io/PitBoss/settings/)
 - [FAQ](https://pitboss-support.github.io/PitBoss/faq/)
 - [Known limitations](https://pitboss-support.github.io/PitBoss/known-limitations/)
@@ -24,6 +26,8 @@ The same pages in this repo:
 - [Home](index.md)
 - [Install](install.md)
 - [How to use](how-to-use.md)
+- [How AI works](how-ai-works.md)
+- [Garage by track](garage-by-track.md)
 - [Settings](settings.md)
 - [FAQ](faq.md)
 - [Known limitations](known-limitations.md)
@@ -32,7 +36,11 @@ The same pages in this repo:
 
 ## Install
 
-Not on the Chrome Web Store yet (a private beta listing is planned later). For now, load it unpacked: Developer mode on the Extensions page → Load unpacked → pick the PitBoss folder. Details: [Install](install.md).
+Friends beta: Unlisted Chrome Web Store listing (it does not appear in store search).
+
+https://chromewebstore.google.com/detail/pitboss/dpklofklabanhonajhhiefdjdeoiaeco
+
+Chrome and Brave on the desktop. Unpacked load is a fallback. Details: [Install](install.md).
 
 ## Support
 

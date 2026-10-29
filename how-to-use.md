@@ -6,7 +6,7 @@ permalink: /how-to-use/
 
 # How to use
 
-PitBoss runs only on `boardgamearena.com`. The panel appears on a Heat game table, not in the lobby.
+PitBoss runs only on `boardgamearena.com`. The panel appears on a Heat game table, not in the lobby. It runs on Chrome and Brave on the desktop. Firefox is not supported yet.
 
 <div class="toc">
 <p>On this page</p>
@@ -42,7 +42,7 @@ Default order is below. Each section notes whether it is on or off by default. S
 
 During the garage draft: draft status, your picks, and a MARKET table ranking each module on offer per track, with an AVG column for several tracks and the top suggestion highlighted.
 
-Lower rank is better; 1 is best. On the 10 base tracks, each track column is the module's rank out of 65 by average finishing position over 500 simulated games, AVG is the mean of those ranks, and the suggestion is the best-ranked module on offer. On other tracks, HeatAI scores the modules instead (higher is better), shows up to 3, and shows no rank numbers. See the [FAQ]({{ '/faq/' | relative_url }}#how-are-garage-modules-ranked).
+Lower rank is better; 1 is best. On the 10 base tracks, each track column is the module's rank out of 65 by average finishing position over 500 simulated games, AVG is the mean of those ranks, and the suggestion is the best-ranked module on offer. On other tracks, the AI scores the modules instead (higher is better), shows up to 3, and shows no rank numbers. See the [FAQ]({{ '/faq/' | relative_url }}#how-are-garage-modules-ranked) and [Garage by track]({{ '/garage-by-track/' | relative_url }}). The published tables may be newer than the copy bundled in your extension.
 
 After the draft: your modules as chips. A played module is marked `Played — in discard`.
 
@@ -58,15 +58,17 @@ Chance of each speed 1–4 if you boost, the average (EV), and spin-out warnings
 
 For your selected cards: the chance of each total speed, EV with Stress cards, speed choices, and spin-out risk.
 
-### HeatAI (on)
+### AI (on)
 
-The move suggested by the built-in HeatAI model, with the stage, `HeatAI thinking…`, and tags `SHORT`, `PAY-HEAT`, `SPIN`, and `UNDER`.
+The move suggested by the on-device AI, with the stage, `AI thinking…`, and tags `SHORT`, `PAY-HEAT`, `SPIN`, and `UNDER`.
 
-- **Ask HeatAI** gives a fresh suggestion.
+- **Ask AI** gives a fresh suggestion.
 - **No valid moves found** appears when nothing is playable.
 - Empty during the garage draft.
 
-Chips on the top suggestion are judged against the next corner ahead. **SPIN** means the move would spin you out, because the Heat owed for going over the corner's limit is more than the Heat you have left. **PAY-HEAT** means you get past the corner without spinning but pay Heat for going over the limit. **UNDER** means you get past the corner within the limit and pay no Heat. **SHORT** means the move doesn't get past the corner; landing exactly on the corner space still counts as short. See the [FAQ]({{ '/faq/' | relative_url }}#what-do-the-heatai-tags-mean).
+Chips on the top suggestion are judged against the next corner ahead. **SPIN** means the move would spin you out, because the Heat owed for going over the corner's limit is more than the Heat you have left. **PAY-HEAT** means you get past the corner without spinning but pay Heat for going over the limit. **UNDER** means you get past the corner within the limit and pay no Heat. **SHORT** means the move doesn't get past the corner; landing exactly on the corner space still counts as short. See the [FAQ]({{ '/faq/' | relative_url }}#what-do-the-ai-tags-mean).
+
+How the suggestion is produced is on [How AI works]({{ '/how-ai-works/' | relative_url }}).
 
 ### Draw Deck (on)
 
@@ -89,13 +91,11 @@ Your current hand.
 
 ### Corner Advisor (off)
 
-The next corner's distance (`+N`), limit, `~N` turns, and a mode badge `CRUISE` / `SETUP` / `APPROACH`. Options are compared on Heat or Cross/Spin/Heat.
-
-Badges are based on expected turns to the next corner without boosting. **CRUISE** is 2.5 or more turns away, and **SETUP** is 1.5 to 2.5 turns away; both are about pace and saving Heat. **APPROACH** is less than 1.5 turns away; the columns switch to Cross / Spin / Heat and spin-risk rows show. See the [FAQ]({{ '/faq/' | relative_url }}#what-do-cruise-setup-and-approach-mean).
+Off by default. Turn it on under HUD Sections if you want the next corner's distance, limit, a rough turn count, and a mode badge (`CRUISE`, `SETUP`, or `APPROACH`). It is optional and not part of the default panel. A short description of the badges is in the [FAQ]({{ '/faq/' | relative_url }}#what-do-cruise-setup-and-approach-mean).
 
 ## On the board {#on-the-board}
 
-**Landing lines** are strips showing where opponents may land. The **Lines** switch cycles Off / All / Ahead. The **Humans** switch includes or skips human players.
+**Landing lines** are strips showing where opponents may land. The **Lines** switch cycles Off / All / Ahead. The **Humans** switch includes or skips human players. The home screenshot shows those controls set to Lines All and Humans On; it is the table view, not a separate picture of the lines themselves.
 
 **Board landing spot marks** are car-coloured lines for the opponent you hover.
 

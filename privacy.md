@@ -12,7 +12,7 @@ PitBoss is an unofficial Chrome extension for *Heat: Pedal to the Metal* on Boar
 
 ## Analysis stays in your browser
 
-The game is analysed only in your browser, using data Board Game Arena already sends for your table. HeatAI and lookahead run locally.
+The game is analysed only in your browser, using data Board Game Arena already sends for your table. The AI and lookahead run locally. No game state is uploaded to a PitBoss or HeatAI server for analysis. See [How AI works]({{ '/how-ai-works/' | relative_url }}).
 
 ## Stored locally
 

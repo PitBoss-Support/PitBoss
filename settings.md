@@ -29,11 +29,11 @@ Settings live on the Options page (the toolbar popup's Settings link, or Setting
 
 ## Behaviour {#behaviour}
 
-- **HUD Sections** — show, hide, and reorder every panel section
+- **HUD Sections** — show, hide, and reorder every panel section. Hand and Corner Advisor are off unless you turn them on
 - **Board landing spot marks** — on
 - **Opponent landing lines** — Ahead
 - **Landing lines for humans** — on
-- **Lookahead search** — slower, experimental; a deeper in-browser search after HeatAI's pick that shows its own pick when they disagree. Off by default
+- **Lookahead search (slower)** — a deeper in-browser search after the AI's pick. It shows its own pick when they disagree. On in the current friends-beta build; turn it off here if you do not want it. It runs on your device. See [How AI works]({{ '/how-ai-works/' | relative_url }})
 - **Send crash reports** — off until you say yes
 - **Report webhook URL** — only Google Apps Script addresses are accepted; clearing it stops uploads
 - **Debug Logs** — off. When on, logs to the developer console and keeps the last 15 races locally
@@ -45,7 +45,7 @@ Shows storage use.
 
 **Purge Logs** deletes saved states and logs older than 1, 3, 7, 14, or 30 days, or all of them.
 
-Uninstalling the extension also removes stored data. See the [privacy policy]({{ '/privacy/' | relative_url }}).
+Uninstalling the extension also removes stored data. An update that keeps the same extension ID keeps settings; a different ID, including a sideload, does not. See the [privacy policy]({{ '/privacy/' | relative_url }}).
 
 ## Help {#help}
 
